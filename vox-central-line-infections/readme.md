@@ -1,6 +1,10 @@
 # Central line infection data
 
-Data cleanup and file rendering for a story on vox.com. Messy but reproducible.
+Data cleanup and file rendering for a story on central line infections on vox.com.
+
+A messy but reproducible data workflow for a 
+[map on central line infections](//www.vox.com/a/infections-hospitals-map) accompanying a 
+[feature article on medical harm](//www.vox.com/2015/7/9/8670000/medical-harm-infection-prevention). 
 
 It uses shell scripts, [csvkit](//csvkit.readthedocs.org), and a couple Python 
 scripts because the shell stuff got too out of hand. It's not at all optimized 
@@ -16,7 +20,6 @@ Inspired by [NPR's visual team](//github.com/nprapps/leso).
 ```bash
 $ ./process.sh
 ```
-
 The process script creates a timestamped directory, clones scripts into it, and 
 runs the scripts. (Cloning allowed me to test edits before making adjustments to 
 the master scripts.) 
