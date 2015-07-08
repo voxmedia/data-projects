@@ -13,4 +13,4 @@
 
 # Uncomment render.sh if you want a whole mess 
 # of json files to build a web app.
-./render.sh
+# ./render.sh
