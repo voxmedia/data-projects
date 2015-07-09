@@ -12,6 +12,7 @@ for these scripts because I think it's more accessible than MySQL.
 
 Inspired by [NPR's visual team](//github.com/nprapps/leso).
 
+Your final rendered table should look like [`hospitals_clabsi.csv`](hospitals_clabsi.csv).
 
 ## How to run
 
