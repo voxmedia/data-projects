@@ -1,0 +1,5 @@
+"3 - Results are based on a shorter time period than required., 13 - Results cannot be calculated for this reporting period."
+12 - This measure does not apply to this hospital for this reporting period.
+13 - Results cannot be calculated for this reporting period.
+3 - Results are based on a shorter time period than required.
+5 - Results are not available for this reporting period.

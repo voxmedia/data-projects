@@ -1,7 +1,5 @@
 # Central line infection data
 
-Data cleanup and file rendering for a story on central line infections on vox.com.
-
 A messy but reproducible data workflow for a 
 [map on central line infections](//www.vox.com/a/infections-hospitals-map) accompanying a 
 [feature article on medical harm](//www.vox.com/2015/7/9/8905959/medical-harm-infection-prevention). 
