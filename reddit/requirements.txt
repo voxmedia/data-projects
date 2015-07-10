@@ -1,0 +1,5 @@
+elasticsearch==1.6.0
+gnureadline==6.3.3
+ipython==3.2.0
+urllib3==1.10.4
+wsgiref==0.1.2
