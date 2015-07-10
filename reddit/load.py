@@ -4,7 +4,7 @@ import os
 import sys
 
 if len(sys.argv) < 2:
-    sys.exit('Usage: %s data.json' % sys.argv[0])
+    sys.exit('Usage: %s data.json.bz2' % sys.argv[0])
 
 if not os.path.exists(sys.argv[1]):
     sys.exit('ERROR: File %s was not found!' % sys.argv[1])
