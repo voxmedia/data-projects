@@ -4,7 +4,7 @@ This folder contains a CSV of all companies that have been granted a [333 exempt
 
 Accompanying story on [The Verge](http://www.theverge.com/2015/7/7/8883821/drone-search-engine-faa-approved-commercial-333-exemptions) has an app to search this dataset.
 
-Source: [Center for the Study of the Drone at Bard College](http://dronecenter.bard.edu/)
+Source: [Center for the Study of the Drone at Bard College](http://dronecenter.bard.edu/the-exemptions-database/)
 
 ## Contact
 
