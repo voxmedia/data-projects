@@ -1,2 +1,5 @@
 .DS_Store
 
+reddit/*.json
+reddit/*.bz2
+reddit/elasticsearch/

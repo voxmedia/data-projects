@@ -1,0 +1,7 @@
+path:
+  logs: ${PWD}/elasticsearch/logs
+  data: ${PWD}/elasticsearch/data
+cluster:
+  name: reddit
+node:
+  name: ${HOSTNAME}
