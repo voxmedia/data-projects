@@ -1,11 +1,1 @@
-secondary_filter,bar_categories,all,agriculture,education / research / manufacturer,construction,security / emergency services / insurance,photo and film,real estate,"utility, energy and infrastructure"
-exemptions,September 2014,6,0,0,0,0,6,0,0
-exemptions,October 2014,1,0,1,0,0,0,0,0
-exemptions,November 2014,0,0,0,0,0,0,0,0
-exemptions,December 2014,5,1,2,1,0,0,0,1
-exemptions,January 2015,8,1,0,0,0,5,1,1
-exemptions,February 2015,18,3,0,2,1,7,1,4
-exemptions,March 2015,30,6,1,2,0,3,2,16
-exemptions,April 2015,180,21,25,16,5,46,24,43
-exemptions,May 2015,242,34,23,24,5,65,49,42
-exemptions,June 2015,11,0,0,3,1,3,0,4
+secondary_filter,bar_categories,all,agriculture,education / research / manufacturer,construction,security / emergency services / insurance,photo and film,real estate,"utility, energy and infrastructure"exemptions,Sep-14,6,0,0,0,0,6,0,0exemptions,Oct-14,1,0,1,0,0,0,0,0exemptions,Nov-14,0,0,0,0,0,0,0,0exemptions,Dec-14,5,1,2,1,0,0,0,1exemptions,Jan-15,8,1,0,0,0,5,1,1exemptions,Feb-15,18,3,0,2,1,7,1,4exemptions,Mar-15,30,6,1,2,0,3,2,16exemptions,Apr-15,180,21,25,16,5,46,24,43exemptions,May-15,242,34,23,24,5,65,49,42exemptions,Jun-15,222,24,14,23,11,53,52,45
