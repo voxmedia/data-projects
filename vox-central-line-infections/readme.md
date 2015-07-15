@@ -32,7 +32,6 @@ out what they do.
 
 The datasets on hospitals and healthcare associated infections are in the public domain as part of the U.S. government's open datasets at medicare.gov. Otherwise, the data workflow scripts and resulting central line infection dataset (and its accompanying footnotes list) are licensed as follows:
 
-```
 Copyright (c) 2015, Vox Media, Inc. All rights reserved.
 
 BSD license
@@ -46,11 +45,10 @@ Redistributions in binary form must reproduce the above copyright notice, this l
 Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-```
-
-If you do use the central lines dataset, we'd appreciate [an email](mailto:editorialapps@voxmedia.com) or a link back, but it's not required.
 
 
 ## Contact
 
-Email me at [soo@vox.com](mailto:soo@vox.com).
+If you do use the central lines dataset, we'd appreciate [an email](mailto:editorialapps@voxmedia.com) or a link back, but it's not required.
+
+Email [soo@vox.com](mailto:soo@vox.com) if you have questions about the dataset.
