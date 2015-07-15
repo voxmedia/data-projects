@@ -28,6 +28,11 @@ comment or un-comment based on what you want. You can read the scripts to find
 out what they do.
 
 
+## License
+
+The data on central lines is part of the U.S. government's open datasets at medicare.gov. Do what you like with it. We'd appreciate [an email](mailto:editorialapps@voxmedia.com) or a link back, but it's not required.
+
+
 ## Contact
 
 Email me at [soo@vox.com](mailto:soo@vox.com).
