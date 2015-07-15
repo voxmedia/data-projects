@@ -30,7 +30,7 @@ out what they do.
 
 ## License
 
-The datasets on hospitals and healthcare associated infections are in the public domain as part of the U.S. government's open datasets at medicare.gov. Otherwise, the data workflow scripts and resulting central line infection dataset (and its accompanying footnotes list) are licensed as follows:
+The [datasets on hospitals and healthcare associated infections](//github.com/voxmedia/data-projects/tree/master/vox-central-line-infections/downloads) are in the public domain as part of the U.S. government's open datasets at medicare.gov. Otherwise, the [data workflow scripts](//github.com/voxmedia/data-projects/tree/master/vox-central-line-infections/scripts) that clean up and merge the datasets are licensed as follows:
 
 Copyright (c) 2015, Vox Media, Inc. All rights reserved.
 
