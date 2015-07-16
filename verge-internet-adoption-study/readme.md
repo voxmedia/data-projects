@@ -12,7 +12,7 @@ This folder contains data for each of the 3,143 counties and 2,151 PUMAs (Public
 * County and PUMA names are the text names associated with each county or PUMA.
 
 ## Source
-Data provided and published with permission from the White House Council of Economics Advisers.
+Data provided and published with permission from the White House Council of Economic Advisers.
 
 ## Story
 
