@@ -10,13 +10,13 @@ Accompanying story on [The Verge](http://www.theverge.com/2015/7/7/8883821/drone
 
 ## File Descriptions
 
-### drones-full-address.csv
+#### drones-full-address.csv
 Full, unedited, list of all drone exemptions, with the full address of the company that received the exemption.
 
-### drones-state.csv
+#### drones-state.csv
 Full list of all drone exemptions, except with only the state for location.
 
-### drones-chart-processed.csv
+#### drones-chart-processed.csv
 Contains aggregated totals of drone permits by industry.
 
 ## Contact
