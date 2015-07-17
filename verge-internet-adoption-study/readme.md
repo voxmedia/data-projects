@@ -12,7 +12,7 @@ This folder contains data for each of the 3,143 counties and 2,151 PUMAs (Public
 * County and PUMA names are the text names associated with each county or PUMA.
 
 ## Source
-Data provided and published with permission from the White House Council of Economic Advisers.
+Data provided and published with permission from the [White House Council of Economic Advisers](https://www.whitehouse.gov/administration/eop/cea). Their study titled "Mapping the Digital Divide" is available [here](https://www.whitehouse.gov/sites/default/files/wh_digital_divide_issue_brief.pdf).
 
 ## Story
 
