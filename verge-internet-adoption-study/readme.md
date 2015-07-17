@@ -20,5 +20,5 @@ The Verge story titled "Poverty, more than geography, determines who gets online
 
 ## Contact
 
-Email frank.bi@theverge.com for any questions related to the story or the dataset.
+Email frank.bi@theverge.com for any questions related to the story or use of this dataset.
 
