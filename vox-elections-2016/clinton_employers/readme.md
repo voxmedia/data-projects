@@ -8,7 +8,6 @@ How to (sort of) reproduce the data for [story headline TK](//vox.com)
 
 MySQL, command line skills, and strength for manual data cleaning.
 
-
 ### Instructions
 
 #### Preface
@@ -37,7 +36,9 @@ There are comments in [`clinton_employers.sh`](clinton_employers.sh) if you want
 
 #### Manual data cleanup
 
-Now you're ready for the manual cleaning. If you're comfortable with MySQL, you can dispose of the csv that was exported (`clinton_employers_ready_to_clean.csv`), and update the table with something like this:
+Now you're ready for the manual cleaning. [Here are some more suggestions for company name cleanup.](//www.quora.com/What-are-good-ways-to-clean-up-a-large-collection-of-user-entered-company-names) I had fewer than 10,000 rows to deal with, so I wasn't going to try super complex stuff. 
+
+If you're comfortable with MySQL, you can dispose of the csv that was exported (`clinton_employers_ready_to_clean.csv`), and update the table with something like this:
 
 ```mysql
 ALTER TABLE clinton_employers_grouped
@@ -50,9 +51,34 @@ UPDATE clinton_employers_grouped
 SET employer_cleaning = REPLACE(employer_cleaning, 'LLP', ' ');
 ```
 
-Other keywords you may want to replace: `PLLC`, `INC`, `LLC`, `THE`, `AND COMPANY`, `CO`, `GROUP`, `AND`, `ET AL`, `CO`, `CORPORATE`, `CORPORATION`, `CORP.` and any punctuation (`'`, `,`, `&`, `.`). Be careful of leading and trailing spaces, so `COCA COLA` doesn't get sliced to `CA LA`. [Here are some more suggestions for company name cleanup.](//www.quora.com/What-are-good-ways-to-clean-up-a-large-collection-of-user-entered-company-names) 
+Other keywords you may want to replace: `PLLC`, `INC`, `LLC`, `THE`, `AND COMPANY`, `CO`, `GROUP`, `AND`, `ET AL`, `CO`, `CORPORATE`, `CORPORATION`, `CORP.` and any punctuation (`'`, `,`, `&`, `.`). Be careful of leading and trailing spaces, so `COCA COLA` doesn't get sliced to `CA LA`. I have some suggestions at [`cleanup_ideas.sql`](cleanup_ideas.sql).
 
 I ended up doing what I could in MySQL, then exporting a file to upload to Google Drive so I could share my findings with reporter Jon Allen. We grouped federal departments and agencies as `State Department` or `Federal Government (not State)`. We also did some legwork on identifying donors who listed `Federal government` (or a variant), separating those who worked in the State Department.
 
-Then we ran a pivot table with the information. It's not pretty, but we are confident that the donations over $50,000 are accurate. You can see [our work here](//docs.google.com/spreadsheets/d/167IDgrm5pJR80cKMGygrLMTsdPKwH0VUf36yUMQL6Sk/edit#gid=0).
+Then we ran a pivot table with the information. It's not pretty, but we are confident that the donations over $50,000 are accurate. You can see [our work here](//docs.google.com/spreadsheets/d/167IDgrm5pJR80cKMGygrLMTsdPKwH0VUf36yUMQL6Sk/edit#gid=0) (it's not pretty).
 
+
+## License
+
+FEC data is in the public domain. Otherwise, the data workflow scripts in this folder to clean up and merge the data are licensed as follows:
+
+Copyright (c) 2015, Vox Media, Inc. All rights reserved.
+
+BSD license
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+Neither the name of the copyright holder nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+
+## Contact
+
+If you do use any of the materials here, we'd appreciate [an email](mailto:editorialapps@voxmedia.com) or a link back, but it's not required.
+
+Email [soo@vox.com](mailto:soo@vox.com) if you have questions about the dataset.
