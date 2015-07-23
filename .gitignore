@@ -3,3 +3,4 @@
 reddit/*.json
 reddit/*.bz2
 reddit/elasticsearch/
+dump/*
