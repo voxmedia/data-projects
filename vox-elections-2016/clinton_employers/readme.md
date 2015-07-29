@@ -1,8 +1,6 @@
 # Hillary Clinton's donors by employer
 
-FEC filing date: July 15, 2015
-
-How to (sort of) reproduce the data for [story headline TK](//vox.com).
+How to reproduce the data for [Hillary Clinton gets less Wall Street money than you think](//www.vox.com/2015/7/29/9040091/hillary-clinton-wall-street) (for the FEC filing date of July 15, 2015).
 
 ### Requirements
 
@@ -41,7 +39,9 @@ The end result is a SQL table that groups up employers in descending order of th
 
 #### Manual data cleanup
 
-I provided a list of manually cleaned employers in [`employer_clean.csv`](employer_clean.csv).
+I provided a list of manually cleaned employers in [`employer_clean.csv`](employer_clean.csv) — it's automatically merged into the data tables within [`clean.sh`](clean.sh). So [I kind of lied](#requirements) when I said you were going to do some manual cleanup work. But if you want to check my work, then yes, you will need the strength and fortitude to go through the employer names manually.
+
+[Here's some great reading on cleaning up employer names.](//www.quora.com/What-are-good-ways-to-clean-up-a-large-collection-of-user-entered-company-names)
 
 
 ## License
