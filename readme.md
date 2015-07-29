@@ -15,7 +15,8 @@ Good data projects are an extension of the reporting process that rely on quanti
 - Add information about how to contribute to the project. Also include contribution information for one-off projects that likely will not be updated. Example:
 
 ```
-This project is shared as-is. Bugs, issues, and pull requests may not be readily addressed.
+This project is shared as-is. Bugs, issues, and pull requests may 
+not be readily addressed.
 ```
 
 - List the authors and/or contact information.
