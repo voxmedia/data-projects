@@ -2,7 +2,7 @@
 
 This folder contains aggregated and anonymous data from the Ashley Madison data hack.
 
-Accompanying data story on [The Verge](http://www.theverge.com/2015/8/19/9179037/ashley-madison-data-hack-name-address-phone-birthday/in/8943006)
+Accompanying data story on [The Verge](http://www.theverge.com/2015/8/19/9179037/ashley-madison-data-hack-name-address-phone-birthday/in/8943006) along with descriptions of the other types of data in the set.
 
 ## File Descriptions
 
