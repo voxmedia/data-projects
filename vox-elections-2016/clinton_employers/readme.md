@@ -1,6 +1,6 @@
 # Hillary Clinton's donors by employer
 
-How to reproduce the data for [Hillary Clinton gets less Wall Street money than you think](//www.vox.com/2015/7/29/9040091/hillary-clinton-wall-street) (for the FEC filing date of July 15, 2015).
+How to reproduce the data for [Hillary Clinton gets less Wall Street money than you think](//www.vox.com/2015/7/29/9040091/hillary-clinton-wall-street) (for the FEC filing date of July 15, 2015). I make no claims on performance or efficiency.
 
 
 
