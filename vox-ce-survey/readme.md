@@ -19,7 +19,7 @@ $ ruby jsonify.rb
 
 ## License
 
-The dataset on consumer expenditures is in the public domain. Otherwise, the data workflow scripts that clean up and merge the datasets are licensed as follows:
+The dataset on consumer expenditures is in the public domain. Otherwise, the script that creates the json files is licensed as follows:
 
 Copyright (c) 2015, Vox Media, Inc. All rights reserved.
 
