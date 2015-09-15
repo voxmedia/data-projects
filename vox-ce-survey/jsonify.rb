@@ -9,7 +9,7 @@ def arrayify(column_index)
 
   a = Array.new
 
-  CSV.foreach( 'parent.csv', :headers => true ) do | row |
+  CSV.foreach( 'categories.csv', :headers => true ) do | row |
 
     unless row[column_index].nil?
       # If it's not an empty row
@@ -64,9 +64,9 @@ def arrayify(column_index)
   end
 
   expenditures = Hash.new
-  expenditures['name'] = 'Expenditures';
-  expenditures['item_id'] = 'expenditures';
-  expenditures['children'] = tree.values;
+  expenditures[:name] = 'Expenditures';
+  expenditures[:item_id] = 'expenditures';
+  expenditures[:children] = tree.values;
 
   cjson = expenditures.to_json
   pjson = JSON.pretty_generate(expenditures)

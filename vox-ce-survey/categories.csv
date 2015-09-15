@@ -817,7 +817,7 @@ Public and other transportation,public-and-other-transportation,Intercity train 
 Public and other transportation,public-and-other-transportation,Ship fares,ship-fares,child,5.69,1.25,2.72,87.18,39.64,37.48,10.47,37.13,107.3
 Public and other transportation,public-and-other-transportation,School bus,school-bus,child,b/,b/,b/,0.39,0.89,b/,7.47,1.45,5.78
 ,,,,,,,,,,,,,
-Expenditures,expenditures,Healthcare,healthcare,,"1,568.10","1,299.63","1,821.58","2,815.70","3,123.87","3,538.60","3,709.47","4,702.25","6,416.72"
+Expenditures,expenditures,Health care,healthcare,,"1,568.10","1,299.63","1,821.58","2,815.70","3,123.87","3,538.60","3,709.47","4,702.25","6,416.72"
 ,,,,,,,,,,,,,
 Healthcare,healthcare,Health insurance,health-insurance,,964.25,836.43,"1,198.20","1,830.84","2,116.96","2,494.56","2,563.71","3,060.07","4,289.72"
 ,,,,,,,,,,,,,
@@ -1085,7 +1085,7 @@ Pensions and Social Security,pensions-and-social-security,Deductions for private
 Pensions and Social Security,pensions-and-social-security,Non-payroll deposit to retirement plans,non-payroll-deposit-to-retirement-plans,child,73.1,53.1,191.86,107.15,124.76,182.58,151.04,263.17,"1,316.33"
 Pensions and Social Security,pensions-and-social-security,Deductions for Social Security,deductions-for-social-security,child,81.84,230.26,317.07,534.46,"1,096.73","1,837.28","2,716.92","3,873.43","9,237.69"
 ,,,,,,,,,,,,,
-Expenditures,expenditures,"Gifts of goods and services, total",gifts-of-goods-and-services-total,,563.84,297.69,391.04,412.3,417.06,765.25,670.85,942.9,"1,933.82"
+Expenditures,expenditures,Gifts of goods and services,gifts-of-goods-and-services-total,,563.84,297.69,391.04,412.3,417.06,765.25,670.85,942.9,"1,933.82"
 ,,,,,,,,,,,,,
 "Gifts of goods and services, total",gifts-of-goods-and-services-total,Food,gift-food,child,12.82,21.08,14.21,40.76,30.66,59.14,50.01,58.58,138.72
 "Gifts of goods and services, total",gifts-of-goods-and-services-total,Alcoholic beverages,gift-alcoholic-beverages,child,11.23,0.16,3.18,0.57,1.22,6.53,8.33,13.57,27.12
@@ -1112,7 +1112,7 @@ Other apparel products and services,gift-other-apparel-products-and-services,Jew
 Other apparel products and services,gift-other-apparel-products-and-services,All other apparel products and services,gift-all-other-apparel-products-and-services,child,62.07,30.09,18.49,16.95,9.73,25.18,55.73,39.93,44.3
 ,,,,,,,,,,,,,
 "Gifts of goods and services, total",gifts-of-goods-and-services-total,Transportation,gift-transportation,child,37.89,88.01,16.1,27.76,84.88,123.71,57.98,90.67,179.37
-"Gifts of goods and services, total",gifts-of-goods-and-services-total,Healthcare,gift-healthcare,child,3.84,1.34,99.59,24.45,6.39,6.18,4.9,103.14,31.41
+"Gifts of goods and services, total",gifts-of-goods-and-services-total,Health care,gift-healthcare,child,3.84,1.34,99.59,24.45,6.39,6.18,4.9,103.14,31.41
 "Gifts of goods and services, total",gifts-of-goods-and-services-total,Entertainment,gift-entertainment,,46.06,30.57,40.18,25.18,35.77,48.84,57.26,85.51,161.95
 ,,,,,,,,,,,,,
 Entertainment,gift-entertainment,"Toys, games, arts and crafts, and tricycles*",gift-toys-games-arts-and-crafts-and-tricycles,child,19.04,4.11,24.42,14.75,17.79,4.66,26.79,29.46,44.41
