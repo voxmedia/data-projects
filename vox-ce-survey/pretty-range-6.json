@@ -5143,7 +5143,7 @@
     },
     {
       "item_id": "healthcare",
-      "name": "Healthcare",
+      "name": "Health care",
       "children": [
         {
           "item_id": "health-insurance",
@@ -7000,7 +7000,7 @@
     },
     {
       "item_id": "gifts-of-goods-and-services-total",
-      "name": "Gifts of goods and services, total",
+      "name": "Gifts of goods and services",
       "children": [
         {
           "item_id": "gift-food",
@@ -7158,7 +7158,7 @@
         },
         {
           "item_id": "gift-healthcare",
-          "name": "Healthcare",
+          "name": "Health care",
           "parent_id": "gifts-of-goods-and-services-total",
           "value": 1.34,
           "children": [
