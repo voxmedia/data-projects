@@ -2,6 +2,7 @@
 
 import re
 import csv
+import sys
 import time
 import datetime
 from operator import itemgetter
@@ -120,11 +121,14 @@ def getCounts(data):
 
 if __name__ == "__main__":
 
-	all_by_month = getDataByMonth("drones-full-aug-2015.csv")
+	input_file = sys.argv[1]
+	output_file = sys.argv[2]
+
+	all_by_month = getDataByMonth("../" + input_file)
 
 	tallied_categorized_by_month = getCounts(all_by_month)
 
-	csv_w = csv.writer(open("drones-chart-processed.csv", "w"))
+	csv_w = csv.writer(open("../" + output_file, "w"))
 
 	# write spreadsheet header
 	csv_w.writerow(["secondary_filter", "bar_categories", "all", "agriculture", "conservation", "construction", "education", "emergency", "government", "infrastructure", "insurance", "manufacturer", "other", "photo", "real estate", "research", "scientific", "utilities"])
