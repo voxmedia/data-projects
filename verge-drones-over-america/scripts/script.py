@@ -8,6 +8,7 @@ def getVariousApplications(file_name, kw):
 	next(f)
 
 	for row in csv.reader(f):
+		del row[-1]
 		keyword_list = []
 		descrip_string = row[2]
 		for word in kw:
