@@ -1,0 +1,1124 @@
+parent,parent_id,Item,item_id,child,"Less than $5,000","$5,000 to $9,999","$10,000 to $14,999","$15,000 to $19,999","$20,000 to $29,999","$30,000 to $39,999","$40,000 to $49,999","$50,000 to $69,999","$70,000 and more"
+Expenditures,expenditures,Food,food,,"3,617.81","3,314.44","3,473.08","3,939.20","4,432.49","5,194.14","5,935.88","6,485.87","10,116.15"
+,,,,,,,,,,,,,
+Food,food,Food at home,food-at-home,,"2,390.48","2,305.38","2,470.21","2,646.57","2,951.47","3,338.71","3,688.43","3,925.18","5,427.17"
+,,,,,,,,,,,,,
+Food at home,food-at-home,Cereals and bakery products*,cereals-and-bakery-products,,305.52,298.36,354.32,377.2,385.39,443.95,485.79,502.58,699.65
+,,,,,,,,,,,,,
+Cereals and bakery products*,cereals-and-bakery-products,Cereals and cereal products*,cereals-and-cereal-products,,114.93,112.97,133.44,133.18,132.25,153.11,164.3,163.54,233.5
+,,,,,,,,,,,,,
+Cereals and cereal products*,cereals-and-cereal-products,Flour*,flour,child,8.96,6.13,5.84,12.03,9.68,10.39,8.78,9.46,11.59
+Cereals and cereal products*,cereals-and-cereal-products,Prepared flour mixes*,prepared-flour-mixes,child,5.14,5.37,10.1,10.27,9.46,11.6,10.48,11.2,18.9
+Cereals and cereal products*,cereals-and-cereal-products,Ready-to-eat and cooked cereals*,ready-to-eat-and-cooked-cereals,child,57.7,60.18,74.19,65.37,66.34,82.04,84.7,86.52,117.87
+Cereals and cereal products*,cereals-and-cereal-products,Rice*,rice,child,19.75,16.73,18.3,23.29,21.72,22.51,28.39,22.06,32.31
+Cereals and cereal products*,cereals-and-cereal-products,"Pasta, cornmeal and other cereal products*",pasta-cornmeal-and-other-cereal-products,child,23.37,24.58,25,22.21,25.04,26.56,31.96,34.3,52.83
+,,,,,,,,,,,,,
+Cereals and bakery products*,cereals-and-bakery-products,Bakery products*,bakery-products,,190.59,185.39,220.88,244.02,253.14,290.84,321.49,339.04,466.15
+,,,,,,,,,,,,,
+Bakery products*,bakery-products,Bread*,bread,,61,56.83,71.42,66.71,81.9,92.31,95.45,101.78,136.89
+,,,,,,,,,,,,,
+Bread*,bread,White bread*,white-bread,child,30.06,24.51,34.19,28.11,34.51,39.3,38.86,42.62,53.82
+Bread*,bread,"Bread, other than white*",bread-other-than-white,child,30.94,32.32,37.22,38.6,47.38,53.01,56.59,59.17,83.07
+,,,,,,,,,,,,,
+Bakery products*,bakery-products,Cookies and crackers*,cookies-and-crackers,,46.8,44.36,54.65,64.79,56.78,72.43,73.65,83.56,115.65
+,,,,,,,,,,,,,
+Cookies and crackers*,cookies-and-crackers,Cookies*,cookies,child,26.22,25.87,29.74,35.52,30.51,42.11,43.16,47.43,64.14
+Cookies and crackers*,cookies-and-crackers,Crackers*,crackers,child,20.59,18.49,24.91,29.27,26.28,30.32,30.49,36.13,51.52
+,,,,,,,,,,,,,
+Bakery products*,bakery-products,Frozen and refrigerated bakery products*,frozen-and-refrigerated-bakery-products,child,13.6,13.2,17.73,19.75,19.69,21.77,25.84,25.85,37.29
+Bakery products*,bakery-products,Other bakery products*,other-bakery-products,,69.19,71,77.09,92.77,94.77,104.33,126.55,127.85,176.32
+,,,,,,,,,,,,,
+Other bakery products*,other-bakery-products,Biscuits and rolls*,biscuits-and-rolls,child,24.34,27.73,26.68,34.55,38.72,40.56,47.92,51.75,71.4
+Other bakery products*,other-bakery-products,Cakes and cupcakes*,cakes-and-cupcakes,child,20.4,17.08,20.28,21.5,19.87,23.83,30.09,29.62,46.46
+Other bakery products*,other-bakery-products,Bread and cracker products*,bread-and-cracker-products,child,4.84,6.47,3.71,4.92,4.57,3.51,7.22,6.94,9.29
+Other bakery products*,other-bakery-products,"Sweetrolls, coffee cakes, doughnuts*",sweetrolls-coffee-cakes-doughnuts,child,9.04,10.87,17.54,20.93,19.85,23.94,25.55,25.83,29.63
+Other bakery products*,other-bakery-products,"Pies, tarts, turnovers*",pies-tarts-turnovers,child,10.57,8.85,8.88,10.87,11.75,12.49,15.77,13.7,19.54
+,,,,,,,,,,,,,
+Food at home,food-at-home,"Meats, poultry, fish, and eggs*",meats-poultry-fish-and-eggs,,577.22,535.86,582.09,569.93,710.23,754.77,832.95,897.89,"1,185.38"
+,,,,,,,,,,,,,
+"Meats, poultry, fish, and eggs*",meats-poultry-fish-and-eggs,Beef*,beef,,121.85,137.8,132.48,136.6,206.34,187.4,223.45,238.71,307.77
+,,,,,,,,,,,,,
+Beef*,beef,Ground beef*,ground-beef,child,68.12,69.65,70.32,67.31,91.75,95.77,98.5,101.84,117.19
+Beef*,beef,Roast*,roast,,11.22,14.86,16.5,17.81,16.49,19.98,36.95,34.57,44.16
+,,,,,,,,,,,,,
+Roast*,roast,Chuck roast*,chuck-roast,child,1.59,5.94,7.32,4.03,5.75,4.19,13.46,11.94,15.16
+Roast*,roast,Round roast*,round-roast,child,2.93,3.97,3.27,4.22,2.99,6.02,3.98,4.93,6.33
+Roast*,roast,Other roast*,other-roast,child,6.7,4.96,5.91,9.56,7.75,9.77,19.51,17.7,22.67
+,,,,,,,,,,,,,
+Beef*,beef,Steak*,steak,,35.69,41.55,36.24,43.26,70.54,57.2,70.44,84.77,115.23
+,,,,,,,,,,,,,
+Steak*,steak,Round steak*,round-steak,child,6.71,8.06,9.61,6.87,22.58,14.2,16.31,21.37,26.15
+Steak*,steak,Sirloin steak*,sirloin-steak,child,12.24,10.61,10.02,13.01,17.03,11.01,25.96,27.43,36.3
+Steak*,steak,Other steak*,other-steak,child,16.74,22.89,16.61,23.38,30.93,31.99,28.17,35.98,52.78
+,,,,,,,,,,,,,
+Beef*,beef,Other beef*,other-beef,child,6.82,11.74,9.41,8.23,27.56,14.46,17.55,17.53,31.18
+,,,,,,,,,,,,,
+"Meats, poultry, fish, and eggs*",meats-poultry-fish-and-eggs,Pork*,pork,,112.96,109.15,123.3,116.74,134.68,165.53,155.6,183.24,230.54
+,,,,,,,,,,,,,
+Pork*,pork,Bacon*,bacon,child,17.06,32.44,27.79,29.09,32.44,36.47,36.03,44.15,56.05
+Pork*,pork,Pork chops*,pork-chops,child,22.65,16.21,18.4,20.88,21.77,28.72,24.07,27.61,36.6
+Pork*,pork,Ham*,ham,,18.08,23.61,24.47,21.24,23.64,34.64,27.92,35.12,41.62
+,,,,,,,,,,,,,
+Ham*,ham,"Ham, not canned*",ham-not-canned,child,18.06,23.61,24.18,19.6,23.64,34.51,26.09,32.6,40.02
+Ham*,ham,Canned ham*,canned-ham,child,0.01,b/,0.29,1.64,b/,0.14,1.83,2.52,1.6
+,,,,,,,,,,,,,
+Pork*,pork,Sausage*,sausage,child,22.77,17.49,27.65,20.84,24.13,31.69,31.56,37.97,44.93
+Pork*,pork,Other pork*,other-pork,child,32.41,19.4,24.99,24.69,32.7,34.01,36.02,38.38,51.34
+,,,,,,,,,,,,,
+"Meats, poultry, fish, and eggs*",meats-poultry-fish-and-eggs,Other meats*,other-meats,,81.6,63.42,75.47,84.47,89.1,96.84,110.68,129.46,167.92
+,,,,,,,,,,,,,
+Other meats*,other-meats,Frankfurters*,frankfurters,child,18.19,16.05,19.19,22.18,19.27,23.63,25.93,29.29,29.66
+Other meats*,other-meats,Lunch meats (cold cuts)*,lunch-meats-(cold-cuts),,57.36,44.36,51.96,57.51,63.81,67.05,79.4,94.71,123.98
+,,,,,,,,,,,,,
+Lunch meats (cold cuts)*,lunch-meats-(cold-cuts),"Bologna, liverwurst, salami*",bologna-liverwurst-salami,child,20.71,15.91,18.98,18.1,20.41,21.87,22.88,30.2,35.12
+Lunch meats (cold cuts)*,lunch-meats-(cold-cuts),Other lunchmeats*,other-lunchmeats,child,36.66,28.45,32.98,39.42,43.4,45.17,56.53,64.51,88.86
+,,,,,,,,,,,,,
+Other meats*,other-meats,"Lamb, organ meats and others*",lamb-organ-meats-and-others,,6.05,3.01,4.32,4.78,6.01,6.17,5.35,5.46,14.27
+,,,,,,,,,,,,,
+"Lamb, organ meats and others*",lamb-organ-meats-and-others,Lamb and organ meats*,lamb-and-organ-meats,child,2.11,1.51,4.32,3.72,3.72,5.7,4.57,5.11,8.45
+"Lamb, organ meats and others*",lamb-organ-meats-and-others,"Mutton, goat and game*",mutton-goat-and-game,child,3.93,1.5,b/,1.06,2.29,0.46,0.78,0.35,5.82
+,,,,,,,,,,,,,
+"Meats, poultry, fish, and eggs*",meats-poultry-fish-and-eggs,Poultry*,poultry,,124.15,112.43,134.28,111.63,145.29,152.69,169.78,159.39,222.51
+,,,,,,,,,,,,,
+Poultry*,poultry,Fresh and frozen chickens*,fresh-and-frozen-chickens,,107.53,97.67,112.07,97.47,125.02,132.69,144.32,124.73,173.06
+,,,,,,,,,,,,,
+Fresh and frozen chickens*,fresh-and-frozen-chickens,Fresh and frozen whole chicken*,fresh-and-frozen-whole-chicken,child,33.84,30.3,28.07,25.28,40.62,45.86,42.63,40.6,55.13
+Fresh and frozen chickens*,fresh-and-frozen-chickens,Fresh and frozen chicken parts*,fresh-and-frozen-chicken-parts,child,73.69,67.37,83.99,72.19,84.4,86.83,101.68,84.13,117.93
+,,,,,,,,,,,,,
+Poultry*,poultry,Other poultry*,other-poultry,child,16.62,14.76,22.21,14.16,20.27,20,25.47,34.66,49.45
+,,,,,,,,,,,,,
+"Meats, poultry, fish, and eggs*",meats-poultry-fish-and-eggs,Fish and seafood*,fish-and-seafood,,94.02,79.48,72.29,77.16,85.72,99.67,116.25,126.51,185.02
+,,,,,,,,,,,,,
+Fish and seafood*,fish-and-seafood,Canned fish and seafood*,canned-fish-and-seafood,child,14.34,12.63,13.12,14.56,14.32,16.05,22.13,18.36,23.28
+Fish and seafood*,fish-and-seafood,Fresh fish and shellfish*,fresh-fish-and-shellfish,child,55.55,37.78,28.27,34.04,38.15,48.66,59.29,60.77,103.59
+Fish and seafood*,fish-and-seafood,Frozen fish and shellfish*,frozen-fish-and-shellfish,child,24.13,29.08,30.9,28.56,33.24,34.96,34.83,47.38,58.15
+,,,,,,,,,,,,,
+"Meats, poultry, fish, and eggs*",meats-poultry-fish-and-eggs,Eggs*,eggs,child,42.65,33.58,44.26,43.33,49.11,52.64,57.18,60.58,71.62
+,,,,,,,,,,,,,
+Food at home,food-at-home,Dairy products*,dairy-products,,245.49,238.64,262.44,297.95,312.58,337.01,415.53,438.61,568.27
+,,,,,,,,,,,,,
+Dairy products*,dairy-products,Fresh milk and cream*,fresh-milk-and-cream,,89.72,90.15,108.13,118.6,120.46,125.8,144.9,155.15,183.07
+,,,,,,,,,,,,,
+Fresh milk and cream*,fresh-milk-and-cream,"Fresh milk, all types*",fresh-milk-all-types,child,78.73,82.54,96.25,104.59,107.11,110.46,120.61,130.03,153.96
+Fresh milk and cream*,fresh-milk-and-cream,Cream*,cream,child,10.99,7.61,11.88,14,13.34,15.33,24.29,25.11,29.11
+,,,,,,,,,,,,,
+Dairy products*,dairy-products,Other dairy products*,other-dairy-products,,155.77,148.49,154.31,179.36,192.13,211.21,270.63,283.46,385.2
+,,,,,,,,,,,,,
+Other dairy products*,other-dairy-products,Butter*,butter,child,15,11.2,18.98,16.77,21.15,25.2,28.23,24.78,35.94
+Other dairy products*,other-dairy-products,Cheese*,cheese,child,70.82,59.17,74.06,81.92,89.96,103.26,134.98,138.19,194.48
+Other dairy products*,other-dairy-products,Ice cream and related products*,ice-cream-and-related-products,child,38.63,41.82,33.48,48.73,44.03,42.23,54.9,58.71,70.79
+Other dairy products*,other-dairy-products,Miscellaneous dairy products*,miscellaneous-dairy-products,child,31.32,36.3,27.79,31.94,36.99,40.53,52.52,61.79,83.99
+,,,,,,,,,,,,,
+Food at home,food-at-home,Fruits and vegetables*,fruits-and-vegetables,,457.99,406.37,428.93,480.26,556.82,627.22,705.81,733.78,"1,054.80"
+,,,,,,,,,,,,,
+Fruits and vegetables*,fruits-and-vegetables,Fresh fruits*,fresh-fruits,,152.64,132.15,144.06,156.07,196.45,223.9,249.38,257.33,398
+,,,,,,,,,,,,,
+Fresh fruits*,fresh-fruits,Apples*,apples,child,24.89,17.26,23.18,23.95,28.37,32.68,36.08,41.73,62.86
+Fresh fruits*,fresh-fruits,Bananas*,bananas,child,21.77,27.49,28.32,30.41,31.6,39.94,41.92,37.92,59.97
+Fresh fruits*,fresh-fruits,Oranges*,oranges,child,17.3,8.23,10.61,16.94,21.9,25.33,24.51,26.75,41.1
+Fresh fruits*,fresh-fruits,"Citrus fruits, excluding oranges*",citrus-fruits-excluding-oranges,child,30.64,20.16,22.92,22.9,30.91,39.5,40.89,40.13,57.71
+Fresh fruits*,fresh-fruits,Other fresh fruits*,other-fresh-fruits,child,58.03,59.01,59.02,61.87,83.67,86.46,105.97,110.8,176.37
+,,,,child,,,,,,,,,
+Fruits and vegetables*,fruits-and-vegetables,Fresh vegetables*,fresh-vegetables,,145.69,134.55,129.19,156.91,173.68,191.63,231.19,232.07,337.66
+,,,,,,,,,,,,,
+Fresh vegetables*,fresh-vegetables,Potatoes*,potatoes,child,24.74,27.3,21.54,32.24,30.09,29.99,36.6,39.11,52.59
+Fresh vegetables*,fresh-vegetables,Lettuce*,lettuce,child,16.47,18.08,18.09,22.33,23.81,27.65,30.97,33.22,45.85
+Fresh vegetables*,fresh-vegetables,Tomatoes*,tomatoes,child,22.9,27.32,24.59,26.48,30.78,35.44,42.3,38.64,54.63
+Fresh vegetables*,fresh-vegetables,Other fresh vegetables*,other-fresh-vegetables,child,81.58,61.86,64.97,75.86,89,98.55,121.33,121.1,184.6
+,,,,,,,,,,,,,
+Fruits and vegetables*,fruits-and-vegetables,Processed fruits*,processed-fruits,,76.91,59.14,64.9,70.22,83.27,88.14,102.58,113.04,145.5
+,,,,,,,,,,,,,
+Processed fruits*,processed-fruits,Frozen fruits and fruit juices*,frozen-fruits-and-fruit-juices,,11.42,5.33,5.85,6.38,7.37,8.21,13.24,13.44,15.96
+,,,,,,,,,,,,,
+Frozen fruits and fruit juices*,frozen-fruits-and-fruit-juices,Frozen orange juice*,frozen-orange-juice,child,1.43,2.17,1.57,1.3,0.66,1.02,2.12,2.94,2.38
+Frozen fruits and fruit juices*,frozen-fruits-and-fruit-juices,Frozen fruits*,frozen-fruits,child,6.6,2.25,2.49,3.82,5.07,5.14,8.56,7.66,10.07
+Frozen fruits and fruit juices*,frozen-fruits-and-fruit-juices,Frozen fruit juices*,frozen-fruit-juices,child,3.39,0.9,1.79,1.26,1.64,2.05,2.55,2.85,3.51
+,,,,,,,,,,,,,
+Processed fruits*,processed-fruits,Canned fruits*,canned-fruits,child,9.28,8.12,11.74,11.16,13.7,15.27,19.38,18.67,26.06
+Processed fruits*,processed-fruits,Dried fruit*,dried-fruit,child,4.23,4.25,5.73,5.32,5.2,7.41,6.52,6.61,10.99
+Processed fruits*,processed-fruits,Fresh fruit juice*,fresh-fruit-juice,child,5.8,8.51,6.39,10.23,12.24,10.37,15.78,16.88,22.53
+Processed fruits*,processed-fruits,Canned and bottled fruit juice*,canned-and-bottled-fruit-juice,child,46.18,32.93,35.19,37.12,44.76,46.89,47.66,57.44,69.96
+,,,,,,,,,,,,,
+Fruits and vegetables*,fruits-and-vegetables,Processed vegetables*,processed-vegetables,,82.75,80.52,90.78,97.07,103.42,123.53,122.66,131.34,173.63
+,,,,,,,,,,,,,
+Processed vegetables*,processed-vegetables,Frozen vegetables*,frozen-vegetables,child,22.45,25.95,25.24,20.85,24.01,36.16,30.61,33.5,48.67
+Processed vegetables*,processed-vegetables,Canned and dried vegetables and juices*,canned-and-dried-vegetables-and-juices,,60.3,54.57,65.54,76.22,79.41,87.37,92.04,97.84,124.97
+,,,,,,,,,,,,,
+Canned and dried vegetables and juices*,canned-and-dried-vegetables-and-juices,Canned beans*,canned-beans,child,16.8,14.74,16.88,19.41,20.12,24.58,20.09,25.62,30.66
+Canned and dried vegetables and juices*,canned-and-dried-vegetables-and-juices,Canned corn*,canned-corn,child,6.86,5.87,8.45,10.84,10.09,10.54,11.73,10.56,15.86
+Canned and dried vegetables and juices*,canned-and-dried-vegetables-and-juices,Canned miscellaneous vegetables*,canned-miscellaneous-vegetables,child,12.78,12,16.58,17.68,20.18,20.42,19.92,23.98,31.99
+Canned and dried vegetables and juices*,canned-and-dried-vegetables-and-juices,Dried peas*,dried-peas,child,0.65,b/,0.69,0.39,0.71,0.67,0.24,0.25,0.5
+Canned and dried vegetables and juices*,canned-and-dried-vegetables-and-juices,Dried beans*,dried-beans,child,4.89,0.97,3.58,5.61,3.8,5.82,5.8,6.38,6.48
+Canned and dried vegetables and juices*,canned-and-dried-vegetables-and-juices,Dried miscellaneous vegetables*,dried-miscellaneous-vegetables,child,6.93,6.94,7.09,8.62,10.64,10.26,10.58,9.91,14.32
+Canned and dried vegetables and juices*,canned-and-dried-vegetables-and-juices,Dried processed vegetables*,dried-processed-vegetables,child,0.16,0.48,b/,b/,0.82,0.4,0.24,0.41,0.65
+Canned and dried vegetables and juices*,canned-and-dried-vegetables-and-juices,Frozen vegetable juices*,frozen-vegetable-juices,child,0.08,1.9,0.14,0.01,0.09,0.63,0.56,0.27,0.41
+Canned and dried vegetables and juices*,canned-and-dried-vegetables-and-juices,Fresh and canned vegetable juices*,fresh-and-canned-vegetable-juices,child,11.14,11.65,12.12,13.66,12.96,14.05,22.9,20.46,24.1
+,,,,,,,,,,,,,
+Food at home,food-at-home,Other food at home*,other-food-at-home,,804.27,826.14,842.44,921.23,986.44,"1,175.76","1,248.36","1,352.32","1,919.07"
+,,,,,,,,,,,,,
+Other food at home*,other-food-at-home,Sugar and other sweets*,sugar-and-other-sweets,,84.02,79.96,92.27,90.83,102.39,132.08,135.34,124.79,189.57
+,,,,,,,,,,,,,
+Sugar and other sweets*,sugar-and-other-sweets,Candy and chewing gum*,candy-and-chewing-gum,child,48.8,45.99,51.16,53.38,59,82.76,85.85,76.37,126.2
+Sugar and other sweets*,sugar-and-other-sweets,Sugar*,sugar,child,15.7,18.74,15.59,17.67,18.17,23.42,22.97,17.14,22.68
+Sugar and other sweets*,sugar-and-other-sweets,Artificial sweeteners*,artificial-sweeteners,child,4.19,4.01,0.66,2.94,2.07,4.72,3.06,4.3,4.92
+Sugar and other sweets*,sugar-and-other-sweets,"Jams, preserves, other sweets*",jams-preserves-other-sweets,child,15.34,11.21,24.86,16.84,23.15,21.18,23.45,26.98,35.76
+,,,,,,,,,,,,,
+Other food at home*,other-food-at-home,Fats and oils*,fats-and-oils,,82.16,66.56,81.88,87.42,82.83,103.74,103.57,109.53,152.91
+,,,,,,,,,,,,,
+Fats and oils*,fats-and-oils,Margarine*,margarine,child,5.73,5.26,5.85,5.89,5.47,6.2,4.77,7.96,8.57
+Fats and oils*,fats-and-oils,Fats and oils*,fats-and-oils-i,child,28.54,16.16,27.99,32.31,24.84,36.42,36.49,33.86,45.17
+Fats and oils*,fats-and-oils,Salad dressings*,salad-dressings,child,18.24,20.49,21.46,18.97,23.74,27.22,27.4,29.09,38.28
+Fats and oils*,fats-and-oils,Nondairy cream and imitation milk*,nondairy-cream-and-imitation-milk,child,9.68,9.9,12.15,17.06,15.46,19.63,19.95,22.86,31.95
+Fats and oils*,fats-and-oils,Peanut butter*,peanut-butter,child,19.98,14.74,14.43,13.19,13.32,14.28,14.97,15.76,28.94
+,,,,,,,,,,,,,
+Other food at home*,other-food-at-home,Miscellaneous foods*,miscellaneous-foods,,405.02,421.21,411.07,457.51,484.8,577.9,640.98,674.52,992.37
+,,,,,,,,,,,,,
+Miscellaneous foods*,miscellaneous-foods,Frozen prepared foods*,frozen-prepared-foods,,72.91,94.11,93.36,98.15,85.23,121.36,113.66,131.49,169.77
+,,,,,,,,,,,,,
+Frozen prepared foods*,frozen-prepared-foods,Frozen meals*,frozen-meals,child,27.07,45.67,39.13,46.3,37.41,57.39,47.26,55.95,76.04
+Frozen prepared foods*,frozen-prepared-foods,Other frozen prepared foods*,other-frozen-prepared-foods,child,45.84,48.45,54.23,51.85,47.82,63.98,66.41,75.54,93.73
+,,,,,,,,,,,,,
+Miscellaneous foods*,miscellaneous-foods,Canned and packaged soups*,canned-and-packaged-soups,child,35.34,24.55,28.02,29.07,36.53,39.03,47.51,40.99,62.74
+Miscellaneous foods*,miscellaneous-foods,"Potato chips, nuts, and other snacks*",potato-chips-nuts-and-other-snacks,,92.07,90.09,85.72,95.41,112.55,127.52,150.05,160.21,231.35
+,,,,,,,,,,,,,
+"Potato chips, nuts, and other snacks*",potato-chips-nuts-and-other-snacks,Potato chips and other snacks*,potato-chips-and-other-snacks,child,67.4,70.5,67.42,65.81,80.9,91.6,111.26,118.48,159.19
+"Potato chips, nuts, and other snacks*",potato-chips-nuts-and-other-snacks,Nuts*,nuts,child,24.67,19.59,18.31,29.6,31.65,35.92,38.79,41.73,72.15
+,,,,,,,,,,,,,
+Miscellaneous foods*,miscellaneous-foods,Condiments and seasonings*,condiments-and-seasonings,,79.94,55.27,71.81,87.79,92.93,105.68,133.29,131.24,190.65
+,,,,,,,,,,,,,
+Condiments and seasonings*,condiments-and-seasonings,"Salt, spices, other seasonings*",salt-spices-other-seasonings,child,27.76,17.86,20.46,25.46,25.77,30.86,44.64,32.65,52.11
+Condiments and seasonings*,condiments-and-seasonings,"Olives, pickles, relishes*",olives-pickles-relishes,child,10.62,5.22,8.67,11.64,11.19,11.37,13.76,16.8,21.8
+Condiments and seasonings*,condiments-and-seasonings,Sauces and gravies*,sauces-and-gravies,child,32.37,23.16,32.91,35.49,40.23,45.61,51.09,59.85,85.05
+Condiments and seasonings*,condiments-and-seasonings,Baking needs and miscellaneous products*,baking-needs-and-miscellaneous-products,child,9.19,9.04,9.77,15.2,15.74,17.83,23.81,21.95,31.7
+,,,,,,,,,,,,,
+Miscellaneous foods*,miscellaneous-foods,Other canned and packaged prepared foods*,other-canned-and-packaged-prepared-foods,,124.76,157.18,132.16,147.09,157.55,184.31,196.46,210.6,337.86
+,,,,,,,,,,,,,
+Other canned and packaged prepared foods*,other-canned-and-packaged-prepared-foods,Prepared salads*,prepared-salads,child,17.62,25.37,18.41,27.74,23.61,30.54,27.96,40.62,57.73
+Other canned and packaged prepared foods*,other-canned-and-packaged-prepared-foods,Prepared desserts*,prepared-desserts,child,7.7,12.07,12.85,16.07,11.95,14.1,15.62,14.66,19.25
+Other canned and packaged prepared foods*,other-canned-and-packaged-prepared-foods,Baby food*,baby-food,child,23.78,39.64,14.72,11.07,19.95,15.19,21.58,13.69,34.57
+Other canned and packaged prepared foods*,other-canned-and-packaged-prepared-foods,Miscellaneous prepared foods*,miscellaneous-prepared-foods,child,75.66,80.09,86.18,91.27,102.04,124.49,131.31,141.63,226.31
+Other canned and packaged prepared foods*,other-canned-and-packaged-prepared-foods,Vitamin supplements*,vitamin-supplements,child,b/,b/,b/,0.94,b/,b/,b/,b/,b/
+,,,,,,,,,,,,,
+Other food at home*,other-food-at-home,Nonalcoholic beverages*,nonalcoholic-beverages,,223.54,245.3,245.17,273.94,294.79,322.47,331.3,396.61,487.63
+,,,,,,,,,,,,,
+Nonalcoholic beverages*,nonalcoholic-beverages,Cola*,cola,child,45.07,50.3,50.71,50.74,55.94,67.83,61.04,74.85,78.15
+Nonalcoholic beverages*,nonalcoholic-beverages,Other carbonated drinks*,other-carbonated-drinks,child,40.54,48.87,51.2,50.45,51.62,55.06,65.13,71.08,80.2
+Nonalcoholic beverages*,nonalcoholic-beverages,Tea*,tea,child,17.07,26.32,20.9,26.32,22.96,29.76,37.89,38,46.42
+Nonalcoholic beverages*,nonalcoholic-beverages,Coffee*,coffee,,45.65,37.72,48.41,54.33,69.15,72.78,77.16,96.87,124.97
+,,,,,,,,,,,,,
+Coffee*,coffee,Roasted coffee*,roasted-coffee,child,25.17,18.95,29.51,32.28,42.12,44.52,46.63,63,86.6
+Coffee*,coffee,Instant and freeze dried coffee*,instant-and-freeze-dried-coffee,child,20.48,18.77,18.91,22.06,27.03,28.25,30.53,33.87,38.38
+,,,,,,,,,,,,,
+Nonalcoholic beverages*,nonalcoholic-beverages,"Noncarbonated fruit flavored drinks, including non-frozen lemonade*",noncarbonated-fruit-flavored-drinks-including-non-frozen-lemonade,child,14.66,18.02,15.05,20.23,24.91,19.82,19.54,23.3,32.78
+Nonalcoholic beverages*,nonalcoholic-beverages,Other noncarbonated beverages and ice*,other-noncarbonated-beverages-and-ice,child,9.29,8.12,10.73,13.17,9.75,12.52,10.56,16.92,19.29
+Nonalcoholic beverages*,nonalcoholic-beverages,Bottled water*,bottled-water,child,39.59,40.56,36.45,49.47,48.29,49.89,46.25,59.93,81.34
+Nonalcoholic beverages*,nonalcoholic-beverages,Sports drinks*,sports-drinks,child,11.66,15.39,11.71,9.23,12.18,14.75,13.73,15.66,24.36
+Nonalcoholic beverages*,nonalcoholic-beverages,Nonalcoholic beer*,nonalcoholic-beer,child,b/,b/,b/,b/,b/,0.06,b/,b/,0.13
+,,,,,,,,,,,,,
+Other food at home*,other-food-at-home,Food prepared by consumer unit on out-of-town trips,food-prepared-by-consumer-unit-on-out-of-town-trips,child,9.52,13.12,12.05,11.54,21.64,39.57,37.16,46.88,96.59
+,,,,,,,,,,,,,
+Food,food,Food away from home,food-away-from-home,,"1,227.33","1,009.07","1,002.87","1,292.63","1,481.03","1,855.44","2,247.45","2,560.69","4,688.98"
+,,,,,,,,,,,,,
+Food away from home,food-away-from-home,"Meals at restaurants, carry outs and other*",meals-at-restaurants-carry-outs-and-other,,"1,108.97",901.63,887.75,"1,152.78","1,324.09","1,643.34","1,998.73","2,245.97","3,849.77"
+,,,,,,,,,,,,,
+"Meals at restaurants, carry outs and other*",meals-at-restaurants-carry-outs-and-other,Lunch*,lunch,,344.04,333.93,319.74,367.04,469.39,574,619.91,755.22,"1,221.14"
+,,,,,,,,,,,,,
+Lunch*,lunch,"Lunch at fast food, take-out, delivery, concession stands, buffet and cafeteria (other than employer and school cafeteria)*",lunch-at-fast-food-take-out-delivery-concession-stands-buffet-and-cafeteria-(other-than-employer-and-school-cafeteria),child,195.15,199.81,185.43,212.85,243.61,295.59,335.16,377.97,560.75
+Lunch*,lunch,Lunch at full service restaurants*,lunch-at-full-service-restaurants,child,130.3,104.06,114.79,136.41,192.69,214.92,232.26,307.4,512.69
+Lunch*,lunch,Lunch at vending machines and mobile vendors*,lunch-at-vending-machines-and-mobile-vendors,child,3.06,7.09,6.75,3.76,7.18,19.77,8.76,11.03,12.29
+Lunch*,lunch,Lunch at employer and school cafeterias*,lunch-at-employer-and-school-cafeterias,child,15.53,22.96,12.77,14.03,25.91,43.72,43.73,58.82,135.41
+,,,,,,,,,,,,,
+"Meals at restaurants, carry outs and other*",meals-at-restaurants-carry-outs-and-other,Dinner*,dinner,,538.9,379.98,380.19,541.73,573.51,741.33,965.45,"1,036.30","1,944.13"
+,,,,,,,,,,,,,
+Dinner*,dinner,"Dinner at fast food, take-out, delivery, concession stands, buffet and cafeteria (other than employer and school cafeteria)*",dinner-at-fast-food-take-out-delivery-concession-stands-buffet-and-cafeteria-(other-than-employer-and-school-cafeteria),child,238.85,193.96,184.87,187.32,217.54,329.34,349.68,424.65,562.64
+Dinner*,dinner,Dinner at full service restaurants*,dinner-at-full-service-restaurants,child,291.34,166.37,190.67,350.74,349.19,400.15,608.4,601.31,"1,369.18"
+Dinner*,dinner,Dinner at vending machines and mobile vendors*,dinner-at-vending-machines-and-mobile-vendors,child,1.13,3.61,0.85,1.88,3.23,3.61,2.76,3.75,5.72
+Dinner*,dinner,Dinner at employer and school cafeterias*,dinner-at-employer-and-school-cafeterias,child,7.59,16.04,3.8,1.79,3.55,8.24,4.6,6.59,6.59
+,,,,,,,,,,,,,
+"Meals at restaurants, carry outs and other*",meals-at-restaurants-carry-outs-and-other,Snacks and nonalcoholic beverages*,snacks-and-nonalcoholic-beverages,,87.96,64.42,77.06,101.84,98.45,130.72,191.29,178.14,306.71
+,,,,,,,,,,,,,
+Snacks and nonalcoholic beverages*,snacks-and-nonalcoholic-beverages,"Snacks and nonalcoholic beverages at fast food, take-out, delivery, concession stands, buffet and cafeteria (other than employer and school cafeteria)*",snacks-and-nonalcoholic-beverages-at-fast-food-take-out-delivery-concession-stands-buffet-and-cafeteria-(other-than-employer-and-school-cafeteria),child,47.34,37.14,45.38,63.35,59.14,82.03,118.8,122.99,199.78
+Snacks and nonalcoholic beverages*,snacks-and-nonalcoholic-beverages,Snacks and nonalcoholic beverages at full service restaurants*,snacks-and-nonalcoholic-beverages-at-full-service-restaurants,child,27.37,11.34,17.94,23.41,19.81,25.34,40.48,28.37,67.32
+Snacks and nonalcoholic beverages*,snacks-and-nonalcoholic-beverages,Snacks and nonalcoholic beverages at vending machines and mobile vendors*,snacks-and-nonalcoholic-beverages-at-vending-machines-and-mobile-vendors,child,8.98,9.14,9.62,12.59,14.56,15.75,24.34,21.45,29.67
+Snacks and nonalcoholic beverages*,snacks-and-nonalcoholic-beverages,Snacks and nonalcoholic beverages at employer and school cafeterias*,snacks-and-nonalcoholic-beverages-at-employer-and-school-cafeterias,child,4.27,6.8,4.12,2.49,4.94,7.6,7.67,5.32,9.95
+,,,,,,,,,,,,,
+"Meals at restaurants, carry outs and other*",meals-at-restaurants-carry-outs-and-other,Breakfast and brunch*,breakfast-and-brunch,,138.08,123.3,110.76,142.17,182.74,197.29,222.08,276.32,377.79
+,,,,,,,,,,,,,
+Breakfast and brunch*,breakfast-and-brunch,"Breakfast and brunch at fast food, take-out, delivery, concession stands, buffet and cafeteria (other than employer and school cafeteria)*",breakfast-and-brunch-at-fast-food-take-out-delivery-concession-stands-buffet-and-cafeteria-(other-than-employer-and-school-cafeteria),child,57.78,74.69,65.9,66.63,103.16,108.42,115.1,155.17,192.94
+Breakfast and brunch*,breakfast-and-brunch,Breakfast and brunch at full service restaurants*,breakfast-and-brunch-at-full-service-restaurants,child,75.18,30.94,40.49,69.06,75,75.77,99.08,108.45,163.03
+Breakfast and brunch*,breakfast-and-brunch,Breakfast and brunch at vending machines and mobile vendors*,breakfast-and-brunch-at-vending-machines-and-mobile-vendors,child,2.66,1.37,1.71,1.92,1.9,1.42,3.95,4.01,6.78
+Breakfast and brunch*,breakfast-and-brunch,Breakfast and brunch at employer and school cafeterias*,breakfast-and-brunch-at-employer-and-school-cafeterias,child,2.45,16.3,2.66,4.56,2.69,11.67,3.95,8.68,15.03
+,,,,,,,,,,,,,
+Food away from home,food-away-from-home,Food or board at school,food-or-board-at-school,child,13.87,5.86,2.28,10.31,5.59,21.42,11.73,7.38,53.13
+Food away from home,food-away-from-home,Catered affairs,catered-affairs,child,1.83,9.82,30.42,4.47,12.48,7.85,13.39,36.63,126.27
+Food away from home,food-away-from-home,Food on out-of-town trips,food-on-out-of-town-trips,child,72.06,59.48,64.07,82.61,84.97,143.63,162.01,202.13,528.22
+Food away from home,food-away-from-home,School lunches,school-lunches,child,23.05,4.67,6.07,3.08,14.04,22.07,29.63,43.32,101.16
+Food away from home,food-away-from-home,Meals as pay,meals-as-pay,child,7.55,27.62,12.28,39.37,39.86,17.12,31.95,25.26,30.45
+,,,,,,,,,,,,,
+Expenditures,expenditures,Alcoholic beverages,alcoholic-beverages,,221.08,133.48,140.28,197.8,191.6,252.19,322.63,385.49,850.28
+,,,,,,,,,,,,,
+Alcoholic beverages,alcoholic-beverages,At home,alcohol-at-home,,139.82,91.29,68.41,107.91,123.13,157.31,172.71,217.55,433.7
+,,,,,,,,,,,,,
+At home,alcohol-at-home,Beer and ale*,beer-and-ale,child,84.19,66.34,49.95,60.73,72.56,88.88,91.27,108.48,169.98
+At home,alcohol-at-home,Whiskey*,whiskey,child,14.15,b/,1.55,3.38,7.43,5.3,6.5,8.81,16.36
+At home,alcohol-at-home,Wine*,wine,child,23.81,23.42,9.65,32.44,38.34,49.14,56.9,77.61,214.1
+At home,alcohol-at-home,Other alcoholic beverages*,other-alcoholic-beverages,child,17.66,1.54,7.26,11.35,4.8,13.99,18.03,22.65,33.26
+,,,,,,,,,,,,,
+Alcoholic beverages,alcoholic-beverages,Away from home,alcohol-away-from-home,,81.26,42.19,71.87,89.9,68.47,94.88,149.92,167.94,416.58
+,,,,,,,,,,,,,
+Away from home,alcohol-away-from-home,Beer and ale,away-beer-and-ale,,35.5,12.33,30.28,32.42,28.96,42.61,61.5,65.97,121.19
+,,,,,,,,,,,,,
+Beer and ale,away-beer-and-ale,"Beer and ale at fast food, take-out, delivery, concession stands, buffet and cafeteria*",beer-and-ale-at-fast-food-take-out-delivery-concession-stands-buffet-and-cafeteria,child,6.2,b/,5.78,5.49,4.06,11.24,8.68,10.05,17.79
+Beer and ale,away-beer-and-ale,Beer and ale at full service restaurants*,beer-and-ale-at-full-service-restaurants,child,29.3,12.33,17.77,26.62,24.85,31.37,52.82,54.07,101.67
+Beer and ale,away-beer-and-ale,Beer and ale at vending machines and mobile vendors*,beer-and-ale-at-vending-machines-and-mobile-vendors,child,b/,b/,6.73,0.31,0.05,b/,b/,0.96,0.81
+Beer and ale,away-beer-and-ale,Beer at employer*,beer-at-employer,child,b/,b/,b/,b/,b/,b/,b/,0.89,0.92
+Beer and ale,away-beer-and-ale,Beer at board*,beer-at-board,child,b/,b/,b/,b/,b/,b/,b/,b/,b/
+Beer and ale,away-beer-and-ale,Beer and ale at catered affairs*,beer-and-ale-at-catered-affairs,child,b/,b/,b/,b/,b/,b/,b/,b/,b/
+,,,,,,,,,,,,,
+Away from home,alcohol-away-from-home,Wine,away-wine,,8.45,9.1,5.05,13.91,8.54,11.82,19.72,23.76,84.41
+,,,,,,,,,,,,,
+Wine,away-wine,"Wine at fast food, take-out, delivery, concession stands, buffet and cafeteria*",wine-at-fast-food-take-out-delivery-concession-stands-buffet-and-cafeteria,child,0.57,b/,b/,1.04,0.01,1.56,1.11,1.49,4.45
+Wine,away-wine,Wine at full service restaurants*,wine-at-full-service-restaurants,child,7.13,9.1,5.05,10.92,8.49,10.26,18.62,21.74,79.5
+Wine,away-wine,Wine at vending machines and mobile vendors*,wine-at-vending-machines-and-mobile-vendors,child,0.75,b/,b/,b/,0.04,b/,b/,0.53,0.16
+Wine,away-wine,Wine at employer*,wine-at-employer,child,b/,b/,b/,1.95,b/,b/,b/,b/,0.3
+Wine,away-wine,Wine at board*,wine-at-board,child,b/,b/,b/,b/,b/,b/,b/,b/,b/
+Wine,away-wine,Wine at catered affairs*,wine-at-catered-affairs,child,b/,b/,b/,b/,b/,b/,b/,b/,b/
+,,,,,,,,,,,,,
+Away from home,alcohol-away-from-home,Other alcoholic beverages,away-other-alcoholic-beverages,,24.3,10.95,22.74,28.66,19.12,17.5,37.46,38.5,103.42
+,,,,,,,,,,,,,
+Other alcoholic beverages,away-other-alcoholic-beverages,"Other alcoholic beverages at fast food, take-out, delivery, concession stands, buffet and cafeteria*",other-alcoholic-beverages-at-fast-food-take-out-delivery-concession-stands-buffet-and-cafeteria,child,0.57,3.04,2.11,5.02,2.69,1.87,2.19,4.99,2.77
+Other alcoholic beverages,away-other-alcoholic-beverages,Other alcoholic beverages at full service restaurants*,other-alcoholic-beverages-at-full-service-restaurants,child,23.74,7.91,20.62,23.63,16.18,14.93,34.79,33.38,99.53
+Other alcoholic beverages,away-other-alcoholic-beverages,Other alcoholic beverages at vending machines and mobile vendors*,other-alcoholic-beverages-at-vending-machines-and-mobile-vendors,child,b/,b/,b/,b/,0.1,0.69,0.48,0.07,0.08
+Other alcoholic beverages,away-other-alcoholic-beverages,Other alcohol at employer*,other-alcohol-at-employer,child,b/,b/,b/,b/,0.16,b/,b/,0.06,1.04
+Other alcoholic beverages,away-other-alcoholic-beverages,Other alcohol at board*,other-alcohol-at-board,child,b/,b/,b/,b/,b/,b/,b/,b/,b/
+Other alcoholic beverages,away-other-alcoholic-beverages,Other alcoholic beverages at catered affairs*,other-alcoholic-beverages-at-catered-affairs,child,b/,b/,b/,b/,b/,b/,b/,b/,b/
+,,,,,,,,,,,,,
+Away from home,alcohol-away-from-home,Alcoholic beverages purchased on trips,alcoholic-beverages-purchased-on-trips,child,13,9.82,13.8,14.91,11.84,22.95,31.24,39.71,107.56
+,,,,,,,,,,,,,
+Expenditures,expenditures,Housing,housing,,"9,543.04","8,958.66","9,426.06","10,813.72","12,128.82","13,539.08","15,137.63","17,027.74","27,290.20"
+,,,,,,,,,,,,,
+Housing,housing,Shelter,shelter,,"6,048.24","5,589.21","5,687.31","6,290.38","7,060.70","7,790.20","8,881.53","9,799.01","16,232.57"
+,,,,,,,,,,,,,
+Shelter,shelter,Owned dwellings,owned-dwellings,,"1,924.09","1,616.72","1,867.32","2,402.34","2,795.07","3,581.11","4,198.08","5,556.08","11,605.81"
+,,,,,,,,,,,,,
+Owned dwellings,owned-dwellings,Mortgage interest and charges,mortgage-interest-and-charges,,673.84,555.29,549.49,748.76,961.11,"1,456.01","1,874.67","2,603.79","6,063.99"
+,,,,,,,,,,,,,
+Mortgage interest and charges,mortgage-interest-and-charges,Mortgage interest,mortgage-interest,child,647.94,547.1,535.77,726.29,916.29,"1,415.79","1,793.30","2,487.79","5,819.36"
+Mortgage interest and charges,mortgage-interest-and-charges,"Interest paid, home equity loan",interest-paid-home-equity-loan,child,16.17,3.9,4.37,4.27,22.87,19.62,39.92,45.4,87.36
+Mortgage interest and charges,mortgage-interest-and-charges,"Interest paid, home equity line of credit",interest-paid-home-equity-line-of-credit,child,9.72,4.3,9.35,18.21,21.96,20.6,41.45,70.59,157.27
+,,,,,,,,,,,,,
+Owned dwellings,owned-dwellings,Property taxes,property-taxes,child,748.36,514.26,752.48,928.45,999.98,"1,170.97","1,343.50","1,701.21","3,427.14"
+Owned dwellings,owned-dwellings,"Maintenance, repairs, insurance, other expenses",maintenance-repairs-insurance-other-expenses,,501.89,547.17,565.36,725.13,833.98,954.13,979.92,"1,251.08","2,114.68"
+,,,,,,,,,,,,,
+"Maintenance, repairs, insurance, other expenses",maintenance-repairs-insurance-other-expenses,Homeowners insurance,homeowners-insurance,child,119.18,89.41,148.98,204.79,224.73,300.59,313.45,326.58,546.91
+"Maintenance, repairs, insurance, other expenses",maintenance-repairs-insurance-other-expenses,Ground rent,ground-rent,child,166.55,56.66,56.79,57.79,74.48,64.26,50.45,47.11,71.12
+"Maintenance, repairs, insurance, other expenses",maintenance-repairs-insurance-other-expenses,"Flooring installation, repair, replacement",flooring-installation-repair-replacement,child,0.22,44.54,27.68,26.41,30.66,31.8,38.26,71.5,154.82
+"Maintenance, repairs, insurance, other expenses",maintenance-repairs-insurance-other-expenses,Maintenance and repair services,maintenance-and-repair-services,,175.35,328.57,257.06,342.33,380.07,447.12,475.9,658.68,"1,082.92"
+,,,,,,,,,,,,,
+Maintenance and repair services,maintenance-and-repair-services,Painting and papering,painting-and-papering,child,22.98,27.75,21.89,53.31,32.35,46.67,30.08,64.38,197.3
+Maintenance and repair services,maintenance-and-repair-services,Plumbing and water heating,plumbing-and-water-heating,child,14.87,94.43,88.33,49.32,61.81,67.09,43.78,97.11,121.35
+Maintenance and repair services,maintenance-and-repair-services,"Heat, a/c, electrical work",heat-a/c-electrical-work,child,65.06,47.23,59.8,32.65,106.8,62.3,65.41,159.48,242.99
+Maintenance and repair services,maintenance-and-repair-services,Roofing and gutters,roofing-and-gutters,child,30.53,74.1,17.28,97.96,80.02,126.16,85.67,186.67,154.05
+Maintenance and repair services,maintenance-and-repair-services,Other repair and maintenance services,other-repair-and-maintenance-services,child,41.91,84.55,69.71,108.12,97.99,144.35,250.12,148.38,364.29
+Maintenance and repair services,maintenance-and-repair-services,Repair of built-in appliances,repair-of-built-in-appliances,child,b/,0.51,0.04,0.97,1.11,0.54,0.83,2.65,2.94
+,,,,,,,,,,,,,
+"Maintenance, repairs, insurance, other expenses",maintenance-repairs-insurance-other-expenses,Maintenance and repair commodities,maintenance-and-repair-commodities,,21.02,10,21.33,25.76,49.52,49.25,48.98,81.8,145.47
+,,,,,,,,,,,,,
+Maintenance and repair commodities,maintenance-and-repair-commodities,"Paints, wallpaper and supplies",paints-wallpaper-and-supplies,child,2.16,3.87,2.94,7.35,6.19,15.1,11.48,13.2,30.54
+Maintenance and repair commodities,maintenance-and-repair-commodities,Tools and equipment for painting and wallpapering,tools-and-equipment-for-painting-and-wallpapering,child,0.23,0.42,0.32,0.79,0.67,1.62,1.23,1.42,3.28
+Maintenance and repair commodities,maintenance-and-repair-commodities,Plumbing supplies and equipment,plumbing-supplies-and-equipment,child,7.91,0.28,2.03,1.5,5.37,8.71,4.87,8.39,14.61
+Maintenance and repair commodities,maintenance-and-repair-commodities,"Electrical supplies, heating and cooling equipment",electrical-supplies-heating-and-cooling-equipment,child,0.69,0.02,0.68,2.12,0.68,6.33,2.09,2.99,14
+Maintenance and repair commodities,maintenance-and-repair-commodities,Materials and equipment for roof and gutters,materials-and-equipment-for-roof-and-gutters,child,3.11,1.24,1.69,1.73,3.21,4.31,3.64,12.6,10.65
+Maintenance and repair commodities,maintenance-and-repair-commodities,"Materials for plaster., panel., siding, windows, doors, screens, awnings",materials-for-plaster.-panel.-siding-windows-doors-screens-awnings,child,3.18,1.25,4.25,3.14,16.05,5.33,14.7,14.92,28.43
+Maintenance and repair commodities,maintenance-and-repair-commodities,"Materials for patio, walk, fence, driveway, masonry, brick and stucco work",materials-for-patio-walk-fence-driveway-masonry-brick-and-stucco-work,child,0.08,0.16,0.16,0.02,0.82,0.68,0.38,0.87,4.56
+Maintenance and repair commodities,maintenance-and-repair-commodities,Materials for landscaping maintenance,materials-for-landscaping-maintenance,child,b/,b/,b/,b/,b/,b/,b/,b/,b/
+Maintenance and repair commodities,maintenance-and-repair-commodities,Miscellaneous supplies and equipment,miscellaneous-supplies-and-equipment,,3.65,2.75,9.26,9.11,16.54,7.17,10.6,27.4,39.4
+,,,,,,,,,,,,,
+Miscellaneous supplies and equipment,miscellaneous-supplies-and-equipment,"Material for insulation, other maintenance and repair",material-for-insulation-other-maintenance-and-repair,child,3.65,2.75,9.26,9.11,16.54,7.17,10.6,27.4,38.58
+Miscellaneous supplies and equipment,miscellaneous-supplies-and-equipment,"Materials to finish basement, remodel rooms or build patios, walks, etc. (maint., repair and repl. - owned properties)",materials-to-finish-basement-remodel-rooms-or-build-patios-walks-etc.-(maint.-repair-and-repl.---owned-properties),child,b/,b/,b/,b/,b/,b/,b/,b/,0.83
+,,,,,,,,,,,,,
+"Maintenance, repairs, insurance, other expenses",maintenance-repairs-insurance-other-expenses,Property management and security,property-management-and-security,,18.75,17.26,46.57,64.48,66.59,58.39,49.62,61.48,107.42
+,,,,,,,,,,,,,
+Property management and security,property-management-and-security,Property management,property-management,child,18.39,16.41,44,51.19,61.17,49.8,47.13,58.07,102.5
+Property management and security,property-management-and-security,Management and upkeep services for security,management-and-upkeep-services-for-security,child,0.35,0.85,2.57,13.29,5.42,8.59,2.49,3.41,4.92
+,,,,,,,,,,,,,
+"Maintenance, repairs, insurance, other expenses",maintenance-repairs-insurance-other-expenses,Parking,parking,child,0.83,0.73,6.95,3.56,7.92,2.73,3.28,3.93,6.01
+,,,,,,,,,,,,,
+Shelter,shelter,Rented dwellings,rent-rented-dwellings,,"3,980.64","3,858.18","3,638.88","3,675.86","4,054.14","3,878.12","4,273.26","3,812.00","3,072.25"
+,,,,,,,,,,,,,
+Rented dwellings,rent-rented-dwellings,Rent,rent-rent,child,"3,633.68","3,479.57","3,314.87","3,488.25","3,926.02","3,748.52","4,151.23","3,648.32","2,966.13"
+Rented dwellings,rent-rented-dwellings,Rent as pay,rent-rent-as-pay,child,329.85,367.36,304.38,153.55,83.77,74.32,66.86,54.82,36.94
+Rented dwellings,rent-rented-dwellings,"Maintenance, insurance and other expenses",rent-maintenance-insurance-and-other-expenses,,17.11,11.25,19.62,34.06,44.35,55.29,55.17,108.86,69.18
+,,,,,,,,,,,,,
+"Maintenance, insurance and other expenses",rent-maintenance-insurance-and-other-expenses,Tenant's insurance,rent-tenant's-insurance,child,9.88,5.2,8.59,12.42,18.27,18.27,19.99,18.99,19.84
+"Maintenance, insurance and other expenses",rent-maintenance-insurance-and-other-expenses,"Flooring installation, repair, replacement",rent-flooring-installation-repair-replacement,child,0.33,b/,b/,1.46,6.49,0.43,2.6,7.45,2.64
+"Maintenance, insurance and other expenses",rent-maintenance-insurance-and-other-expenses,Maintenance and repair services,rent-maintenance-and-repair-services,,2.83,3.94,9.03,14.21,9.62,18.52,23.1,55.55,34.16
+,,,,,,,,,,,,,
+Maintenance and repair services,rent-maintenance-and-repair-services,Repair or maintenance services,rent-repair-or-maintenance-services,child,2.61,3.94,8.94,14.21,9.6,18.37,22.89,55.37,34.08
+Maintenance and repair services,rent-maintenance-and-repair-services,Repair of built-in appliances,rent-repair-of-built-in-appliances,child,0.22,b/,0.09,b/,0.02,0.14,0.21,0.17,0.07
+,,,,,,,,,,,,,
+"Maintenance, insurance and other expenses",rent-maintenance-insurance-and-other-expenses,Maintenance and repair commodities,rent-maintenance-and-repair-commodities,,4.07,2.12,2,5.97,9.97,18.06,9.48,26.88,12.54
+,,,,,,,,,,,,,
+Maintenance and repair commodities,rent-maintenance-and-repair-commodities,"Paint, wallpaper, and supplies",rent-paint-wallpaper-and-supplies,child,2.54,0.28,0.11,1.24,2.01,1.69,1.73,2.79,1.24
+Maintenance and repair commodities,rent-maintenance-and-repair-commodities,Tools and equipment for painting and wallpapering,rent-tools-and-equipment-for-painting-and-wallpapering,child,0.27,0.03,0.01,0.13,0.22,0.18,0.19,0.3,0.13
+Maintenance and repair commodities,rent-maintenance-and-repair-commodities,"Materials for plastering, panels, roofing, gutters, etc",rent-materials-for-plastering-panels-roofing-gutters-etc,child,b/,0.05,0.52,0.08,b/,0.43,0.59,2,0.31
+Maintenance and repair commodities,rent-maintenance-and-repair-commodities,"Materials for patio, walk, fence, driveway, masonry, brick and stucco work",rent-materials-for-patio-walk-fence-driveway-masonry-brick-and-stucco-work,child,b/,b/,b/,b/,b/,0.01,0.07,0.07,0.01
+Maintenance and repair commodities,rent-maintenance-and-repair-commodities,Plumbing supplies and equipment,rent-plumbing-supplies-and-equipment,child,0.15,0.16,0.25,0.47,1.32,2.56,0.37,0.88,0.2
+Maintenance and repair commodities,rent-maintenance-and-repair-commodities,"Electrical supplies, heating and cooling equipment",rent-electrical-supplies-heating-and-cooling-equipment,child,b/,0.4,0.27,0.03,0.01,0.3,b/,0.41,0.93
+Maintenance and repair commodities,rent-maintenance-and-repair-commodities,Miscellaneous supplies and equipment,rent-miscellaneous-supplies-and-equipment,,0.71,1,0.58,3.2,5.64,11.15,6.27,19.3,9.22
+,,,,,,,,,,,,,
+Miscellaneous supplies and equipment,rent-miscellaneous-supplies-and-equipment,"Material for insulation, other maintenance and repair",rent-material-for-insulation-other-maintenance-and-repair,child,0.66,0.37,0.2,3.06,5.14,0.97,0.85,4.43,1.31
+Miscellaneous supplies and equipment,rent-miscellaneous-supplies-and-equipment,"Materials for additions, finishing basements, remodeling rooms",rent-materials-for-additions-finishing-basements-remodeling-rooms,child,0.05,0.63,b/,b/,0.44,9.97,5.42,14.82,7.92
+Miscellaneous supplies and equipment,rent-miscellaneous-supplies-and-equipment,Construction materials for jobs not started,rent-construction-materials-for-jobs-not-started,child,b/,b/,0.38,0.14,0.06,0.2,b/,0.05,b/
+Maintenance and repair commodities,rent-maintenance-and-repair-commodities,Material for landscape maintenance,rent-material-for-landscape-maintenance,child,0.39,0.2,0.27,0.82,0.77,1.75,0.27,1.12,0.5
+,,,,,,,,,,,,,
+Shelter,shelter,Other lodging,other-lodging,,143.52,114.3,181.11,212.17,211.48,330.96,410.18,430.93,"1,554.51"
+,,,,,,,,,,,,,
+Other lodging,other-lodging,Owned vacation homes,vacation-owned-vacation-homes,,9.65,16.37,38.66,86.62,75.21,75.67,167.27,121.26,603.64
+,,,,,,,,,,,,,
+Owned vacation homes,vacation-owned-vacation-homes,Mortgage interest and charges,vacation-mortgage-interest-and-charges,,b/,b/,1.86,6.49,12.51,22.79,40.53,32.35,246.01
+,,,,,,,,,,,,,
+Mortgage interest and charges,vacation-mortgage-interest-and-charges,Mortgage interest,vacation-mortgage-interest,child,b/,b/,1.86,6.49,12.51,20.1,39.01,31.76,240.77
+Mortgage interest and charges,vacation-mortgage-interest-and-charges,"Interest paid, home equity loan",vacation-interest-paid-home-equity-loan,child,b/,b/,b/,b/,b/,2.68,0.95,0.49,0.96
+Mortgage interest and charges,vacation-mortgage-interest-and-charges,"Interest paid, home equity line of credit",vacation-interest-paid-home-equity-line-of-credit,child,b/,b/,b/,b/,b/,b/,0.57,0.1,4.27
+,,,,,,,,,,,,,
+Owned vacation homes,vacation-owned-vacation-homes,Property taxes,vacation-property-taxes,child,6.4,14.01,33.99,49.27,47.7,31.15,86.55,69.35,206.15
+Owned vacation homes,vacation-owned-vacation-homes,"Flooring installation, repair, replacement",vacation-flooring-installation-repair-replacement,child,b/,b/,b/,b/,b/,b/,b/,1.87,2.7
+Owned vacation homes,vacation-owned-vacation-homes,"Maintenance, insurance, and other expenses",vacation-maintenance-insurance-and-other-expenses,,3.25,2.36,2.82,30.86,15,21.73,40.19,17.68,148.78
+,,,,,,,,,,,,,
+"Maintenance, insurance, and other expenses",vacation-maintenance-insurance-and-other-expenses,Homeowners insurance,vacation-homeowners-insurance,child,0.72,b/,b/,11.95,3.16,6.98,7.81,5.15,26.34
+"Maintenance, insurance, and other expenses",vacation-maintenance-insurance-and-other-expenses,Ground rent,vacation-ground-rent,child,b/,b/,b/,3.79,0.64,3.45,4.72,0.92,12.09
+"Maintenance, insurance, and other expenses",vacation-maintenance-insurance-and-other-expenses,Maintenance and repair services,vacation-maintenance-and-repair-services,,1.52,0.76,0.26,6.88,5.71,3.29,17.06,3.35,79.29
+,,,,,,,,,,,,,
+Maintenance and repair services,vacation-maintenance-and-repair-services,Repair and remodeling services,vacation-repair-and-remodeling-services,child,1.52,0.76,0.26,6.88,5.71,3.29,17.06,3.35,79.29
+,,,,,,,,,,,,,
+"Maintenance, insurance, and other expenses",vacation-maintenance-insurance-and-other-expenses,Maintenance and repair commodities,vacation-maintenance-and-repair-commodities,,b/,b/,b/,b/,0.01,0.16,2.07,2.26,2.76
+,,,,,,,,,,,,,
+Maintenance and repair commodities,vacation-maintenance-and-repair-commodities,"Paints, wallpaper, supplies",vacation-paints-wallpaper-supplies,child,b/,b/,b/,b/,b/,b/,0.1,0.4,0.36
+Maintenance and repair commodities,vacation-maintenance-and-repair-commodities,Tools and equipment for painting and wallpapering,vacation-tools-and-equipment-for-painting-and-wallpapering,child,b/,b/,b/,b/,b/,b/,0.01,0.04,0.04
+Maintenance and repair commodities,vacation-maintenance-and-repair-commodities,"Materials for plastering, paneling, roofing, gutters, downspouts, siding, windows, doors, screens, and awnings",vacation-materials-for-plastering-paneling-roofing-gutters-downspouts-siding-windows-doors-screens-and-awnings,child,b/,b/,b/,b/,b/,b/,b/,1.81,1.89
+Maintenance and repair commodities,vacation-maintenance-and-repair-commodities,"Material for patio, walk, fence, drive, masonry, brick, stucco",vacation-material-for-patio-walk-fence-drive-masonry-brick-stucco,child,b/,b/,b/,b/,b/,b/,b/,b/,0.26
+Maintenance and repair commodities,vacation-maintenance-and-repair-commodities,Plumbing supplies and equipment,vacation-plumbing-supplies-and-equipment,child,b/,b/,b/,b/,b/,b/,1.4,b/,0.19
+Maintenance and repair commodities,vacation-maintenance-and-repair-commodities,"Electrical supplies, heating and cooling equipment",vacation-electrical-supplies-heating-and-cooling-equipment,child,b/,b/,b/,b/,b/,b/,0.36,b/,b/
+Maintenance and repair commodities,vacation-maintenance-and-repair-commodities,Miscellaneous supplies and equipment,vacation-miscellaneous-supplies-and-equipment,,b/,b/,b/,b/,0.01,0.16,0.2,b/,0.02
+,,,,,,,,,,,,,
+Miscellaneous supplies and equipment,vacation-miscellaneous-supplies-and-equipment,"Material for insulation, other maintenance and repair",vacation-material-for-insulation-other-maintenance-and-repair,child,b/,b/,b/,b/,0.01,0.16,0.2,b/,0.02
+Miscellaneous supplies and equipment,vacation-miscellaneous-supplies-and-equipment,Material for finishing basements and remodeling rooms,vacation-material-for-finishing-basements-and-remodeling-rooms,child,b/,b/,b/,b/,b/,b/,b/,b/,b/
+Maintenance and repair commodities,vacation-maintenance-and-repair-commodities,Materials for landscaping maintenance,vacation-materials-for-landscaping-maintenance,child,b/,b/,b/,b/,b/,b/,b/,b/,b/
+,,,,,,,,,,,,,
+"Maintenance, insurance, and other expenses",vacation-maintenance-insurance-and-other-expenses,Property management and security,vacation-property-management-and-security,,0.16,1.6,2.21,8.24,5.44,7.43,8.4,5.7,27.03
+,,,,,,,,,,,,,
+Property management and security,vacation-property-management-and-security,Property management,vacation-property-management,child,b/,1.6,2.2,8.08,4.64,7.23,8.25,5.31,24.73
+Property management and security,vacation-property-management-and-security,Management and upkeep services for security,vacation-management-and-upkeep-services-for-security,child,0.16,b/,0.01,0.16,0.8,0.2,0.14,0.39,2.3
+,,,,,,,,,,,,,
+"Maintenance, insurance, and other expenses",vacation-maintenance-insurance-and-other-expenses,Parking,vacation-parking,child,0.85,b/,0.35,b/,0.05,0.41,0.13,0.3,1.25
+,,,,,,,,,,,,,
+Other lodging,other-lodging,Housing while attending school,housing-while-attending-school,child,42.24,19.06,60.45,4.93,23.78,25.48,8.4,16.93,131.87
+Other lodging,other-lodging,Lodging on out-of-town trips,lodging-on-out-of-town-trips,child,91.63,78.88,82,120.62,112.49,229.82,234.51,292.75,819.01
+,,,,,,,,,,,,,
+Housing,housing,"Utilities, fuels, and public services",utilities-fuels-and-public-services,,"2,256.26","2,065.07","2,416.15","2,818.44","3,169.33","3,476.87","3,734.73","4,112.50","5,258.10"
+,,,,,,,,,,,,,
+"Utilities, fuels, and public services",utilities-fuels-and-public-services,Natural gas,natural-gas,,201.18,213.27,235.65,296.81,323.42,367.95,432.18,443.61,630.3
+,,,,,,,,,,,,,
+Natural gas,natural-gas,Utility-natural gas (renter),utility-natural-gas-(renter),child,84.13,110.53,88.89,83.17,100.92,116.35,107.94,93.79,68.19
+Natural gas,natural-gas,Utility-natural gas (owned home),utility-natural-gas-(owned-home),child,114.74,100.76,146.04,210.5,218.59,248.61,318.66,346.26,550.5
+Natural gas,natural-gas,Utility-natural gas (owned vacation),utility-natural-gas-(owned-vacation),child,0.38,b/,0.08,2.48,1.39,0.39,5.32,2.98,8
+Natural gas,natural-gas,Utility-natural gas (rented vacation),utility-natural-gas-(rented-vacation),child,1.93,1.99,0.64,0.66,2.52,2.6,0.26,0.58,3.61
+,,,,,,,,,,,,,
+"Utilities, fuels, and public services",utilities-fuels-and-public-services,Electricity,electricity,,"1,046.99",951.76,"1,082.39","1,185.84","1,300.29","1,429.49","1,439.05","1,529.77","1,820.88"
+,,,,,,,,,,,,,
+Electricity,electricity,Electricity (renter),electricity-(renter),child,497.02,494.52,465.09,461.35,524.82,500.24,457.74,415.06,238.95
+Electricity,electricity,Electricity (owned home),electricity-(owned-home),child,535.37,447.91,605.02,718.41,757.59,916.59,948.94,"1,103.24","1,541.36"
+Electricity,electricity,Electricity (owned vacation),electricity-(owned-vacation),child,1.53,0.52,0.2,4.65,4.03,3.95,18.59,9.15,29.39
+Electricity,electricity,Electricity (rented vacation),electricity-(rented-vacation),child,13.07,8.81,12.08,1.43,13.85,8.71,13.77,2.32,11.18
+,,,,,,,,,,,,,
+"Utilities, fuels, and public services",utilities-fuels-and-public-services,Fuel oil and other fuels,fuel-oil-and-other-fuels,,60.66,41.54,89.69,115.13,135.93,111.5,140.39,153.29,219.27
+,,,,,,,,,,,,,
+Fuel oil and other fuels,fuel-oil-and-other-fuels,Fuel oil,fuel-oil,,34.03,13.29,51.43,78.02,75.04,52.72,66.44,91.23,122.63
+,,,,,,,,,,,,,
+Fuel oil,fuel-oil,Fuel oil (renter),fuel-oil-(renter),child,1.56,0.8,3.38,6.22,8.3,4.85,4.19,15.13,4.51
+Fuel oil,fuel-oil,Fuel oil (owned home),fuel-oil-(owned-home),child,32.04,9.87,48.06,71.79,66.74,47.85,60.02,75.64,111.57
+Fuel oil,fuel-oil,Fuel oil (owned vacation),fuel-oil-(owned-vacation),child,b/,b/,b/,b/,b/,0.02,2.23,0.46,4.44
+Fuel oil,fuel-oil,Fuel oil (rented vacation),fuel-oil-(rented-vacation),child,0.43,2.62,b/,b/,b/,b/,b/,b/,2.12
+,,,,,,,,,,,,,
+Fuel oil and other fuels,fuel-oil-and-other-fuels,"Coal, wood, and other fuels",coal-wood-and-other-fuels,,2.64,0.98,3.08,2.68,11.59,9.09,12.49,11.19,13.84
+,,,,,,,,,,,,,
+"Coal, wood, and other fuels",coal-wood-and-other-fuels,"Coal, wood, other fuels (renter)",coal-wood-other-fuels-(renter),child,0.24,0.98,b/,b/,2.9,4.68,3.95,2.12,0.21
+"Coal, wood, and other fuels",coal-wood-and-other-fuels,"Coal, wood, other fuels (owned home)",coal-wood-other-fuels-(owned-home),child,2.4,b/,3.08,2.68,8.69,4.41,8.54,9.07,13.1
+"Coal, wood, and other fuels",coal-wood-and-other-fuels,"Coal, wood, other fuels (owned vacation)",coal-wood-other-fuels-(owned-vacation),child,b/,b/,b/,b/,b/,b/,b/,b/,0.02
+"Coal, wood, and other fuels",coal-wood-and-other-fuels,"Coal, wood, other fuels (rented vacation)",coal-wood-other-fuels-(rented-vacation),child,b/,b/,b/,b/,b/,b/,b/,b/,0.51
+,,,,,,,,,,,,,
+Fuel oil and other fuels,fuel-oil-and-other-fuels,Bottled gas,bottled-gas,,23.99,27.27,35.18,34.43,49.3,49.7,61.46,50.87,82.8
+,,,,,,,,,,,,,
+Bottled gas,bottled-gas,"Gas, btld/tank (renter)",gas-btld/tank-(renter),child,0.6,3.63,1.42,1.43,7.44,6.52,7.48,3.9,2.79
+Bottled gas,bottled-gas,"Gas, btld/tank (owned home)",gas-btld/tank-(owned-home),child,23.39,23.24,31.85,28.35,37.56,40.46,50.15,44.51,72.11
+Bottled gas,bottled-gas,"Gas, btld/tank (owned vacation)",gas-btld/tank-(owned-vacation),child,b/,0.4,0.41,4.65,3.37,2.71,3.83,2.46,7.21
+Bottled gas,bottled-gas,"Gas, btld/tank (rented vacation)",gas-btld/tank-(rented-vacation),child,b/,b/,1.49,b/,0.93,b/,b/,b/,0.69
+,,,,,,,,,,,,,
+"Utilities, fuels, and public services",utilities-fuels-and-public-services,Telephone services,telephone-services,,672.36,606.28,702.18,852.81,978.34,"1,123.23","1,233.25","1,440.12","1,848.34"
+,,,,,,,,,,,,,
+Telephone services,telephone-services,"Residential phone service, VOIP, and phone cards",residential-phone-service-voip-and-phone-cards,,243.22,215.56,265.62,329.91,313.03,330.68,326.79,351.3,433.87
+"Residential phone service, VOIP, and phone cards",residential-phone-service-voip-and-phone-cards,Phone cards,phone-cards,child,9.27,18.13,16.63,16.02,14.87,16.35,15.6,9.37,7.72
+"Residential phone service, VOIP, and phone cards",residential-phone-service-voip-and-phone-cards,Residential telephone including VOIP,residential-telephone-including-voip,child,233.95,197.43,248.99,313.9,298.16,314.32,311.19,341.93,426.15
+,,,,,,,,,,,,,
+Telephone services,telephone-services,Cellular phone service,cellular-phone-service,child,429.14,390.71,436.56,522.9,665.31,792.55,906.46,"1,088.82","1,414.47"
+,,,,,,,,,,,,,
+"Utilities, fuels, and public services",utilities-fuels-and-public-services,Water and other public services,water-and-other-public-services,,275.08,252.22,306.23,367.85,431.35,444.7,489.86,545.71,739.3
+,,,,,,,,,,,,,
+Water and other public services,water-and-other-public-services,Water and sewerage maintenance,water-and-sewerage-maintenance,,200.44,190.02,222.53,282.38,307.86,336.12,362.88,405.19,540.05
+,,,,,,,,,,,,,
+Water and sewerage maintenance,water-and-sewerage-maintenance,Water/sewer maint. (renter),water/sewer-maint.-(renter),child,84.13,72.99,71.38,74.33,88.83,86.46,86.16,95.39,61.15
+Water and sewerage maintenance,water-and-sewerage-maintenance,Water/sewer maint. (owned home),water/sewer-maint.-(owned-home),child,115.08,114.37,150.35,207.2,214.65,246.5,267.27,306.37,468.35
+Water and sewerage maintenance,water-and-sewerage-maintenance,Water/sewer maint. (owned vacation),water/sewer-maint.-(owned-vacation),child,0.27,b/,b/,0.85,0.79,1.62,4.86,2.57,6.51
+Water and sewerage maintenance,water-and-sewerage-maintenance,Water/sewer maint. (rented vacation),water/sewer-maint.-(rented-vacation),child,0.95,2.66,0.8,b/,3.6,1.55,4.58,0.87,4.04
+,,,,,,,,,,,,,
+Water and other public services,water-and-other-public-services,Trash and garbage collection,trash-and-garbage-collection,,73.26,60.78,82.7,80.69,121.1,105.06,120.32,136.37,187.78
+,,,,,,,,,,,,,
+Trash and garbage collection,trash-and-garbage-collection,Trash/garb. coll. (renter),trash/garb.-coll.-(renter),child,24.25,17.21,17.21,15.53,21.52,19.78,21.87,24.36,15.19
+Trash and garbage collection,trash-and-garbage-collection,Trash/garb. coll. (owned home),trash/garb.-coll.-(owned-home),child,47.6,42.39,64.5,63.56,97.47,82.8,95.33,109.48,162.99
+Trash and garbage collection,trash-and-garbage-collection,Trash/garb. coll. (owned vacation),trash/garb.-coll.-(owned-vacation),child,0.62,b/,0.47,1.6,1.5,1.75,3.12,2.05,7.43
+Trash and garbage collection,trash-and-garbage-collection,Trash/garb. coll. (rented vacation),trash/garb.-coll.-(rented-vacation),child,0.8,1.18,0.51,b/,0.61,0.74,b/,0.49,2.16
+,,,,,,,,,,,,,
+Water and other public services,water-and-other-public-services,Septic tank cleaning,septic-tank-cleaning,,1.37,1.41,1,4.78,2.39,3.52,6.66,4.15,11.48
+,,,,,,,,,,,,,
+Septic tank cleaning,septic-tank-cleaning,Septic tank clean. (renter),septic-tank-clean.-(renter),child,0.28,0.31,b/,0.05,0.43,b/,0.1,0.22,0.1
+Septic tank cleaning,septic-tank-cleaning,Septic tank clean. (owned home),septic-tank-clean.-(owned-home),child,1.1,1.11,1,4.73,1.97,3.52,6.56,3.93,10.94
+Septic tank cleaning,septic-tank-cleaning,Septic tank clean. (owned vacation),septic-tank-clean.-(owned-vacation),child,b/,b/,b/,b/,b/,b/,b/,b/,0.44
+Septic tank cleaning,septic-tank-cleaning,Septic tank clean. (rented vacation),septic-tank-clean.-(rented-vacation),child,b/,b/,b/,b/,b/,b/,b/,b/,b/
+,,,,,,,,,,,,,
+Housing,housing,Household operations,household-operations,,370.63,404.81,465.39,615.31,639.26,680.85,744.6,959.66,"2,171.76"
+,,,,,,,,,,,,,
+Household operations,household-operations,Personal services,personal-services,,44.47,86.9,130.61,143.96,108.63,137.93,151.55,233.11,809.92
+Personal services,personal-services,Babysitting and child care,babysitting-and-child-care,child,6.42,32.96,16.43,21.08,33.26,34.17,35.38,42.77,211.25
+Personal services,personal-services,"Care for elderly, invalids, handicapped, etc",care-for-elderly-invalids-handicapped-etc,child,b/,1.69,63.37,92.4,14.86,14.21,-10.48,4.3,32.72
+Personal services,personal-services,Adult day care centers,adult-day-care-centers,child,b/,b/,31.44,3.14,b/,0.7,2.29,0.02,0.32
+Personal services,personal-services,"Day care centers, nursery, and preschools",day-care-centers-nursery-and-preschools,child,38.05,52.25,19.36,27.34,60.51,88.84,124.36,186.02,565.62
+,,,,,,,,,,,,,
+Household operations,household-operations,Other household expenses,other-household-expenses,,326.16,317.91,334.78,471.34,530.63,542.92,593.05,726.55,"1,361.84"
+,,,,,,,,,,,,,
+Other household expenses,other-household-expenses,Housekeeping services,housekeeping-services,child,28.03,33.13,24.24,50.88,63.73,56.81,48.8,75.76,281.84
+Other household expenses,other-household-expenses,"Gardening, lawn care service",gardening-lawn-care-service,child,41.78,37.33,46.56,78.01,78.56,85.81,71.05,106.57,248.42
+Other household expenses,other-household-expenses,Water softening service,water-softening-service,child,3.35,1.63,3.55,7.02,4.12,4.09,3.55,6.06,7.31
+Other household expenses,other-household-expenses,"Household laundry and dry cleaning, sent out (nonclothing) not coin-operated*",household-laundry-and-dry-cleaning-sent-out-(nonclothing)-not-coin-operated,child,5.75,b/,2.8,6.4,5.53,6.56,9.5,9.88,31.94
+Other household expenses,other-household-expenses,Coin-operated household laundry and dry cleaning (nonclothing)*,coin-operated-household-laundry-and-dry-cleaning-(nonclothing),child,3.79,6.74,5.05,4.82,6.78,7.42,8.37,10.26,7.66
+Other household expenses,other-household-expenses,Services for termite/pest control,services-for-termite/pest-control,child,6.03,5.38,5.13,9.63,8.08,10.78,12.78,14.01,35.61
+Other household expenses,other-household-expenses,Home security system service fee,home-security-system-service-fee,child,12.99,6.03,8.96,17,15.41,19.22,16.71,22.7,52.25
+Other household expenses,other-household-expenses,Other home services,other-home-services,child,8.21,5.56,3.93,11.18,10.13,13.29,9.32,13.31,34.79
+Other household expenses,other-household-expenses,Termite/pest control products,termite/pest-control-products,child,1.51,1.34,1.28,2.41,2.02,2.7,3.19,3.5,8.9
+Other household expenses,other-household-expenses,"Moving, storage, freight",moving-storage-freight,child,26.85,49.05,21.94,39.52,44.03,13.11,17.9,51.43,96.18
+Other household expenses,other-household-expenses,"Appliance repair, including service center",appliance-repair-including-service-center,child,3.61,6.86,10.25,7.54,8.49,9.07,9.35,11.07,18.95
+Other household expenses,other-household-expenses,"Reupholstering, furniture repair",reupholstering-furniture-repair,child,0.77,0.26,0.21,1.25,2.02,1.75,3.23,3.47,11.43
+Other household expenses,other-household-expenses,"Repairs/rentals of lawn and garden equipment, hand or power tools, other household equipment",repairs/rentals-of-lawn-and-garden-equipment-hand-or-power-tools-other-household-equipment,child,0.29,3.51,2.91,1.46,5.59,3.82,4.43,9.44,11.81
+Other household expenses,other-household-expenses,Appliance rental,appliance-rental,child,1.48,1.42,1.99,1.96,2.11,1.01,1.83,1.18,0.63
+Other household expenses,other-household-expenses,Rental of office equipment for nonbusiness use,rental-of-office-equipment-for-nonbusiness-use,child,0.24,0.04,4.08,0.13,4.43,1.17,0.43,0.04,0.36
+Other household expenses,other-household-expenses,Repair of miscellaneous household equipment and furnishings*,repair-of-miscellaneous-household-equipment-and-furnishings,child,b/,b/,b/,b/,b/,0.21,b/,1.18,3.75
+Other household expenses,other-household-expenses,Repair of computer systems for nonbusiness use,repair-of-computer-systems-for-nonbusiness-use,child,3.33,1.37,1.12,3.98,5.72,3.75,4.41,3.29,6.97
+Other household expenses,other-household-expenses,Computer information services (internet),computer-information-services-(internet),child,178.03,158.24,190.65,227.85,263.54,302.25,367.89,383.1,502.33
+Other household expenses,other-household-expenses,Installation of computer,installation-of-computer,child,0.1,b/,0.15,0.32,0.34,0.02,0.31,0.31,0.64
+Other household expenses,other-household-expenses,"Rental and installation of dishwashers, range hoods, and garbage disposals",rental-and-installation-of-dishwashers-range-hoods-and-garbage-disposals,child,b/,b/,b/,b/,b/,0.06,b/,b/,0.08
+,,,,,,,,,,,,,
+Housing,housing,Housekeeping supplies,housekeeping-supplies,,278,264.24,361.4,358.16,449.12,534.69,527.5,629.92,920.07
+,,,,,,,,,,,,,
+Housekeeping supplies,housekeeping-supplies,Laundry and cleaning supplies,laundry-and-cleaning-supplies,,78.16,89.61,92.74,105.61,120.66,128.83,144.46,145.25,193.94
+,,,,,,,,,,,,,
+Laundry and cleaning supplies,laundry-and-cleaning-supplies,Soaps and detergents*,soaps-and-detergents,child,48.37,44.06,57.78,56.62,61.11,69.18,68.12,77.66,108.24
+Laundry and cleaning supplies,laundry-and-cleaning-supplies,Other laundry cleaning products*,other-laundry-cleaning-products,child,29.79,45.55,34.96,48.99,59.55,59.65,76.34,67.58,85.7
+,,,,,,,,,,,,,
+Housekeeping supplies,housekeeping-supplies,Other household products,other-household-products,,157.96,140.36,177.89,183.36,228.73,291.62,291.6,344.67,536.8
+,,,,,,,,,,,,,
+Other household products,other-household-products,"Cleansing and toilet tissue, paper towels and napkins*",cleansing-and-toilet-tissue-paper-towels-and-napkins,child,87.29,62.52,79.49,90.38,95.21,116.61,107.86,129.09,160.5
+Other household products,other-household-products,Miscellaneous household products*,miscellaneous-household-products,child,59.93,47.35,74.36,76.33,72.49,126.18,138.49,145.32,238.61
+Other household products,other-household-products,Lawn and garden supplies*,lawn-and-garden-supplies,child,10.74,30.5,24.03,16.65,61.03,48.83,45.25,70.26,137.69
+,,,,,,,,,,,,,
+Housekeeping supplies,housekeeping-supplies,Postage and stationery,postage-and-stationery,,41.88,34.27,90.77,69.19,99.73,114.24,91.44,140,189.33
+,,,,,,,,,,,,,
+Postage and stationery,postage-and-stationery,"Stationery, stationery supplies, giftwrap*",stationery-stationery-supplies-giftwrap,child,25.75,24.07,47.35,37.51,53.03,42.16,56.06,63.71,107.37
+Postage and stationery,postage-and-stationery,Postage*,postage,child,16.12,10.2,42.31,31.54,40.4,69.33,34.77,72.87,75.36
+Postage and stationery,postage-and-stationery,Delivery services*,delivery-services,child,b/,b/,1.11,0.14,6.3,2.75,0.61,3.43,6.6
+,,,,,,,,,,,,,
+Housing,housing,Household furnishings and equipment,household-furnishings-and-equipment,,589.9,635.34,495.81,731.44,810.42,"1,056.47","1,249.27","1,526.65","2,707.70"
+,,,,,,,,,,,,,
+Household furnishings and equipment,household-furnishings-and-equipment,Household textiles,household-textiles,,37.58,28.82,45.51,42.88,41.61,58.09,87.75,98.82,158.39
+,,,,,,,,,,,,,
+Household textiles,household-textiles,Bathroom linens*,bathroom-linens,child,9.76,7.14,7.26,9.93,15.94,14.65,19.53,19.78,36.09
+Household textiles,household-textiles,Bedroom linens*,bedroom-linens,child,17.11,11.57,30.9,23.2,16.53,26.69,52.92,54.77,81.08
+Household textiles,household-textiles,Curtains and draperies,curtains-and-draperies,child,5.12,6.97,2.78,3.63,3.89,8.3,9.42,11.18,23.19
+Household textiles,household-textiles,"Slipcovers, decorative pillows",slipcovers-decorative-pillows,child,4.54,1.15,4.06,1.85,3.05,3.77,2.08,3.57,6.37
+Household textiles,household-textiles,"Kitchen, dining room, other linens*",kitchen-dining-room-other-linens,child,1.05,2,0.5,4.26,2.2,4.68,3.79,9.52,11.66
+,,,,,,,,,,,,,
+Household furnishings and equipment,household-furnishings-and-equipment,Furniture,furniture,,158.97,107.46,102.89,197.82,185.06,244.8,280.16,348.51,704.31
+,,,,,,,,,,,,,
+Furniture,furniture,Mattress and springs,mattress-and-springs,child,30.09,19.04,10.73,34.16,36.56,55.31,62.94,91.66,105.68
+Furniture,furniture,Other bedroom furniture,other-bedroom-furniture,child,24.52,19.35,23.72,49.41,32.82,35.06,68.97,59.92,120.25
+Furniture,furniture,Sofas,sofas,child,54.78,34.08,25.02,46.33,50.49,75.41,65.03,88.35,201.57
+Furniture,furniture,Living room chairs,living-room-chairs,child,4.87,11.79,20.32,12.65,20.6,25.97,21.22,27.68,48.17
+Furniture,furniture,Living room tables,living-room-tables,child,5.27,1.61,2.27,3.48,6.79,10.06,6,11.62,20.86
+Furniture,furniture,"Kitchen, dining room furniture",kitchen-dining-room-furniture,child,15.04,7.97,5.98,19.58,12.75,12.2,18.06,18.16,67.29
+Furniture,furniture,Infants' furniture,infants'-furniture,child,1.38,4.57,3.28,1.01,2.31,8.73,6.3,7.96,13.36
+Furniture,furniture,Outdoor furniture,outdoor-furniture,child,10.99,5.67,1.56,21.69,3.5,9.55,9.63,17.27,57.48
+Furniture,furniture,"Wall units, cabinets and other occasional furniture",wall-units-cabinets-and-other-occasional-furniture,child,12.03,3.37,10.02,9.53,19.24,12.49,22.03,25.89,69.64
+,,,,,,,,,,,,,
+Household furnishings and equipment,household-furnishings-and-equipment,Floor coverings,floor-coverings,,4.86,3.4,3.74,5.76,5.3,6.85,15.33,9.27,39.69
+,,,,,,,,,,,,,
+Floor coverings,floor-coverings,"Floor coverings, nonpermanent",floor-coverings-nonpermanent,child,4.86,3.4,3.74,5.76,5.3,6.85,15.33,9.27,39.69
+,,,,,,,,,,,,,
+Household furnishings and equipment,household-furnishings-and-equipment,Major appliances,major-appliances,,66.76,96.69,71.93,115.91,151.46,176.31,129.17,215.28,408.33
+,,,,,,,,,,,,,
+Major appliances,major-appliances,"Dishwashers (built-in), garbage disposals, range hoods, (renter)",dishwashers-(built-in)-garbage-disposals-range-hoods-(renter),child,b/,b/,b/,0.64,0.3,b/,2.09,2.26,0.88
+Major appliances,major-appliances,"Dishwashers (built-in), garbage disposals, range hoods, (owned home)",dishwashers-(built-in)-garbage-disposals-range-hoods-(owned-home),child,b/,5.78,1.13,7.71,11.66,8.46,18.75,15.38,34.55
+Major appliances,major-appliances,"Refrigerators, freezers (renter)",refrigerators-freezers-(renter),child,4.69,2.4,4.79,4.95,3.98,10.73,9.1,15.59,5.44
+Major appliances,major-appliances,"Refrigerators, freezers (owned home)",refrigerators-freezers-(owned-home),child,6.94,21.02,9.64,34.55,45.79,47.8,24.52,53.12,106.86
+Major appliances,major-appliances,Clothes washer or dryer (renter),clothes-washer-or-dryer-(renter),child,11.64,12.39,6.59,9.22,13.85,20.88,8.53,9.94,7.66
+Major appliances,major-appliances,Clothes washer or dryer (owned home),clothes-washer-or-dryer-(owned-home),child,16.38,38.95,17.53,18.7,28.17,33.83,24.09,48.55,87.01
+Major appliances,major-appliances,"Cooking stoves, ovens (renter)",cooking-stoves-ovens-(renter),child,0.84,0.76,1.87,5.55,1.3,5.22,1.66,3.02,0.67
+Major appliances,major-appliances,"Cooking stoves, ovens (owned home)",cooking-stoves-ovens-(owned-home),child,7.09,1.55,12.63,12.73,16.13,14.58,5.26,25.84,59.81
+Major appliances,major-appliances,Microwave ovens (renter),microwave-ovens-(renter),child,5.04,4.19,4.45,2.26,4,2.04,4.04,2.99,1.6
+Major appliances,major-appliances,Microwave ovens (owned home),microwave-ovens-(owned-home),child,0.97,0.66,1.24,6.61,6.49,7.17,6.76,13.54,19.38
+Major appliances,major-appliances,Portable dishwasher (renter),portable-dishwasher-(renter),child,b/,b/,b/,0.52,b/,0.14,0.15,b/,b/
+Major appliances,major-appliances,Portable dishwasher (owned home),portable-dishwasher-(owned-home),child,b/,b/,b/,b/,0.61,b/,b/,0.41,0.75
+Major appliances,major-appliances,Window air conditioners (renter),window-air-conditioners-(renter),child,0.98,1.58,1.3,0.78,0.19,1.66,1.63,2.14,1.07
+Major appliances,major-appliances,Window air conditioners (owned home),window-air-conditioners-(owned-home),child,b/,1.7,3.53,3.05,1.95,2.84,2.37,6.46,6.97
+Major appliances,major-appliances,Electric floor cleaning equipment,electric-floor-cleaning-equipment,child,4.4,4.79,7.19,6.67,12.59,10.42,15.07,14.2,33.6
+Major appliances,major-appliances,Sewing machines,sewing-machines,child,7.78,0.93,0.06,1.96,3.13,10.55,1.7,1.29,9.42
+Major appliances,major-appliances,Miscellaneous household appliances*,miscellaneous-household-appliances,child,b/,b/,b/,b/,1.31,b/,3.47,0.57,32.68
+,,,,,,,,,,,,,
+Household furnishings and equipment,household-furnishings-and-equipment,"Small appliances, miscellaneous housewares",small-appliances-miscellaneous-housewares,,49.45,41.75,41.87,59.05,54.72,84.3,117.47,106.63,159.89
+,,,,,,,,,,,,,
+"Small appliances, miscellaneous housewares",small-appliances-miscellaneous-housewares,Housewares,housewares,,33.05,23.98,24.94,34.22,33.62,59.26,86.37,62.89,105.27
+,,,,,,,,,,,,,
+Housewares,housewares,Flatware,flatware,child,3.17,0.65,1.12,0.83,1.47,5.81,2.71,3.91,5.63
+Housewares,housewares,"Dinnerware, glassware, serving pieces*",dinnerware-glassware-serving-pieces,child,6.8,3.8,12.05,11.07,16.69,14.18,18.3,24.34,34.1
+Housewares,housewares,Nonelectric cookware*,nonelectric-cookware,child,13.17,14.02,1.7,14.28,6.38,19.71,41.19,13.81,28.3
+Housewares,housewares,"Tableware, nonelectric kitchenware*",tableware-nonelectric-kitchenware,child,9.91,5.51,10.08,8.04,9.09,19.56,24.16,20.83,37.24
+,,,,,,,,,,,,,
+"Small appliances, miscellaneous housewares",small-appliances-miscellaneous-housewares,Small appliances,small-appliances,,16.4,17.77,16.93,24.84,21.1,25.04,31.1,43.74,54.62
+,,,,,,,,,,,,,
+Small appliances,small-appliances,Small electric kitchen appliances,small-electric-kitchen-appliances,child,10.92,13.03,11.78,15.35,17.11,18.86,22.75,32.39,42.2
+Small appliances,small-appliances,Portable heating and cooling equipment,portable-heating-and-cooling-equipment,child,5.48,4.74,5.15,9.49,4,6.18,8.35,11.35,12.42
+,,,,,,,,,,,,,
+Household furnishings and equipment,household-furnishings-and-equipment,Miscellaneous household equipment,miscellaneous-household-equipment,,272.28,357.22,229.87,310.01,372.26,486.12,619.4,748.14,"1,237.09"
+,,,,,,,,,,,,,
+Miscellaneous household equipment,miscellaneous-household-equipment,Window coverings,window-coverings,child,1.89,0.34,0.62,3.54,8.22,6.76,5.74,6.87,31.72
+Miscellaneous household equipment,miscellaneous-household-equipment,Infants' equipment*,infants'-equipment,child,3.21,13.84,14.58,1.54,2.79,8.88,4.95,14.17,23.38
+Miscellaneous household equipment,miscellaneous-household-equipment,Laundry and cleaning equipment*,laundry-and-cleaning-equipment,child,5.47,6.91,18.04,10.25,8.48,12.3,18.87,20.29,26.38
+Miscellaneous household equipment,miscellaneous-household-equipment,Outdoor equipment*,outdoor-equipment,child,b/,5.35,4.88,3.3,23.47,21.83,9.39,22.7,45.19
+Miscellaneous household equipment,miscellaneous-household-equipment,"Lamps, lighting fixtures, ceiling fans*",lamps-lighting-fixtures-ceiling-fans,child,8.74,b/,1.96,17.1,18.59,21.64,9.7,13.47,59.31
+Miscellaneous household equipment,miscellaneous-household-equipment,Clocks and other household decorative items*,clocks-and-other-household-decorative-items,child,36.13,20.68,26.58,29.01,37.52,68.51,113.06,130.37,185.94
+Miscellaneous household equipment,miscellaneous-household-equipment,Telephones and accessories*,telephones-and-accessories,child,20.48,97.39,10.08,28.46,42.58,43.23,55.07,65.7,72.69
+Miscellaneous household equipment,miscellaneous-household-equipment,Lawn and garden equipment*,lawn-and-garden-equipment,child,6.32,8.09,10.33,27.92,25.45,49.07,19.03,69,107.48
+Miscellaneous household equipment,miscellaneous-household-equipment,Power tools*,power-tools,child,36.76,9.85,25.58,16.65,27.25,21.99,34.28,46.9,42.42
+Miscellaneous household equipment,miscellaneous-household-equipment,Office furniture for home use,office-furniture-for-home-use,child,1.78,3.31,1.63,4.6,2.9,2.43,3.32,6.68,10.95
+Miscellaneous household equipment,miscellaneous-household-equipment,Hand tools*,hand-tools,child,2.63,5.71,2.54,2.77,7.39,19.42,26.21,32.55,33.31
+Miscellaneous household equipment,miscellaneous-household-equipment,"Indoor plants, fresh flowers",indoor-plants-fresh-flowers,child,13.52,8.16,14.85,22.82,26.67,28.59,41.09,49.68,87.99
+Miscellaneous household equipment,miscellaneous-household-equipment,Closet and storage items*,closet-and-storage-items,child,2.4,6.74,0.95,2.47,3.74,5.99,14.4,12.97,23.48
+Miscellaneous household equipment,miscellaneous-household-equipment,Rental of furniture,rental-of-furniture,child,4.94,10.72,10.45,3.65,3.16,2.88,6.48,5.68,2.07
+Miscellaneous household equipment,miscellaneous-household-equipment,Luggage*,luggage,child,0.24,b/,8.16,4.68,0.2,7.15,5.95,2.47,39.95
+Miscellaneous household equipment,miscellaneous-household-equipment,Computers and computer hardware for nonbusiness use,computers-and-computer-hardware-for-nonbusiness-use,child,83.81,59.89,43.25,74.01,73.75,79.55,130.4,131.17,231.99
+Miscellaneous household equipment,miscellaneous-household-equipment,Portable memory,portable-memory,child,1.34,1.54,1.67,1.62,2.25,1.42,2.26,3.76,6.11
+Miscellaneous household equipment,miscellaneous-household-equipment,Computer software,computer-software,child,11.63,4.89,1.83,3.98,4.54,4.58,7.32,12.05,16.36
+Miscellaneous household equipment,miscellaneous-household-equipment,Computer accessories*,computer-accessories,child,7.78,49.91,3.63,16.47,10.41,27.51,22.78,41.32,67.02
+Miscellaneous household equipment,miscellaneous-household-equipment,Internet services away from home,internet-services-away-from-home,child,2.22,0.12,2.64,1.76,2.3,4.96,2.03,4.79,3.44
+Miscellaneous household equipment,miscellaneous-household-equipment,Business equipment for home use,business-equipment-for-home-use,child,3.99,0.73,0.65,1.83,2,2.85,1.96,3.85,6.38
+Miscellaneous household equipment,miscellaneous-household-equipment,Other hardware*,other-hardware,child,4.69,6.85,8.96,0.33,6.1,2.96,5,3.67,27
+Miscellaneous household equipment,miscellaneous-household-equipment,Other household appliances (owned home),other-household-appliances-(owned-home),child,1.28,0.36,0.8,2.37,2.51,5.75,11.54,6.38,15.66
+Miscellaneous household equipment,miscellaneous-household-equipment,Other household appliances (renter),other-household-appliances-(renter),child,1.17,1.37,1.21,2.61,4.03,2.55,3.17,1.83,1.15
+Miscellaneous household equipment,miscellaneous-household-equipment,Miscellaneous household equipment and parts*,miscellaneous-household-equipment-and-parts,child,9.89,34.47,14,26.27,25.96,33.3,65.39,39.82,69.72
+,,,,,,,,,,,,,
+Expenditures,expenditures,Apparel and services,apparel-and-services,,930.11,667.22,740.79,791.35,959.67,"1,320.77","1,517.61","1,602.49","2,928.28"
+,,,,,,,,,,,,,
+Apparel and services,apparel-and-services,Men and boys,men-and-boys,,262.78,136.01,151.62,191.58,222.91,313.15,321.23,372.25,729.39
+,,,,,,,,,,,,,
+Men and boys,men-and-boys,"Men, 16 and over",men-16-and-over,,209.44,109.3,110.14,144.84,159.23,228.65,227.25,293.74,556.76
+,,,,,,,,,,,,,
+"Men, 16 and over",men-16-and-over,Men's suits,men's-suits,child,13.57,3.66,3.5,4.84,3.6,4.57,8.6,19.43,47.61
+"Men, 16 and over",men-16-and-over,"Men's sportcoats, tailored jackets",men's-sportcoats-tailored-jackets,child,1.31,0.1,4.72,0.37,1.56,2.2,4.53,2.88,19.91
+"Men, 16 and over",men-16-and-over,Men's coats and jackets*,men's-coats-and-jackets,child,9.27,10.3,13.74,2.15,19.52,37.81,12.26,28.54,29.21
+"Men, 16 and over",men-16-and-over,Men's underwear*,men's-underwear,child,24.83,11.99,11.83,11.11,9.77,30.35,24.58,33.74,48.65
+"Men, 16 and over",men-16-and-over,Men's hosiery*,men's-hosiery,child,7.05,8.51,10.18,10.07,10.94,16.65,8.27,18.93,31.53
+"Men, 16 and over",men-16-and-over,Men's nightwear,men's-nightwear,child,0.11,0.3,0.34,0.31,0.92,1.28,0.91,1.08,3.65
+"Men, 16 and over",men-16-and-over,Men's accessories*,men's-accessories,child,37.06,8.24,9.93,10.39,9.06,18.31,17.21,20.97,50.09
+"Men, 16 and over",men-16-and-over,"Men's shirts, sweaters, and vests*",men's-shirts-sweaters-and-vests,child,58.71,25.25,26.23,55.39,45.42,47.61,71.56,68.41,162
+"Men, 16 and over",men-16-and-over,Men's active sportswear*,men's-active-sportswear,child,9.06,2.71,13.04,13.76,12.15,8.73,13.58,18.48,49.97
+"Men, 16 and over",men-16-and-over,Men's pants and shorts*,men's-pants-and-shorts,child,47.95,36.02,15.83,32.88,44.86,56.83,63.68,78.11,108.66
+"Men, 16 and over",men-16-and-over,Men's uniforms,men's-uniforms,child,0.53,1.8,0.18,2.79,1.25,3.72,1.71,1.69,4.23
+"Men, 16 and over",men-16-and-over,Men's costumes,men's-costumes,child,b/,0.4,0.62,0.78,0.19,0.6,0.34,1.47,1.25
+,,,,,,,,,,,,,
+Men and boys,men-and-boys,"Boys, 2 to 15",boys-2-to-15,,53.34,26.71,41.48,46.73,63.67,84.5,93.98,78.51,172.63
+,,,,,,,,,,,,,
+"Boys, 2 to 15",boys-2-to-15,Boys' coats and jackets,boys'-coats-and-jackets,child,3.48,3.01,1.46,2.45,3.66,2.98,4.7,5.79,8.11
+"Boys, 2 to 15",boys-2-to-15,Boy's shirts and sweaters*,boy's-shirts-and-sweaters,child,12.56,0.58,4.27,11.63,13.72,28.55,30.85,20.09,30.58
+"Boys, 2 to 15",boys-2-to-15,Boys' underwear*,boys'-underwear,child,14,5.57,7.96,0.95,5.82,12.79,12.29,7.68,17.88
+"Boys, 2 to 15",boys-2-to-15,Boys' nightwear,boys'-nightwear,child,0.07,0.01,0.62,1.4,0.86,0.58,0.42,0.93,2.59
+"Boys, 2 to 15",boys-2-to-15,Boys' hosiery*,boys'-hosiery,child,11.46,0.4,1.15,1.77,2.89,9.58,6.68,4.63,15.45
+"Boys, 2 to 15",boys-2-to-15,Boys' accessories*,boys'-accessories,child,1.98,b/,3.24,2.62,1.39,7.17,5,2.88,7.54
+"Boys, 2 to 15",boys-2-to-15,"Boys' suits, sportcoats, vests",boys'-suits-sportcoats-vests,child,0.32,0.45,0.46,0.45,0.38,1.21,1.18,0.97,2.29
+"Boys, 2 to 15",boys-2-to-15,Boys' pants and shorts,boys'-pants-and-shorts,child,9.1,14.8,13.38,15.61,18.28,16.83,18.81,24.5,35.3
+"Boys, 2 to 15",boys-2-to-15,Boys' uniforms and active sportswear*,boys'-uniforms-and-active-sportswear,child,b/,1.64,8.74,9.58,16.46,3.78,13.48,10.41,50.9
+"Boys, 2 to 15",boys-2-to-15,Boys' costumes,boys'-costumes,child,0.38,0.26,0.2,0.28,0.2,1.01,0.56,0.65,1.98
+,,,,,,,,,,,,,
+Apparel and services,apparel-and-services,Women and girls,women-and-girls,,320.97,217.48,288.61,277.14,412.75,506.95,571.65,622.99,"1,031.59"
+,,,,,,,,,,,,,
+Women and girls,women-and-girls,"Women, 16 and over",women-16-and-over,,257.87,194.65,228.58,251.35,355.97,432.92,439.56,536.46,863.8
+,,,,,,,,,,,,,
+"Women, 16 and over",women-16-and-over,Women's coats and jackets*,women's-coats-and-jackets,child,31.91,28.72,11.33,17.35,20.79,15.56,37.08,46.57,69.66
+"Women, 16 and over",women-16-and-over,Women's dresses*,women's-dresses,child,23.16,7.83,16.87,45.69,71.4,89.98,89.56,59.4,140.93
+"Women, 16 and over",women-16-and-over,"Women's sportcoats, tailored jackets",women's-sportcoats-tailored-jackets,child,1.1,b/,1.09,0.57,1.4,1.62,1.7,3.76,5.66
+"Women, 16 and over",women-16-and-over,"Women's sweaters, shirts, tops, vests*",women's-sweaters-shirts-tops-vests,child,72.04,46.06,54.3,67.55,76.41,117.93,82.12,161.12,238.75
+"Women, 16 and over",women-16-and-over,Women's skirts*,women's-skirts,child,5.8,0.89,3.28,5.02,5.94,8.76,6.48,8.92,19.94
+"Women, 16 and over",women-16-and-over,Women's pants and shorts*,women's-pants-and-shorts,child,31.11,32.61,60.6,24.96,56.93,66.94,51.69,70.7,133.15
+"Women, 16 and over",women-16-and-over,Women's active sportswear*,women's-active-sportswear,child,17.75,5.46,11.41,9.62,8.88,22.34,25.02,28.39,39.11
+"Women, 16 and over",women-16-and-over,Women's sleepwear*,women's-sleepwear,child,9.82,26.6,17.68,9.43,20.42,23.49,24.38,17.36,27.63
+"Women, 16 and over",women-16-and-over,Women's undergarments*,women's-undergarments,child,21.06,15.57,10.97,13.29,28.52,20.98,24.5,27.32,54.53
+"Women, 16 and over",women-16-and-over,Women's hosiery*,women's-hosiery,child,7.34,11.89,12.83,11.18,10.55,20.92,15.38,20.02,24.73
+"Women, 16 and over",women-16-and-over,Women's suits,women's-suits,child,5.62,0.92,1.6,2.28,1.75,0.86,2.5,3.08,12.16
+"Women, 16 and over",women-16-and-over,Women's accessories*,women's-accessories,child,28.62,16.25,24.9,39.95,49.7,40.48,74.08,84.59,88.8
+"Women, 16 and over",women-16-and-over,Women's uniforms,women's-uniforms,child,2.32,1.5,1.57,4.34,1.02,2.58,4.7,4.15,7.09
+"Women, 16 and over",women-16-and-over,Women's costumes,women's-costumes,child,0.21,0.35,0.17,0.13,2.24,0.5,0.37,1.08,1.68
+,,,,,,,,,,,,,
+Women and girls,women-and-girls,"Girls, 2 to 15",girls-2-to-15,,63.1,22.84,60.03,25.79,56.78,74.03,132.09,86.53,167.78
+,,,,,,,,,,,,,
+"Girls, 2 to 15",girls-2-to-15,Girls' coats and jackets,girls'-coats-and-jackets,child,0.67,1.64,1.33,2.24,3.23,4.27,4.46,4.84,8.96
+"Girls, 2 to 15",girls-2-to-15,Girls' dresses and suits*,girls'-dresses-and-suits,child,3.96,1.78,8.46,3.9,6.62,13.21,22.28,11.04,21.1
+"Girls, 2 to 15",girls-2-to-15,"Girls' shirts, blouses, sweaters, vests*",girls'-shirts-blouses-sweaters-vests,child,16.56,6.12,19.19,4.48,14.9,14.65,30.2,22.43,47.42
+"Girls, 2 to 15",girls-2-to-15,"Girls' skirts, pants, and shorts",girls'-skirts-pants-and-shorts,child,9.92,6.2,9.84,7.32,16.03,21.52,17.27,22.63,38.42
+"Girls, 2 to 15",girls-2-to-15,Girls' active sportswear*,girls'-active-sportswear,child,6.87,2.44,4.69,2.36,1.9,3.16,24.33,7.17,15.99
+"Girls, 2 to 15",girls-2-to-15,Girls' underwear and sleepwear*,girls'-underwear-and-sleepwear,child,14.28,b/,6.8,0.76,5.63,7.4,18.66,8.83,12.37
+"Girls, 2 to 15",girls-2-to-15,Girls' hosiery*,girls'-hosiery,child,6.92,1.72,5.27,0.94,2.04,4.18,4.9,4.17,10.05
+"Girls, 2 to 15",girls-2-to-15,Girls' accessories*,girls'-accessories,child,3.44,2.26,2.48,2.06,2.89,2.36,7.59,3.44,6.62
+"Girls, 2 to 15",girls-2-to-15,Girls' uniforms,girls'-uniforms,child,0.22,0.62,1.67,1.6,2.9,2.07,1.23,1.48,3.83
+"Girls, 2 to 15",girls-2-to-15,Girls' costumes,girls'-costumes,child,0.26,0.05,0.29,0.14,0.65,1.2,1.17,0.49,3.03
+,,,,,,,,,,,,,
+Apparel and services,apparel-and-services,Children under 2,children-under-2,,29.07,68.21,40.12,44.33,54.91,53.77,66.09,70.69,112.94
+,,,,,,,,,,,,,
+Children under 2,children-under-2,"Infant coat, jacket, snowsuit",infant-coat-jacket-snowsuit,child,1.74,0.08,0.55,0.74,0.47,0.92,0.48,0.25,1.77
+Children under 2,children-under-2,"Infant dresses, outerwear*",infant-dresses-outerwear,child,6.61,6.53,5.69,4.58,9.9,11.4,12.43,12.09,33.7
+Children under 2,children-under-2,Infant underwear*,infant-underwear,child,15.71,58.14,24.5,29.38,33.84,36.52,47.79,44.72,57.05
+Children under 2,children-under-2,"Infant nightwear, loungewear*",infant-nightwear-loungewear,child,1.03,1.6,3.13,2.97,2.2,2.95,0.89,3.52,6.19
+Children under 2,children-under-2,Infant accessories*,infant-accessories,child,3.98,1.86,6.25,6.66,8.51,1.97,4.5,10.11,14.23
+,,,,,,,,,,,,,
+Apparel and services,apparel-and-services,Footwear,footwear,,224.89,153.47,172.13,142.78,164.83,301.79,373.1,365.42,563.33
+,,,,,,,,,,,,,
+Footwear,footwear,Men's footwear*,men's-footwear,child,85.25,49.1,57.26,53.25,41.95,61.54,71.54,119.66,182.51
+Footwear,footwear,Boys' footwear*,boys'-footwear,child,54.96,24.23,14.64,6.88,33.52,75.97,79.84,41.72,68.51
+Footwear,footwear,Women's footwear*,women's-footwear,child,55.33,70.11,69.61,71.88,73.67,133.45,159.42,186.35,263.51
+Footwear,footwear,Girls' footwear*,girls'-footwear,child,29.36,10.04,30.62,10.77,15.69,30.83,62.31,17.7,48.8
+,,,,,,,,,,,,,
+Apparel and services,apparel-and-services,Other apparel products and services,other-apparel-products-and-services,,92.41,92.06,88.31,135.53,104.27,145.11,185.54,171.14,491.04
+,,,,,,,,,,,,,
+Other apparel products and services,other-apparel-products-and-services,"Material and supplies for sewing, needlework, quilting (includes household items)*",material-and-supplies-for-sewing-needlework-quilting-(includes-household-items),child,12.94,4.58,11.49,11.75,16.58,14.81,26.72,27.12,43.48
+Other apparel products and services,other-apparel-products-and-services,Watches*,watches,child,6.68,9.93,3.3,8.03,2.39,26.61,28.7,12.29,137.71
+Other apparel products and services,other-apparel-products-and-services,Jewelry,jewelry,child,8.93,3.96,8.46,58.83,9.55,32.45,38.46,50.91,153.19
+Other apparel products and services,other-apparel-products-and-services,Shoe repair and other shoe service,shoe-repair-and-other-shoe-service,child,2.71,0.68,0.52,0.25,0.69,1.08,0.92,1.02,2.74
+Other apparel products and services,other-apparel-products-and-services,Coin-operated apparel laundry and dry cleaning,coin-operated-apparel-laundry-and-dry-cleaning,child,43.52,62.59,55.46,45.73,57.09,48.95,58.51,34.15,21.14
+Other apparel products and services,other-apparel-products-and-services,"Alteration, repair and tailoring of apparel and accessories",alteration-repair-and-tailoring-of-apparel-and-accessories,child,0.8,1.52,1.28,2.58,2.32,2.13,3.58,3.86,11.99
+Other apparel products and services,other-apparel-products-and-services,Clothing rental,clothing-rental,child,1.07,0.96,0.04,0.18,0.22,1.07,0.99,2.65,3.97
+Other apparel products and services,other-apparel-products-and-services,Watch and jewelry repair,watch-and-jewelry-repair,child,0.43,0.47,0.36,0.8,2.54,1.59,2.8,2.26,5.62
+Other apparel products and services,other-apparel-products-and-services,Apparel laundry and dry cleaning not coin-operated,apparel-laundry-and-dry-cleaning-not-coin-operated,child,15.33,6.78,7.4,7.27,12.9,14.86,24.47,34.02,108.74
+Other apparel products and services,other-apparel-products-and-services,Clothing storage,clothing-storage,child,b/,0.58,b/,0.12,b/,1.55,0.4,2.86,2.44
+,,,,,,,,,,,,,
+Expenditures,expenditures,Transportation,transportation,,"3,276.33","3,089.80","3,537.62","4,203.43","5,749.38","6,434.78","8,289.10","9,488.40","14,578.78"
+,,,,,,,,,,,,,
+Transportation,transportation,Vehicle purchases (net outlay),vehicle-purchases-(net-outlay),,980.2,"1,179.25","1,252.75","1,195.13","1,905.57","1,969.90","3,150.71","3,441.73","5,582.34"
+,,,,,,,,,,,,,
+Vehicle purchases (net outlay),vehicle-purchases-(net-outlay),"Cars and trucks, new",cars-and-trucks-new,,423.21,280.11,510.87,399.76,523.82,763.92,"1,520.44","1,206.11","3,085.24"
+,,,,,,,,,,,,,
+"Cars and trucks, new",cars-and-trucks-new,New cars,new-cars,child,284.26,111.89,470.55,251.14,271.25,233.49,697.55,672.23,"1,297.95"
+"Cars and trucks, new",cars-and-trucks-new,New trucks,new-trucks,child,138.95,168.22,40.32,148.62,252.57,530.44,822.89,533.88,"1,787.28"
+,,,,,,,,,,,,,
+Vehicle purchases (net outlay),vehicle-purchases-(net-outlay),"Cars and trucks, used",cars-and-trucks-used,,556.99,897.04,741.88,795.37,"1,341.33","1,203.20","1,593.91","2,146.91","2,408.43"
+,,,,,,,,,,,,,
+"Cars and trucks, used",cars-and-trucks-used,Used cars,used-cars,child,302.94,266.67,635.73,610.07,733.39,470.71,748.76,"1,195.08","1,192.80"
+"Cars and trucks, used",cars-and-trucks-used,Used trucks,used-trucks,child,254.05,630.37,106.15,185.31,607.94,732.5,845.15,951.84,"1,215.63"
+,,,,,,,,,,,,,
+Vehicle purchases (net outlay),vehicle-purchases-(net-outlay),Other vehicles,other-vehicles,,b/,2.1,b/,b/,40.42,2.77,36.36,88.71,88.67
+,,,,,,,,,,,,,
+Other vehicles,other-vehicles,New motorcycles,new-motorcycles,child,b/,b/,b/,b/,34.29,b/,0.85,80.86,36.47
+Other vehicles,other-vehicles,New aircraft,new-aircraft,child,b/,b/,b/,b/,b/,b/,b/,b/,b/
+Other vehicles,other-vehicles,Used motorcycles,used-motorcycles,child,b/,2.1,b/,b/,6.13,2.77,35.51,7.85,52.2
+Other vehicles,other-vehicles,Used aircraft,used-aircraft,child,b/,b/,b/,b/,b/,b/,b/,b/,b/
+,,,,,,,,,,,,,
+Transportation,transportation,Gasoline and motor oil,gasoline-and-motor-oil,,"1,117.43","1,044.63","1,124.56","1,391.69","1,737.11","2,175.48","2,387.90","2,738.93","3,557.91"
+,,,,,,,,,,,,,
+Gasoline and motor oil,gasoline-and-motor-oil,Gasoline,gasoline,child,"1,061.65","1,002.78","1,047.50","1,321.05","1,645.34","2,029.48","2,248.51","2,547.35","3,243.18"
+Gasoline and motor oil,gasoline-and-motor-oil,Diesel fuel,diesel-fuel,child,3.28,6.08,25.5,10.02,15.2,31.22,24.73,51.79,67.21
+Gasoline and motor oil,gasoline-and-motor-oil,Gasoline on out-of-town trips,gasoline-on-out-of-town-trips,child,47.25,29.36,42.74,50.12,64.95,102.59,99.19,124.98,229.91
+Gasoline and motor oil,gasoline-and-motor-oil,Motor oil,motor-oil,child,4.78,6.11,8.39,9.99,10.96,11.16,14.46,13.55,15.3
+Gasoline and motor oil,gasoline-and-motor-oil,Motor oil on out-of-town trips,motor-oil-on-out-of-town-trips,child,0.48,0.3,0.43,0.51,0.66,1.04,1,1.26,2.32
+,,,,,,,,,,,,,
+Transportation,transportation,Other vehicle expenses,other-vehicle-expenses,,988.19,693.82,987.13,"1,349.65","1,863.14","1,969.19","2,336.20","2,828.88","4,324.68"
+,,,,,,,,,,,,,
+Other vehicle expenses,other-vehicle-expenses,Vehicle finance charges,vehicle-finance-charges,,37.05,52.36,46.68,63.39,99.63,164.31,181.38,237.52,357.47
+,,,,,,,,,,,,,
+Vehicle finance charges,vehicle-finance-charges,Automobile finance charges,automobile-finance-charges,child,16.8,29.69,28.59,36.3,51.13,80.89,88,110.08,134.45
+Vehicle finance charges,vehicle-finance-charges,Truck finance charges,truck-finance-charges,child,20.1,22.62,17.84,26.09,43.9,79.35,83.7,114.9,194.56
+Vehicle finance charges,vehicle-finance-charges,Motorcycle and plane finance charges,motorcycle-and-plane-finance-charges,child,0.01,0.06,0.07,1.01,0.82,1.18,2.85,6.03,9.35
+Vehicle finance charges,vehicle-finance-charges,Other vehicle finance charges,other-vehicle-finance-charges,child,0.14,b/,0.18,b/,3.79,2.89,6.83,6.5,19.12
+,,,,,,,,,,,,,
+Other vehicle expenses,other-vehicle-expenses,Maintenance and repairs,maintenance-and-repairs,,363.97,270.39,245.39,388.99,564.25,631.15,782.4,891.8,"1,310.79"
+,,,,,,,,,,,,,
+Maintenance and repairs,maintenance-and-repairs,"Coolant, brake fluid, transmission fluid, and other additives",coolant-brake-fluid-transmission-fluid-and-other-additives,child,3.91,3.43,3.17,4.59,5.54,5.39,8.52,8.21,7.24
+Maintenance and repairs,maintenance-and-repairs,"Tires - purchased, replaced, installed",tires---purchased-replaced-installed,child,37.52,31.43,38.03,69.37,74.11,104.76,105.4,148.13,197.04
+Maintenance and repairs,maintenance-and-repairs,"Parts, equipment, and accessories",parts-equipment-and-accessories,child,22.08,11.03,20.07,29.84,59.04,40.19,83.43,63.14,62.28
+Maintenance and repairs,maintenance-and-repairs,Vehicle products and cleaning services*,vehicle-products-and-cleaning-services,child,6.92,0.47,2.15,3.35,5.75,5.03,20.87,4.77,13.04
+Maintenance and repairs,maintenance-and-repairs,"Misc. auto repair, servicing*",misc.-auto-repair-servicing,child,37.78,31.11,18.33,44.78,54.09,77.43,65.71,124.36,151.74
+Maintenance and repairs,maintenance-and-repairs,Body work and painting,body-work-and-painting,child,32.21,8.94,0.54,14.17,7.61,24.92,32.56,24.99,50.56
+Maintenance and repairs,maintenance-and-repairs,Vehicle or engine repairs,vehicle-or-engine-repairs,child,78.47,77.11,53.37,60.89,115.34,114.02,161.71,205.96,284.96
+Maintenance and repairs,maintenance-and-repairs,Motor tune-up,motor-tune-up,child,24.29,10.75,14.62,27.8,24.26,32.1,24.42,37.58,84.95
+Maintenance and repairs,maintenance-and-repairs,"Lube, oil change, and oil filters",lube-oil-change-and-oil-filters,child,33.68,36.86,27.41,38.35,54.09,60.61,75.07,90.27,122.46
+Maintenance and repairs,maintenance-and-repairs,"Front-end alignment, wheel balance and rotation",front-end-alignment-wheel-balance-and-rotation,child,16.34,4.28,7.06,13.04,16.75,27.16,29.44,23.2,39.43
+Maintenance and repairs,maintenance-and-repairs,Shock absorber replacement,shock-absorber-replacement,child,17.09,1.31,1.31,1.78,12.29,11.37,8.03,19.13,14.37
+Maintenance and repairs,maintenance-and-repairs,"Gas tank repair, replacement*",gas-tank-repair-replacement,child,b/,b/,b/,b/,37.61,22.61,20.99,13.14,60.52
+Maintenance and repairs,maintenance-and-repairs,Repair tires and other repair work,repair-tires-and-other-repair-work,child,51.55,35.23,43.1,80.08,79.1,88.41,120.34,113.08,185.17
+Maintenance and repairs,maintenance-and-repairs,Auto repair service policy,auto-repair-service-policy,child,2.13,18.43,16.22,0.95,18.67,17.14,25.93,15.83,37.01
+,,,,,,,,,,,,,
+Other vehicle expenses,other-vehicle-expenses,Vehicle insurance*,vehicle-insurance,child,327.24,254.15,547.75,699.64,876.06,833.77,931.14,"1,209.23","1,617.13"
+Other vehicle expenses,other-vehicle-expenses,"Vehicle rental, leases, licenses, and other charges",vehicle-rental-leases-licenses-and-other-charges,,259.93,116.91,147.31,197.63,323.2,339.96,441.27,490.34,"1,039.29"
+,,,,,,,,,,,,,
+"Vehicle rental, leases, licenses, and other charges",vehicle-rental-leases-licenses-and-other-charges,Leased and rented vehicles,leased-and-rented-vehicles,,180.89,38.36,61.36,95.99,192.59,184.04,226.98,267.11,649.2
+,,,,,,,,,,,,,
+Leased and rented vehicles,leased-and-rented-vehicles,Rented vehicles,rented-vehicles,,17.45,12.34,9.34,15.83,22.81,28.95,30.41,34.74,103.36
+Rented vehicles,rented-vehicles,Auto/truck rental,auto/truck-rental,child,12.65,8.52,5.36,13.11,16.59,17.34,23.81,22.25,55.44
+Rented vehicles,rented-vehicles,"Auto/truck rental, out-of-town trips",auto/truck-rental-out-of-town-trips,child,4.8,3.83,3.99,2.72,5.41,11.61,6.59,12.49,41.32
+Rented vehicles,rented-vehicles,Motorcycle rental,motorcycle-rental,child,b/,b/,b/,b/,0.4,b/,b/,b/,0.06
+Rented vehicles,rented-vehicles,"Motorcycle rental, out-of-town trips",motorcycle-rental-out-of-town-trips,child,b/,b/,b/,b/,0.4,b/,b/,b/,0.23
+Rented vehicles,rented-vehicles,Aircraft rental,aircraft-rental,child,b/,b/,b/,b/,b/,b/,b/,b/,1.59
+Rented vehicles,rented-vehicles,"Aircraft rental, out-of-town trips",aircraft-rental-out-of-town-trips,child,b/,b/,b/,b/,b/,b/,b/,b/,4.73
+,,,,,,,,,,,,,
+Leased and rented vehicles,leased-and-rented-vehicles,Leased vehicles,leased-vehicles,,163.44,26.02,52.02,80.15,169.78,155.09,196.57,232.37,545.84
+Leased vehicles,leased-vehicles,Car/truck lease payments,car/truck-lease-payments,child,75.67,26.02,40.37,54.27,121.15,134.27,105.76,218.16,424.86
+Leased vehicles,leased-vehicles,Cash downpayment car/truck lease,cash-downpayment-car/truck-lease,child,22.7,b/,11.64,23.57,15.76,13.61,6.71,6.45,41.89
+Leased vehicles,leased-vehicles,Termination fee for car/truck lease,termination-fee-for-car/truck-lease,child,b/,b/,b/,b/,1.15,0.51,b/,1.09,8.84
+Leased vehicles,leased-vehicles,Extra fees for car/truck lease,extra-fees-for-car/truck-lease,child,b/,b/,a/,b/,0.02,0.01,0.3,a/,1.74
+Leased vehicles,leased-vehicles,Trade in allowance for car/truck lease,trade-in-allowance-for-car/truck-lease,child,65.07,b/,b/,2.31,31.7,6.68,83.8,6.67,68.51
+,,,,,,,,,,,,,
+"Vehicle rental, leases, licenses, and other charges",vehicle-rental-leases-licenses-and-other-charges,Vehicle registration state,vehicle-registration-state,child,23.76,34.1,37.76,43.02,62.2,74.88,112.88,106.15,145.24
+"Vehicle rental, leases, licenses, and other charges",vehicle-rental-leases-licenses-and-other-charges,Vehicle registration local,vehicle-registration-local,child,4.33,1.91,6.53,4.28,6.95,5.08,5.99,6.65,10.27
+"Vehicle rental, leases, licenses, and other charges",vehicle-rental-leases-licenses-and-other-charges,Drivers' license,drivers'-license,child,7.16,7.47,5.42,6.33,7.75,5.71,10.11,8.49,11.76
+"Vehicle rental, leases, licenses, and other charges",vehicle-rental-leases-licenses-and-other-charges,Vehicle inspection,vehicle-inspection,child,3.12,4.85,4.37,7.73,7.11,8.58,9.34,13.1,16.18
+"Vehicle rental, leases, licenses, and other charges",vehicle-rental-leases-licenses-and-other-charges,Parking fees,parking-fees,,26.14,15.4,12.61,9.79,13.51,20.89,25.05,29.75,85.33
+,,,,,,,,,,,,,
+Parking fees,parking-fees,"Parking fees in home city, excluding residence",parking-fees-in-home-city-excluding-residence,child,22.63,14.55,12.04,9.63,12.23,14.46,21.93,24.22,71.02
+Parking fees,parking-fees,"Parking fees, out-of-town trips",parking-fees-out-of-town-trips,child,3.51,0.84,0.57,0.16,1.28,6.43,3.12,5.53,14.32
+,,,,,,,,,,,,,
+"Vehicle rental, leases, licenses, and other charges",vehicle-rental-leases-licenses-and-other-charges,Tolls or electronic toll passes,tolls-or-electronic-toll-passes,child,6.33,7.85,4.43,9.76,10.11,17.19,24.87,29.26,71.4
+"Vehicle rental, leases, licenses, and other charges",vehicle-rental-leases-licenses-and-other-charges,Tolls on out-of-town trips,tolls-on-out-of-town-trips,child,0.87,1.01,0.67,1.7,1.6,3.1,3.12,4.25,9.29
+"Vehicle rental, leases, licenses, and other charges",vehicle-rental-leases-licenses-and-other-charges,Towing charges,towing-charges,child,0.86,0.85,4.14,3.31,2.2,3.94,6.72,4.13,5.37
+"Vehicle rental, leases, licenses, and other charges",vehicle-rental-leases-licenses-and-other-charges,Automobile service clubs and GPS services,automobile-service-clubs-and-gps-services,child,6.45,5.11,10.01,15.72,19.19,16.55,16.21,21.44,35.26
+,,,,,,,,,,,,,
+Transportation,transportation,Public and other transportation,public-and-other-transportation,,190.51,172.11,173.17,266.95,243.56,320.21,414.3,478.86,"1,113.86"
+,,,,,,,,,,,,,
+Public and other transportation,public-and-other-transportation,Airline fares,airline-fares,child,96.64,66.16,91.54,91.34,104.23,189.57,275.48,313.38,752.8
+Public and other transportation,public-and-other-transportation,Intercity bus fares,intercity-bus-fares,child,8.03,11.05,6.23,6.08,6.71,4.91,9.38,13.61,19.03
+Public and other transportation,public-and-other-transportation,Intracity mass transit fares,intracity-mass-transit-fares,child,55.94,77.95,60.7,58.71,57.31,55.79,66.64,67.99,122.68
+Public and other transportation,public-and-other-transportation,Local trans. on out-of-town trips,local-trans.-on-out-of-town-trips,child,2.28,1.61,3.16,4.2,6.25,5.15,8.71,9.43,25.83
+Public and other transportation,public-and-other-transportation,Taxi fares and limousine services on trips,taxi-fares-and-limousine-services-on-trips,child,1.34,0.95,1.85,2.47,3.67,3.02,5.11,5.54,15.17
+Public and other transportation,public-and-other-transportation,Taxi fares and limousine services*,taxi-fares-and-limousine-services,child,14.51,10.68,4.24,9.18,19.08,14.19,15.62,15.35,37.74
+Public and other transportation,public-and-other-transportation,Intercity train fares,intercity-train-fares,child,6.07,2.46,2.73,7.41,5.78,10.1,15.41,14.97,27.53
+Public and other transportation,public-and-other-transportation,Ship fares,ship-fares,child,5.69,1.25,2.72,87.18,39.64,37.48,10.47,37.13,107.3
+Public and other transportation,public-and-other-transportation,School bus,school-bus,child,b/,b/,b/,0.39,0.89,b/,7.47,1.45,5.78
+,,,,,,,,,,,,,
+Expenditures,expenditures,Health care,healthcare,,"1,568.10","1,299.63","1,821.58","2,815.70","3,123.87","3,538.60","3,709.47","4,702.25","6,416.72"
+,,,,,,,,,,,,,
+Healthcare,healthcare,Health insurance,health-insurance,,964.25,836.43,"1,198.20","1,830.84","2,116.96","2,494.56","2,563.71","3,060.07","4,289.72"
+,,,,,,,,,,,,,
+Health insurance,health-insurance,Commercial health insurance,commercial-health-insurance,,131.36,105.33,142.53,224.61,277.11,376.86,460.58,648.08,"1,070.70"
+Commercial health insurance,commercial-health-insurance,Fee for service health plan (not BCBS),fee-for-service-health-plan-(not-bcbs),child,131.36,105.33,142.53,224.61,277.11,376.86,460.58,648.08,"1,070.70"
+,,,,,,,,,,,,,
+Health insurance,health-insurance,"Blue Cross, Blue Shield",blue-cross-blue-shield,,307.24,165.11,169.87,354.74,491.31,576.64,733.41,991.45,"1,670.93"
+"Blue Cross, Blue Shield",blue-cross-blue-shield,Fee for service health plan (BCBS),fee-for-service-health-plan-(bcbs),child,167.03,92.28,64.67,159.67,234.85,300.55,376.91,506.39,"1,012.44"
+"Blue Cross, Blue Shield",blue-cross-blue-shield,Health maintenance organization (BCBS),health-maintenance-organization-(bcbs),child,116.4,42.85,46.03,140.85,188.89,184.8,266.2,403.54,610.83
+"Blue Cross, Blue Shield",blue-cross-blue-shield,Commercial medicare supplement (BCBS),commercial-medicare-supplement-(bcbs),child,11.66,27.08,45.63,50.32,51.6,78.34,72.63,58.7,25.81
+"Blue Cross, Blue Shield",blue-cross-blue-shield,Other health insurance (BCBS),other-health-insurance-(bcbs),child,12.15,2.9,13.53,3.89,15.96,12.95,17.67,22.81,21.85
+,,,,,,,,,,,,,
+Health insurance,health-insurance,Health maintenance organization (not BCBS),health-maintenance-organization-(not-bcbs),child,186.66,129.69,179.48,230.23,267.31,426.36,508.66,605.53,945.72
+Health insurance,health-insurance,Medicare payments,medicare-payments,child,221.6,265.22,470.11,649.14,662.31,649.43,514.7,442.57,253.54
+Health insurance,health-insurance,Medicare prescription drug premium,medicare-prescription-drug-premium,child,44.94,60.77,106.03,114.73,126.19,129.05,84.39,80.69,43.86
+Health insurance,health-insurance,Commercial medicare supplements and other health insurance,commercial-medicare-supplements-and-other-health-insurance,,58.85,69.55,108.88,230.61,243.77,276.9,173.35,197.47,199.32
+,,,,,,,,,,,,,
+Commercial medicare supplements and other health insurance,commercial-medicare-supplements-and-other-health-insurance,Commercial medicare supplement (not BCBS),commercial-medicare-supplement-(not-bcbs),child,31.19,39.92,82.62,198.07,200.46,208.25,108.52,108.56,53.18
+Commercial medicare supplements and other health insurance,commercial-medicare-supplements-and-other-health-insurance,Other health insurance (not BCBS),other-health-insurance-(not-bcbs),child,27.65,29.63,26.27,32.54,43.31,68.64,64.83,88.91,146.14
+,,,,,,,,,,,,,
+Health insurance,health-insurance,Long term care insurance,long-term-care-insurance,child,13.61,40.77,21.3,26.78,48.96,59.32,88.63,94.29,105.66
+,,,,,,,,,,,,,
+Healthcare,healthcare,Medical services,medical-services,,288.37,211.43,284.68,474.18,495.44,465.98,614.37,959.07,"1,269.97"
+,,,,,,,,,,,,,
+Medical services,medical-services,Physician's services,physician's-services,child,65.92,38.46,65.11,74.24,103.26,132.04,130.41,204.45,328.1
+Medical services,medical-services,Dental services,dental-services,child,105.49,82.91,60.16,239.73,201.52,161.59,255.23,257.52,463.68
+Medical services,medical-services,Eyecare services,eyecare-services,child,12.6,51.43,10.5,35.47,32.15,65.71,28.65,48.58,64.88
+Medical services,medical-services,Service by professionals other than physician,service-by-professionals-other-than-physician,child,11.98,8.46,11.5,42.79,24.44,47.08,41.78,66.53,101.73
+Medical services,medical-services,"Lab tests, x-rays",lab-tests-x-rays,child,10.59,10.55,8.13,14.06,21.36,30.26,37.88,55.46,76.39
+Medical services,medical-services,Hospital room and services,hospital-room-and-services,child,52.63,13.97,45.21,44.91,87.61,16.82,87.13,146.11,199.75
+Medical services,medical-services,Medical care in retirement community,medical-care-in-retirement-community,child,b/,b/,b/,b/,b/,0.59,b/,b/,0.06
+Medical services,medical-services,Care in convalescent or nursing home,care-in-convalescent-or-nursing-home,child,26.29,1.45,79.16,18.4,10.15,b/,b/,145.54,12.09
+Medical services,medical-services,Repair of medical equipment*,repair-of-medical-equipment,child,b/,b/,b/,b/,1.17,b/,b/,b/,b/
+Medical services,medical-services,Other medical care services,other-medical-care-services,child,2.86,4.19,4.91,4.57,13.79,11.91,33.29,34.88,23.28
+,,,,,,,,,,,,,
+Healthcare,healthcare,Drugs,drugs,,262.82,184.41,288.2,398.06,413.21,455.71,415.3,520.46,639.4
+,,,,,,,,,,,,,
+Drugs,drugs,Nonprescription drugs*,nonprescription-drugs,child,52.97,37.83,45.94,61.3,82.93,83.26,95.83,95.83,139.85
+Drugs,drugs,Nonprescription vitamins*,nonprescription-vitamins,child,58.51,28.29,32.63,46.04,36.94,29.78,46.11,45.22,85.85
+Drugs,drugs,Prescription drugs,prescription-drugs,child,151.34,118.29,209.63,290.72,293.33,342.68,273.35,379.41,413.71
+,,,,,,,,,,,,,
+Healthcare,healthcare,Medical supplies,medical-supplies,,52.66,67.36,50.49,112.62,98.27,122.35,116.09,162.66,217.63
+,,,,,,,,,,,,,
+Medical supplies,medical-supplies,Eyeglasses and contact lenses,eyeglasses-and-contact-lenses,child,20.21,33.6,21.98,52.01,42.46,53.14,47.37,75.95,125.7
+Medical supplies,medical-supplies,Hearing aids,hearing-aids,child,-1.16,10.22,0.23,16.07,17.39,26.65,8.71,41.17,14.81
+Medical supplies,medical-supplies,Topicals and dressings*,topicals-and-dressings,child,26.87,16.51,18.33,23.88,31.91,33.81,41.56,38.27,58.71
+Medical supplies,medical-supplies,Adult diapers,adult-diapers,child,3.62,4.89,2.97,3.9,1.56,2.09,1.87,2.09,4.04
+Medical supplies,medical-supplies,Medical equipment for general use,medical-equipment-for-general-use,child,2.04,1.44,2.57,10.1,1.61,1.08,2.29,1.62,4.13
+Medical supplies,medical-supplies,Supportive and convalescent medical equipment,supportive-and-convalescent-medical-equipment,child,1.09,0.71,4.13,4.19,1.9,3.49,12.24,2.52,8.5
+Medical supplies,medical-supplies,Rental of medical equipment,rental-of-medical-equipment,child,b/,b/,0.14,1.08,0.49,0.03,1.18,0.52,0.88
+Medical supplies,medical-supplies,"Rental of supportive, convalescent medical equipment",rental-of-supportive-convalescent-medical-equipment,child,b/,b/,0.13,1.41,0.93,2.07,0.87,0.51,0.86
+,,,,,,,,,,,,,
+Expenditures,expenditures,Entertainment,entertainment,,"1,085.31",991.41,"1,046.64","1,283.70","1,407.18","1,968.69","2,131.49","2,548.41","4,654.91"
+,,,,,,,,,,,,,
+Entertainment,entertainment,Fees and admissions,fees-and-admissions,,167.04,137.22,164.38,177.55,182.16,274.27,348.81,457.7,"1,358.48"
+,,,,,,,,,,,,,
+Fees and admissions,fees-and-admissions,"Recreation expenses, out-of-town trips",recreation-expenses-out-of-town-trips,child,4.33,2.76,4.9,6.17,7.84,10.26,10.35,17.09,37.99
+Fees and admissions,fees-and-admissions,"Social, recreation, health club membership",social-recreation-health-club-membership,child,52.01,61.34,22,45.64,38.33,70.64,90.78,120.45,329.18
+Fees and admissions,fees-and-admissions,Fees for participant sports*,fees-for-participant-sports,child,25.96,2.98,60.66,26.2,37.12,41.27,49.69,57.55,219.74
+Fees and admissions,fees-and-admissions,"Participant sports, out-of-town trips",participant-sports-out-of-town-trips,child,1.72,0.18,3.02,4.14,3.15,7.66,9.89,8.83,51.38
+Fees and admissions,fees-and-admissions,"Play, theater, opera, concert",play-theater-opera-concert,child,6.64,7.82,8.36,19.46,16.28,26.74,31.7,37.6,91.25
+Fees and admissions,fees-and-admissions,"Movies, parks, museums",movies-parks-museums,child,21.81,15.49,17.89,19.36,22.03,30.83,46.14,56.1,110.79
+Fees and admissions,fees-and-admissions,"Movie, other admissions, out-of-town trips",movie-other-admissions-out-of-town-trips,child,7.44,13.68,6.22,12.68,22,28.17,32.15,40.51,108.81
+Fees and admissions,fees-and-admissions,Admission to sporting events,admission-to-sporting-events,child,13.2,9.25,23.2,15.82,5.56,14.19,24.06,28.51,94.7
+Fees and admissions,fees-and-admissions,"Admission to sports events, out-of-town trips",admission-to-sports-events-out-of-town-trips,child,2.48,4.56,2.07,4.23,7.33,9.38,10.7,13.5,36.25
+Fees and admissions,fees-and-admissions,Fees for recreational lessons,fees-for-recreational-lessons,child,27.13,16.4,11.17,17.68,14.68,24.87,33,60.48,240.38
+Fees and admissions,fees-and-admissions,"Other entertainment services, out-of-town trips",other-entertainment-services-out-of-town-trips,child,4.33,2.76,4.9,6.17,7.84,10.26,10.35,17.09,37.99
+,,,,,,,,,,,,,
+Entertainment,entertainment,Audio and visual equipment and services,audio-and-visual-equipment-and-services,,577.75,558.18,579.42,715.92,771.24,967.28,965.45,"1,160.71","1,425.35"
+,,,,,,,,,,,,,
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,"Stereos, radios, speakers, and sound components including those in vehicles",stereos-radios-speakers-and-sound-components-including-those-in-vehicles,child,2.01,3.44,2.18,1.49,4.17,4.92,13.98,14.83,19.26
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,Phonographs*,phonographs,child,b/,b/,b/,b/,b/,b/,b/,b/,b/
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,Televisions,televisions,child,64.18,51.79,30.22,49.41,54.18,60.35,87.87,85.16,134.14
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,Cable and satellite television services,cable-and-satellite-television-services,child,417.1,410.98,478.28,580.39,600.48,672.18,695.79,769.38,925.73
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,Miscellaneous sound equipment*,miscellaneous-sound-equipment,child,b/,b/,1.85,6.68,1.3,10.99,6.13,0.19,26.72
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,Miscellaneous video equipment*,miscellaneous-video-equipment,child,1.62,12.74,1.9,1.56,1.38,1.87,4.43,11.16,10.03
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,Satellite radio service,satellite-radio-service,child,5.97,3.2,7.62,6.75,9.53,12.55,11.17,19.05,21.97
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,Sound equipment accessories*,sound-equipment-accessories,child,12.37,6.64,5.26,3.43,2.77,7.3,7.01,62.96,18.85
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,Online gaming services,online-gaming-services,child,1.4,3.14,0.96,1.85,1.64,2.15,2.07,3.4,4.45
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,VCR's and video disc players,vcr's-and-video-disc-players,child,1.17,2.12,2.09,5.22,4.06,4.83,5.71,7.36,9.44
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,Digital media players and recorders*,digital-media-players-and-recorders,child,b/,b/,b/,b/,1.5,b/,b/,1.13,1.24
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,"Video cassettes, tapes, and discs*",video-cassettes-tapes-and-discs,child,16.82,2.22,7.98,10.33,13.97,38.39,19.3,28.81,35.97
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,Video game software,video-game-software,child,7.59,8.43,4.35,5.1,9.23,10.23,9.85,12.62,18.14
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,Video game hardware and accessories*,video-game-hardware-and-accessories,child,12.68,23.92,7.74,6.94,20.02,83.41,38.81,71.82,59.28
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,"Streaming, downloading video",streaming-downloading-video,child,8.27,9.12,7.38,7.63,9.05,10.29,14.19,18.02,30.49
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,"Applications, games, ringtones for handheld devices",applications-games-ringtones-for-handheld-devices,child,0.64,0.45,1.25,3.16,0.99,1.5,1.29,1.1,3.34
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,"Repair of tv, radio, and sound equipment",repair-of-tv-radio-and-sound-equipment,child,0.21,1.09,0.08,0.44,1.39,4.86,1.64,2.73,3.72
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,Rental of televisions,rental-of-televisions,child,b/,b/,1.44,1.69,2.3,0.45,0.2,0.28,b/
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,Personal digital audio players,personal-digital-audio-players,child,2.42,1.35,1.27,1.74,1.85,1.22,3.79,2.02,5.13
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,Satellite dishes,satellite-dishes,child,0.15,0.12,0.15,0.79,0.52,0.38,0.72,1.09,2.29
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,"CDs, records, audio tapes",cds-records-audio-tapes,child,2.04,1.82,3.02,1.78,2.63,5.22,6.45,5.3,16
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,"Streaming, downloading audio",streaming-downloading-audio,child,2.88,0.61,1.89,1.26,1.25,1.8,1.64,3.4,6.88
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,"Rental of VCR, radio, and sound equipment",rental-of-vcr-radio-and-sound-equipment,child,b/,0.11,b/,0.98,3.31,0.67,b/,b/,0.14
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,Musical instruments and accessories,musical-instruments-and-accessories,child,1.21,4.93,4.16,5.49,4.17,14.68,12.74,15.01,35.47
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,Rental and repair of musical instruments,rental-and-repair-of-musical-instruments,child,b/,b/,0.18,0.94,0.66,0.57,2.34,0.64,3.01
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,"Rental of video cassettes, tapes, films, and discs*",rental-of-video-cassettes-tapes-films-and-discs,child,15.68,8.76,8.16,10.56,18.41,14.47,16.56,22.23,31.69
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,Rental of video hardware/accessories,rental-of-video-hardware/accessories,child,0.61,b/,b/,b/,b/,0.03,0.22,b/,b/
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,Rental of video software,rental-of-video-software,child,0.74,0.17,0.02,0.3,0.34,0.58,0.29,0.63,1.17
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,Installation of televisions,installation-of-televisions,child,b/,1.04,b/,b/,0.09,1.38,0.49,0.41,0.59
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,Installation of satellite television equipment,installation-of-satellite-television-equipment,child,b/,b/,b/,b/,b/,b/,b/,b/,b/
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,Installation of sound systems,installation-of-sound-systems,child,b/,b/,b/,b/,0.04,b/,0.75,a/,0.04
+Audio and visual equipment and services,audio-and-visual-equipment-and-services,Installation of other video equipment or sound systems,installation-of-other-video-equipment-or-sound-systems,child,b/,b/,b/,b/,b/,b/,b/,b/,0.19
+,,,,,,,,,,,,,
+Entertainment,entertainment,"Pets, toys, hobbies, and playground equipment",pets-toys-hobbies-and-playground-equipment,,259.41,230.6,249.46,334.4,319.45,498.6,524.01,602.14,"1,034.21"
+,,,,,,,,,,,,,
+"Pets, toys, hobbies, and playground equipment",pets-toys-hobbies-and-playground-equipment,Pets,pets,,178.13,201.29,187.17,278.85,272.01,407.73,374.24,521.16,817.77
+,,,,,,,,,,,,,
+Pets,pets,Pet food*,pet-food,child,85.84,92.03,106.49,117.65,126.55,173.57,159.36,202.4,266.66
+Pets,pets,"Pet purchase, supplies, medicine",pet-purchase-supplies-medicine,child,55.37,48.52,52.41,61.66,85.8,91.35,100.38,134.16,223.97
+Pets,pets,Pet services,pet-services,child,12.08,10.36,13.66,13.2,20.13,21.66,31.67,35,88.97
+Pets,pets,Vet services*,vet-services,child,24.83,50.38,14.61,86.34,39.52,121.15,82.83,149.59,238.17
+,,,,,,,,,,,,,
+"Pets, toys, hobbies, and playground equipment",pets-toys-hobbies-and-playground-equipment,"Toys, hobbies, and playground equipment",toys-hobbies-and-playground-equipment,,81.28,29.31,62.29,55.55,47.44,90.87,149.77,80.98,216.44
+,,,,,,,,,,,,,
+"Toys, hobbies, and playground equipment",toys-hobbies-and-playground-equipment,"Toys, games, arts and crafts, and tricycles*",toys-games-arts-and-crafts-and-tricycles,child,75.61,28.9,62.11,54.46,44.53,87.59,143.67,77.81,204
+"Toys, hobbies, and playground equipment",toys-hobbies-and-playground-equipment,Stamp and coin collecting,stamp-and-coin-collecting,child,2.65,0.21,0.09,1.09,0.82,1.45,2.7,1.42,5.18
+"Toys, hobbies, and playground equipment",toys-hobbies-and-playground-equipment,Playground equipment,playground-equipment,child,3.02,0.2,0.09,b/,2.09,1.83,3.4,1.75,7.25
+,,,,,,,,,,,,,
+Entertainment,entertainment,"Other entertainment supplies, equipment, and services",other-entertainment-supplies-equipment-and-services,,81.12,65.42,53.38,55.83,134.33,228.54,293.22,327.85,836.87
+,,,,,,,,,,,,,
+"Other entertainment supplies, equipment, and services",other-entertainment-supplies-equipment-and-services,Unmotored recreational vehicles,unmotored-recreational-vehicles,,1.23,b/,3.1,2.39,0.53,112.13,10.72,135.98,83.77
+,,,,,,,,,,,,,
+Unmotored recreational vehicles,unmotored-recreational-vehicles,Boat without motor and boat trailers,boat-without-motor-and-boat-trailers,child,1.23,b/,b/,2.39,0.53,1.14,1.63,3.79,12.88
+Unmotored recreational vehicles,unmotored-recreational-vehicles,Trailer and other attachable campers,trailer-and-other-attachable-campers,child,b/,b/,3.1,b/,b/,110.99,9.09,132.19,70.89
+,,,,,,,,,,,,,
+"Other entertainment supplies, equipment, and services",other-entertainment-supplies-equipment-and-services,Motorized recreational vehicles,motorized-recreational-vehicles,,b/,9.67,b/,3.44,11.73,32.63,120.63,12.63,261.08
+,,,,,,,,,,,,,
+Motorized recreational vehicles,motorized-recreational-vehicles,Purchase of motorized camper,purchase-of-motorized-camper,child,b/,b/,b/,b/,b/,b/,30.81,b/,91.82
+Motorized recreational vehicles,motorized-recreational-vehicles,Purchase of other vehicle,purchase-of-other-vehicle,child,b/,b/,b/,b/,11.73,6.31,49.86,12.17,40.5
+Motorized recreational vehicles,motorized-recreational-vehicles,Purchase of boat with motor,purchase-of-boat-with-motor,child,b/,9.67,b/,3.44,b/,26.32,39.95,0.47,128.76
+,,,,,,,,,,,,,
+"Other entertainment supplies, equipment, and services",other-entertainment-supplies-equipment-and-services,Rental of recreational vehicles,rental-of-recreational-vehicles,,18.75,1.16,2.61,1.25,7.26,5.05,5.67,7.65,33.22
+,,,,,,,,,,,,,
+Rental of recreational vehicles,rental-of-recreational-vehicles,Rental noncamper trailer,rental-noncamper-trailer,child,b/,b/,b/,0.06,b/,0.23,0.55,0.98,0.43
+Rental of recreational vehicles,rental-of-recreational-vehicles,Boat and trailer rental out-of-town trips,boat-and-trailer-rental-out-of-town-trips,child,b/,b/,0.04,0.07,0.29,1.06,0.76,0.19,2.92
+Rental of recreational vehicles,rental-of-recreational-vehicles,Rental of campers on out-of-town trips,rental-of-campers-on-out-of-town-trips,child,b/,b/,b/,b/,b/,b/,b/,b/,0.43
+Rental of recreational vehicles,rental-of-recreational-vehicles,Rental of other vehicles on out-of-town trips,rental-of-other-vehicles-on-out-of-town-trips,child,12.95,1.16,2.57,1.12,2.09,3.67,4.19,4.87,20.48
+Rental of recreational vehicles,rental-of-recreational-vehicles,Rental of boat,rental-of-boat,child,b/,b/,b/,b/,0.07,0.1,0.06,0.82,1.28
+Rental of recreational vehicles,rental-of-recreational-vehicles,Rental of motorized camper,rental-of-motorized-camper,child,5.69,b/,b/,b/,b/,b/,b/,b/,2.36
+Rental of recreational vehicles,rental-of-recreational-vehicles,Rental of other RV's,rental-of-other-rv's,child,0.11,b/,b/,b/,4.81,b/,0.12,0.79,5.31
+,,,,,,,,,,,,,
+"Other entertainment supplies, equipment, and services",other-entertainment-supplies-equipment-and-services,Outboard motors,outboard-motors,child,b/,b/,b/,3.84,b/,0.59,2.35,1.59,0.49
+"Other entertainment supplies, equipment, and services",other-entertainment-supplies-equipment-and-services,Docking and landing fees,docking-and-landing-fees,child,0.07,b/,b/,0.12,2.36,0.63,9.07,1.9,13.9
+"Other entertainment supplies, equipment, and services",other-entertainment-supplies-equipment-and-services,"Sports, recreation and exercise equipment",sports-recreation-and-exercise-equipment,,32.13,22.48,35.83,18.53,92.34,46.86,98.17,120.89,277.56
+,,,,,,,,,,,,,
+"Sports, recreation and exercise equipment",sports-recreation-and-exercise-equipment,"Athletic gear, game tables, and exercise equipment*",athletic-gear-game-tables-and-exercise-equipment,child,12.02,0.25,0.93,1.28,6.74,16.52,41.31,41.13,103.34
+"Sports, recreation and exercise equipment",sports-recreation-and-exercise-equipment,Bicycles,bicycles,child,8.02,5.23,8.81,7.24,5.12,7.38,24.47,11.41,39.85
+"Sports, recreation and exercise equipment",sports-recreation-and-exercise-equipment,Camping equipment*,camping-equipment,child,1.94,6.95,4.77,2.99,3.24,5.84,7.31,26.66,22.83
+"Sports, recreation and exercise equipment",sports-recreation-and-exercise-equipment,Hunting and fishing equipment*,hunting-and-fishing-equipment,child,4.41,6.9,15.18,3.97,74,8.57,8.22,19.89,57.96
+"Sports, recreation and exercise equipment",sports-recreation-and-exercise-equipment,Winter sports equipment,winter-sports-equipment,child,4.37,1.05,0.54,1.65,1.94,1.34,1.19,3.19,9.37
+"Sports, recreation and exercise equipment",sports-recreation-and-exercise-equipment,Water sports equipment,water-sports-equipment,child,0.26,0.44,0.7,0.2,0.4,1.78,0.98,1.46,12.46
+"Sports, recreation and exercise equipment",sports-recreation-and-exercise-equipment,Other sports equipment,other-sports-equipment,child,1.1,0.56,4.87,1.03,0.83,4.08,14.11,9.03,13.22
+"Sports, recreation and exercise equipment",sports-recreation-and-exercise-equipment,Global positioning system devices*,global-positioning-system-devices,child,b/,b/,b/,b/,b/,b/,b/,6.46,14.19
+"Sports, recreation and exercise equipment",sports-recreation-and-exercise-equipment,Rental and repair of miscellaneous sports equipment,rental-and-repair-of-miscellaneous-sports-equipment,child,b/,1.11,0.02,0.17,0.07,1.35,0.59,1.66,4.33
+,,,,,,,,,,,,,
+"Other entertainment supplies, equipment, and services",other-entertainment-supplies-equipment-and-services,"Photographic equipment, supplies and services",photographic-equipment-supplies-and-services,,8.49,12.48,9.4,22.96,16.74,12.98,25.78,29.41,91.49
+,,,,,,,,,,,,,
+"Photographic equipment, supplies and services",photographic-equipment-supplies-and-services,Film,film,child,0.45,0.09,0.25,0.77,0.34,0.48,0.38,0.83,0.49
+"Photographic equipment, supplies and services",photographic-equipment-supplies-and-services,Other photographic supplies*,other-photographic-supplies,child,b/,b/,b/,b/,0.72,b/,b/,b/,b/
+"Photographic equipment, supplies and services",photographic-equipment-supplies-and-services,Photo processing,photo-processing,child,1.59,0.96,1.75,1.76,1.81,2.15,3.78,4.47,9.49
+"Photographic equipment, supplies and services",photographic-equipment-supplies-and-services,Repair and rental of photographic equipment,repair-and-rental-of-photographic-equipment,child,b/,0.02,b/,b/,0.73,b/,0.72,0.26,0.63
+"Photographic equipment, supplies and services",photographic-equipment-supplies-and-services,Photographic equipment,photographic-equipment,child,5.45,6.21,0.66,19.61,6.03,5.67,8.79,14.15,39.83
+"Photographic equipment, supplies and services",photographic-equipment-supplies-and-services,Photographer fees,photographer-fees,child,1.01,5.19,6.75,0.83,7.11,4.68,12.11,9.7,41.06
+,,,,,,,,,,,,,
+"Other entertainment supplies, equipment, and services",other-entertainment-supplies-equipment-and-services,Fireworks*,fireworks,child,b/,b/,b/,b/,0.79,13.46,9.58,2.05,7.17
+"Other entertainment supplies, equipment, and services",other-entertainment-supplies-equipment-and-services,Souvenirs*,souvenirs,child,b/,13.05,b/,b/,0.22,0.57,0.47,0.47,1.12
+"Other entertainment supplies, equipment, and services",other-entertainment-supplies-equipment-and-services,Visual goods*,visual-goods,child,b/,b/,0.01,0.09,b/,0.32,1.27,0.29,2.43
+"Other entertainment supplies, equipment, and services",other-entertainment-supplies-equipment-and-services,"Pinball, electronic video games*",pinball-electronic-video-games,child,b/,b/,1.1,b/,0.42,0.69,5.53,0.25,3.46
+"Other entertainment supplies, equipment, and services",other-entertainment-supplies-equipment-and-services,Live entertainment for catered affairs,live-entertainment-for-catered-affairs,child,2.7,3.79,0.97,3.22,0.77,0.14,0.78,4.21,23.48
+"Other entertainment supplies, equipment, and services",other-entertainment-supplies-equipment-and-services,Rental of party supplies for catered affairs,rental-of-party-supplies-for-catered-affairs,child,17.76,2.78,0.36,b/,1.17,2.49,3.19,10.51,37.72
+,,,,,,,,,,,,,
+Expenditures,expenditures,Personal care products and services,personal-care-products-and-services,,294.57,237.64,293.21,344.27,410.58,482.11,527.75,569.53,"1,047.85"
+,,,,,,,,,,,,,
+Personal care products and services,personal-care-products-and-services,Personal care products,personal-care-products,,199.65,148.8,186.12,196.98,227.72,292.61,313.16,312.98,545.36
+,,,,,,,,,,,,,
+Personal care products,personal-care-products,Hair care products*,hair-care-products,child,33.81,37.28,54.03,26.96,44.63,39.01,62.47,69.48,106.31
+Personal care products,personal-care-products,Nonelectric articles for the hair*,nonelectric-articles-for-the-hair,child,7.72,2.68,2.33,5.44,5.91,4.25,5.34,9.62,14.73
+Personal care products,personal-care-products,Wigs and hairpieces,wigs-and-hairpieces,child,1.01,1.23,3.44,1.88,3.67,4.71,1.99,3.58,3.73
+Personal care products,personal-care-products,"Oral hygiene products, articles*",oral-hygiene-products-articles,child,19.81,23.43,18.37,16.91,22.94,28.51,33.89,34.17,54.96
+Personal care products,personal-care-products,Shaving needs*,shaving-needs,child,5.17,3.53,3.52,9.39,10.12,9.75,20.06,19.89,30.52
+Personal care products,personal-care-products,"Cosmetics, perfume, bath preparations*",cosmetics-perfume-bath-preparations,child,106.11,48.77,69.09,109.81,109.59,171.24,134.01,129.25,259.75
+Personal care products,personal-care-products,"Deodorants, feminine hygiene, miscellaneous personal care*",deodorants-feminine-hygiene-miscellaneous-personal-care,child,22.11,31.89,28.74,22.47,26.9,28.1,39.74,40.4,60.5
+Personal care products,personal-care-products,Electric personal care appliances*,electric-personal-care-appliances,child,3.91,b/,6.6,4.11,3.96,7.05,15.66,6.58,14.86
+,,,,,,,,,,,,,
+Personal care products and services,personal-care-products-and-services,Personal care services,personal-care-services,child,94.92,88.84,107.1,147.3,182.86,189.51,214.59,256.55,502.5
+,,,,,,,,,,,,,
+Expenditures,expenditures,Reading,reading,,36.95,31.74,41.77,75.37,62.43,80.25,78.46,91.63,171.03
+,,,,,,,,,,,,,
+Reading,reading,"Newspaper, magazine by subscription",newspaper-magazine-by-subscription,child,9.08,10.36,16.06,35.02,27,28.77,29.62,31.5,50.35
+Reading,reading,"Newspaper, magazine non-subscription",newspaper-magazine-non-subscription,child,5.45,3.97,3.62,7.48,7.96,11.07,6.89,6.19,10.15
+Reading,reading,Newsletters*,newsletters,child,b/,b/,b/,0.7,b/,b/,b/,b/,0.21
+Reading,reading,Books thru book clubs,books-thru-book-clubs,child,0.56,0.46,1,1.98,1.08,1.71,1.67,3.86,5.89
+Reading,reading,Books not thru book clubs,books-not-thru-book-clubs,child,13.47,8.42,8.08,16.34,12.78,14.49,22.23,20.46,54.69
+Reading,reading,Encyclopedia and other sets of reference books,encyclopedia-and-other-sets-of-reference-books,child,0.08,b/,b/,b/,0.06,0.22,0.35,0.35,0.78
+Reading,reading,Digital book readers,digital-book-readers,child,8.3,8.54,13.02,13.85,13.56,23.98,17.7,29.27,48.96
+,,,,,,,,,,,,,
+Expenditures,expenditures,Education,education,,"1,546.95",861.93,798.12,504.39,366.75,530.43,444.3,764.45,"2,393.74"
+,,,,,,,,,,,,,
+Education,education,College tuition,college-tuition,child,"1,333.84",677.14,680.77,391.76,218.78,354.56,142.93,380.26,"1,462.09"
+Education,education,Elementary and high school tuition,elementary-and-high-school-tuition,child,7.03,16.78,12.84,2.24,14.68,24.69,44.7,93.89,392.4
+Education,education,Vocational and technical school tuition,vocational-and-technical-school-tuition,child,13.34,34.63,4.03,4.36,9.75,24.27,28.06,8.64,8.78
+Education,education,"Finance, late, interest charges for student loans",finance-late-interest-charges-for-student-loans,child,39.53,0.24,4.68,17.49,37.37,30.68,91.58,122.81,179.21
+Education,education,"Test preparation, tutoring services",test-preparation-tutoring-services,child,3.64,18.68,4.5,1.33,3.57,1.08,8.46,11.74,51.24
+Education,education,Other schools tuition,other-schools-tuition,child,0.86,0.34,0.74,0.78,7.94,7.39,3.05,8.63,21.45
+Education,education,Other school expenses including rentals,other-school-expenses-including-rentals,child,40.35,5.3,19.57,19.56,17.88,20.72,35.95,34.77,72.5
+Education,education,"School books, supplies, equipment for college",school-books-supplies-equipment-for-college,child,71.51,73.51,41.89,28.1,25.65,26.08,20.39,32.75,76.23
+Education,education,"School books, supplies, equipment for elementary, high school",school-books-supplies-equipment-for-elementary-high-school,child,0.91,8.43,6.07,7.39,6.91,9.15,9.1,12.84,30.95
+Education,education,"School books, supplies, equipment for vocational and technical schools",school-books-supplies-equipment-for-vocational-and-technical-schools,child,0.13,2.29,0.92,b/,1.7,1.92,0.42,0.5,2.09
+Education,education,"School books, supplies, equipment for day care, nursery",school-books-supplies-equipment-for-day-care-nursery,child,0.05,b/,0.06,b/,0.07,0.09,0.28,0.18,2.86
+Education,education,"School books, supplies, equipment for other schools",school-books-supplies-equipment-for-other-schools,child,0.03,b/,0.04,1.51,0.25,0.1,0.84,0.54,1.78
+Education,education,"School supplies, etc. - unspecified*",school-supplies-etc.---unspecified,child,35.73,24.58,22.02,29.88,22.21,29.71,58.53,56.89,92.16
+,,,,,,,,,,,,,
+Expenditures,expenditures,Tobacco products and smoking supplies,tobacco-products-and-smoking-supplies,,267.25,286.73,256.68,290.94,336.36,345.21,330.55,356.25,314.61
+,,,,,,,,,,,,,
+Tobacco products and smoking supplies,tobacco-products-and-smoking-supplies,Cigarettes,cigarettes,child,243.03,251,234.56,273.04,296.34,306.55,298.54,320.97,264.76
+Tobacco products and smoking supplies,tobacco-products-and-smoking-supplies,Other tobacco products,other-tobacco-products,child,17.53,23.24,17.45,16.39,32.25,25.9,23.63,21.98,32.03
+Tobacco products and smoking supplies,tobacco-products-and-smoking-supplies,Smoking accessories*,smoking-accessories,child,6.68,12.49,4.67,1.51,7.77,5.66,8.37,13.3,17.82
+Tobacco products and smoking supplies,tobacco-products-and-smoking-supplies,Marijuana*,marijuana,child,b/,b/,b/,b/,b/,7.11,b/,b/,b/
+,,,,,,,,,,,,,
+Expenditures,expenditures,Miscellaneous,miscellaneous,,498.37,239.97,202.68,488.98,390.73,577.45,726.13,833.09,"1,247.90"
+,,,,,,,,,,,,,
+Miscellaneous,miscellaneous,Miscellaneous fees*,miscellaneous-fees,child,b/,b/,b/,b/,1.99,1.09,2.04,1.83,8.41
+Miscellaneous,miscellaneous,Lotteries and pari-mutuel losses*,lotteries-and-pari-mutuel-losses,child,106.52,4.89,15.27,23.24,35.55,61.69,29.42,42.19,51.35
+Miscellaneous,miscellaneous,Legal fees,legal-fees,child,172.15,26.27,19.19,78.72,41.01,95.18,136.58,108.7,208.41
+Miscellaneous,miscellaneous,Funeral expenses,funeral-expenses,child,64.83,91.89,39.61,84.8,76.74,87.6,45.22,57.69,50.3
+Miscellaneous,miscellaneous,Safe deposit box rental,safe-deposit-box-rental,child,1.2,1.25,1.94,3.28,2.31,1.49,1.79,2.7,4.73
+Miscellaneous,miscellaneous,"Checking accounts, other bank service charges",checking-accounts-other-bank-service-charges,child,19.53,19.07,15.94,21.86,22.75,26.09,27.33,23.8,30.26
+Miscellaneous,miscellaneous,"Cemetery lots, vaults, maintenance fees",cemetery-lots-vaults-maintenance-fees,child,5.49,4.87,1.83,25.44,2.12,24.52,1.88,6.97,9.5
+Miscellaneous,miscellaneous,Accounting fees,accounting-fees,child,25.77,31.71,11.47,23.77,35.39,44.88,53.2,59.92,115.99
+Miscellaneous,miscellaneous,Miscellaneous personal services*,miscellaneous-personal-services,child,30.22,2.07,20.95,15.31,68.11,20.55,35.05,35.25,94.13
+Miscellaneous,miscellaneous,Dating services,dating-services,child,0.92,0.26,0.07,0.31,0.11,0.16,1.55,1.48,0.58
+Miscellaneous,miscellaneous,"Finance, late, interest charges for credit cards",finance-late-interest-charges-for-credit-cards,child,40.88,27.79,48.91,189.76,45.9,126.05,285.39,339.46,388.84
+Miscellaneous,miscellaneous,"Finance, late, interest charges for other loans",finance-late-interest-charges-for-other-loans,child,9.87,b/,1.66,1.39,22.36,38.65,29.92,28.77,34.76
+Miscellaneous,miscellaneous,Occupational expenses,occupational-expenses,child,7.99,4.51,11.56,4.67,9.12,20.33,29.17,49.58,118.98
+Miscellaneous,miscellaneous,Expenses for other properties,expenses-for-other-properties,child,7.98,7.53,10.05,7.19,15.51,15.08,31.05,45.48,59.86
+Miscellaneous,miscellaneous,"Interest paid, home equity line of credit (other property)",interest-paid-home-equity-line-of-credit-(other-property),child,b/,b/,b/,b/,b/,b/,b/,b/,b/
+Miscellaneous,miscellaneous,Credit card memberships,credit-card-memberships,child,1.32,0.58,1.28,1.54,1.46,1.66,1.98,3.14,5.4
+Miscellaneous,miscellaneous,Shopping club membership fees,shopping-club-membership-fees,child,3.68,6.14,2.95,6.44,6.58,11.11,10.42,18.36,26.5
+Miscellaneous,miscellaneous,Vacation clubs,vacation-clubs,child,b/,11.14,b/,1.27,3.71,1.31,4.15,7.77,39.89
+,,,,,,,,,,,,,
+Expenditures,expenditures,Cash contributions,cash-contributions,,443.62,373.15,488.59,799.99,"1,107.55","1,215.85","1,340.20","1,643.03","3,192.64"
+,,,,,,,,,,,,,
+Cash contributions,cash-contributions,Support for college students,support-for-college-students,child,28.43,11.63,22.07,32.71,34.91,30.95,47.86,54.08,244.95
+Cash contributions,cash-contributions,Alimony expenditures,alimony-expenditures,child,b/,7.77,2.52,6.73,18.86,15.56,17.04,41.86,124.83
+Cash contributions,cash-contributions,Child support expenditures,child-support-expenditures,child,97.72,24.51,47.04,63.73,115.49,161.39,160.47,197.81,370.18
+Cash contributions,cash-contributions,"Gift to non-CU members of stocks, bonds, and mutual funds",gift-to-non-cu-members-of-stocks-bonds-and-mutual-funds,child,0.18,0.51,1.18,0.61,0.32,13.45,24.62,85.97,36.69
+Cash contributions,cash-contributions,Cash contributions to charities and other organizations,cash-contributions-to-charities-and-other-organizations,child,31.58,44.98,50.48,66.68,109.7,133.47,120.88,143.25,440.81
+Cash contributions,cash-contributions,"Cash contributions to church, religious organizations",cash-contributions-to-church-religious-organizations,child,215.08,188.7,219.49,342.66,403.5,535.36,536.98,718.46,"1,197.62"
+Cash contributions,cash-contributions,Cash contribution to educational institutions,cash-contribution-to-educational-institutions,child,1.96,6.64,8.84,12.11,7.42,10.92,5.56,37.4,109.14
+Cash contributions,cash-contributions,Cash contribution to political organizations,cash-contribution-to-political-organizations,child,1.22,1.01,1.27,4.04,2.36,3.15,2.71,6.27,31.26
+Cash contributions,cash-contributions,Other cash gifts,other-cash-gifts,child,67.44,87.41,135.71,270.72,414.99,311.57,424.08,357.94,637.15
+,,,,,,,,,,,,,
+Expenditures,expenditures,Personal insurance and pensions,personal-insurance-and-pensions,,240.05,332.49,594.46,775.06,"1,380.48","2,366.03","3,283.57","4,742.92","12,758.48"
+,,,,,,,,,,,,,
+Personal insurance and pensions,personal-insurance-and-pensions,Life and other personal insurance,life-and-other-personal-insurance,,83.63,44.63,80.52,127.03,131.47,227.03,205.75,251.04,647.5
+,,,,,,,,,,,,,
+Life and other personal insurance,life-and-other-personal-insurance,"Life, endowment, annuity, other personal insurance",life-endowment-annuity-other-personal-insurance,child,82.83,39.83,73.09,119.08,124.62,219.15,193.8,237.49,607.02
+Life and other personal insurance,life-and-other-personal-insurance,Other nonhealth insurance,other-nonhealth-insurance,child,0.8,4.8,7.43,7.94,6.85,7.89,11.95,13.55,40.49
+,,,,,,,,,,,,,
+Personal insurance and pensions,personal-insurance-and-pensions,Pensions and Social Security,pensions-and-social-security,,156.43,287.86,513.95,648.03,"1,249.01","2,138.99","3,077.82","4,491.88","12,110.98"
+,,,,,,,,,,,,,
+Pensions and Social Security,pensions-and-social-security,Deductions for government retirement,deductions-for-government-retirement,child,0.56,2.42,2.53,2.75,7.13,26.83,52.47,69.66,197.74
+Pensions and Social Security,pensions-and-social-security,Deductions for railroad retirement,deductions-for-railroad-retirement,child,b/,b/,b/,b/,b/,b/,b/,0.33,10.93
+Pensions and Social Security,pensions-and-social-security,Deductions for private pensions,deductions-for-private-pensions,child,0.93,2.07,2.48,3.68,20.39,92.3,157.4,285.29,"1,348.29"
+Pensions and Social Security,pensions-and-social-security,Non-payroll deposit to retirement plans,non-payroll-deposit-to-retirement-plans,child,73.1,53.1,191.86,107.15,124.76,182.58,151.04,263.17,"1,316.33"
+Pensions and Social Security,pensions-and-social-security,Deductions for Social Security,deductions-for-social-security,child,81.84,230.26,317.07,534.46,"1,096.73","1,837.28","2,716.92","3,873.43","9,237.69"
+,,,,,,,,,,,,,
+Expenditures,expenditures,Gifts of goods and services,gifts-of-goods-and-services-total,,563.84,297.69,391.04,412.3,417.06,765.25,670.85,942.9,"1,933.82"
+,,,,,,,,,,,,,
+"Gifts of goods and services, total",gifts-of-goods-and-services-total,Food,gift-food,child,12.82,21.08,14.21,40.76,30.66,59.14,50.01,58.58,138.72
+"Gifts of goods and services, total",gifts-of-goods-and-services-total,Alcoholic beverages,gift-alcoholic-beverages,child,11.23,0.16,3.18,0.57,1.22,6.53,8.33,13.57,27.12
+"Gifts of goods and services, total",gifts-of-goods-and-services-total,Housing,gift-housing,,137.02,65.82,108.88,116.56,120.36,152.04,157.01,205.59,371.85
+,,,,,,,,,,,,,
+Housing,gift-housing,Housekeeping supplies,gift-housekeeping-supplies,child,2.85,1.23,7.74,12.06,17.62,17.56,26.21,28.96,32.86
+Housing,gift-housing,Household textiles,gift-household-textiles,child,0.69,b/,5.63,10.37,2.3,1.83,3.73,6.65,17.67
+Housing,gift-housing,Appliances and miscellaneous housewares,gift-appliances-and-miscellaneous-housewares,,4.5,3.32,2.72,3.96,6.43,6.45,40.95,8.79,43.03
+,,,,,,,,,,,,,
+Appliances and miscellaneous housewares,gift-appliances-and-miscellaneous-housewares,Major appliances,gift-major-appliances,child,3.66,0.76,2.15,3.28,0.37,3.45,4.39,4.04,17.97
+Appliances and miscellaneous housewares,gift-appliances-and-miscellaneous-housewares,Small appliances and miscellaneous housewares,gift-small-appliances-and-miscellaneous-housewares,child,0.85,2.56,0.57,0.68,6.06,3,36.56,4.75,25.06
+,,,,,,,,,,,,,
+Housing,gift-housing,Miscellaneous household equipment,gift-miscellaneous-household-equipment,child,16.94,3.45,18.34,21.08,14.96,25.07,33.99,38.41,74.27
+Housing,gift-housing,Other housing,gift-other-housing,child,112.04,57.82,74.45,69.09,79.05,101.13,52.14,122.77,204.03
+,,,,,,,,,,,,,
+"Gifts of goods and services, total",gifts-of-goods-and-services-total,Apparel and services,gift-apparel-and-services,,185.02,74.56,77.15,126.5,87.43,136.13,206.54,196.76,310.47
+,,,,,,,,,,,,,
+Apparel and services,gift-apparel-and-services,"Males, 2 and over",gift-males-2-and-over,child,54.68,18.6,11.95,29.33,25.33,28.8,53.31,35.54,84.47
+Apparel and services,gift-apparel-and-services,"Females, 2 and over",gift-females-2-and-over,child,51.68,13.54,28.33,29.24,33.63,60.94,62.97,86.01,98.31
+Apparel and services,gift-apparel-and-services,Children under 2,gift-children-under-2,child,15.16,11.3,15.52,9.3,16.46,17.24,26.26,24.68,53.02
+Apparel and services,gift-apparel-and-services,Other apparel products and services,gift-other-apparel-products-and-services,,63.5,31.12,21.34,58.62,12,29.15,64,50.52,74.68
+,,,,,,,,,,,,,
+Other apparel products and services,gift-other-apparel-products-and-services,Jewelry and watches,gift-jewelry-and-watches,child,1.44,1.03,2.85,41.67,2.28,3.97,8.26,10.59,30.38
+Other apparel products and services,gift-other-apparel-products-and-services,All other apparel products and services,gift-all-other-apparel-products-and-services,child,62.07,30.09,18.49,16.95,9.73,25.18,55.73,39.93,44.3
+,,,,,,,,,,,,,
+"Gifts of goods and services, total",gifts-of-goods-and-services-total,Transportation,gift-transportation,child,37.89,88.01,16.1,27.76,84.88,123.71,57.98,90.67,179.37
+"Gifts of goods and services, total",gifts-of-goods-and-services-total,Health care,gift-healthcare,child,3.84,1.34,99.59,24.45,6.39,6.18,4.9,103.14,31.41
+"Gifts of goods and services, total",gifts-of-goods-and-services-total,Entertainment,gift-entertainment,,46.06,30.57,40.18,25.18,35.77,48.84,57.26,85.51,161.95
+,,,,,,,,,,,,,
+Entertainment,gift-entertainment,"Toys, games, arts and crafts, and tricycles*",gift-toys-games-arts-and-crafts-and-tricycles,child,19.04,4.11,24.42,14.75,17.79,4.66,26.79,29.46,44.41
+Entertainment,gift-entertainment,Other entertainment,gift-other-entertainment,child,27.02,26.46,15.76,10.43,17.97,44.18,30.47,56.05,117.54
+,,,,,,,,,,,,,
+"Gifts of goods and services, total",gifts-of-goods-and-services-total,Personal care products and services,gift-personal-care-products-and-services,child,1.72,1.47,9.56,9.66,4.66,10.28,8.64,4.38,24.36
+"Gifts of goods and services, total",gifts-of-goods-and-services-total,Reading,gift-reading,child,1.19,0.81,1.91,1.55,1.48,4.45,4.58,3.24,6.47
+"Gifts of goods and services, total",gifts-of-goods-and-services-total,Education,gift-education,child,111.8,5.86,9.91,16.12,28.07,166.43,52.36,126.5,557.44
+"Gifts of goods and services, total",gifts-of-goods-and-services-total,All other gifts,gift-all-other-gifts,child,15.25,8,10.35,23.2,16.15,51.53,63.25,54.96,124.65
