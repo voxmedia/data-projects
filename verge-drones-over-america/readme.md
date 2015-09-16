@@ -10,8 +10,11 @@ Accompanying story on [The Verge](http://www.theverge.com/2015/7/7/8883821/drone
 
 ## File Descriptions
 
-### drones-full.csv
-Full, unedited, list of all drone exemptions (last update: Aug 24, 2015)
+### drone-data-full.csv
+Full, unedited, list of all drone exemptions (data up-to-date as of Aug 31, 2015)
+
+### drone-data-processed.csv
+Exemptions categorized by their application, grouped by month (data up-to-date as of Aug 31, 2015)
 
 <!--
 #### drones-full-address.csv
