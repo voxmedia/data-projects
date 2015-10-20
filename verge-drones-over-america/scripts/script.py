@@ -15,7 +15,7 @@ def getVariousApplications(file_name, kw):
 			find_index = descrip_string.find(word)
 			if find_index != -1:
 				keyword_list.append(word)
-		if len(keyword_list) > 3:
+		if len(keyword_list) > 4:
 			row.insert(3, True)
 		else:
 			row.insert(3, False)

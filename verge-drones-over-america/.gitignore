@@ -1,1 +1,3 @@
-drone-data.csv
+drone-data-raw*
+archive
+.DS_Store
