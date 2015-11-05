@@ -8,14 +8,14 @@ def getVariousApplications(file_name, kw):
 	next(f)
 
 	for row in csv.reader(f):
-		del row[-1]
+		del row[-1] # delete header row
 		keyword_list = []
-		descrip_string = row[2]
+		descrip_string = row[2] # list of applications, comma delimited
 		for word in kw:
 			find_index = descrip_string.find(word)
 			if find_index != -1:
 				keyword_list.append(word)
-		if len(keyword_list) > 4:
+		if len(keyword_list) >= 4:
 			row.insert(3, True)
 		else:
 			row.insert(3, False)
