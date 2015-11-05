@@ -37,7 +37,7 @@ if __name__ == "__main__":
 	csv_w = csv.writer(open("../" + output_file, "w"))
 
 	# write spreadsheet header
-	csv_w.writerow(["date", "company", "category", "various_applications", "aircraft", "location", "description"])
+	csv_w.writerow(["date", "company", "category", "various_applications", "aircraft", "location"])
 
 	for row in data:
 		csv_w.writerow(row)
