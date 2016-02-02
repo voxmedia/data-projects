@@ -4,15 +4,13 @@ A reader poll on [which states belong to the Midwest](http://www.vox.com/2016/1/
 
 - `calculated.json` - the API calculated and stored the results of all the submissions in a Redis database, and returned this data
 - `submissions.json` - a backup of all the submissions (pre-calculated) in the database as a `json` file. If I could start over, I'd backup a `csv`, too.
-- `convert_backup_to_csv.rb` - which is why I made this.
+- `convert_backup_to_csv.rb` - which is why I wrote this script
 
 What you get from running `ruby convert_backup_to_csv.rb` :
-- `submissions.csv`
-- `by_hour_submissions.csv`
+- `data/submissions.csv`
+- `states/` - a json file for each valid states that answers the question, If you submitted this state, what were the chances you selected other states? You can see plenty of trolls
 
-
-
-
+Surprisingly, not as many trolls as you'd think.
 
 
 does the midwest database track anything other than votes for states?
