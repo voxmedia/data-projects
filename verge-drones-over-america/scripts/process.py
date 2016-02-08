@@ -47,7 +47,7 @@ def loopDates(start_d, end_d):
 
 
 def getMonthYear(date):
-	d = datetime.datetime.strptime(re.sub(r"/\d{1,2}/", "/", date), "%m/%y")
+	d = datetime.datetime.strptime(re.sub(r"/\d{1,2}/", "/", date), "%m/%Y")
 	return datetime.datetime.strftime(d, "%m/%y")
 
 
@@ -56,6 +56,7 @@ def getDataByMonth(file_name):
 	data = getData(file_name);
 
 	dr = [getMonthYear(x[0]) for x in data]
+
 	date_range = loopDates(dr[0], dr[-1])
 
 	grouped_by_month = []
@@ -124,7 +125,8 @@ if __name__ == "__main__":
 	input_file = sys.argv[1]
 	output_file = sys.argv[2]
 
-	all_by_month = getDataByMonth("../" + input_file)
+	# all_by_month = getDataByMonth("../" + input_file)
+	all_by_month = getDataByMonth(input_file)
 
 	tallied_categorized_by_month = getCounts(all_by_month)
 
