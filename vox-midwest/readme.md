@@ -9,4 +9,4 @@ A reader poll on [which states belong to the Midwest](http://www.vox.com/2016/1/
 What you get from running `ruby convert_backup_to_csv.rb` :
 - `data/submissions.csv`
 - `data/calculated.csv`
-- `states/` - a json file for each valid state that answers the question, ` you submitted this state, what were the chances you selected other states?`
+- `states/` - a json file for each valid state that answers the question, `If you submitted this state, what were the chances you selected other states?`
