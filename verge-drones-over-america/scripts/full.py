@@ -32,7 +32,8 @@ if __name__ == "__main__":
 	keywords = ["Agriculture", "Conservation", "Construction", "Education", "Emergency", "Government", "Infrastructure", "Insurance", "Manufacturer", "Other", "Photo", "Real Estate", "Research", "Scientific", "Utilities"]
 
 	# create new spreadsheet with updated various applications column
-	data = getVariousApplications("../" + input_file, keywords)
+	# data = getVariousApplications("../" + input_file, keywords)
+	data = getVariousApplications(input_file, keywords)
 
 	csv_w = csv.writer(open("../" + output_file, "w"))
 
