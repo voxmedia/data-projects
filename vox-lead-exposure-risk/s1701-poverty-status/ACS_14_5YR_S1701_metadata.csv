@@ -1,0 +1,279 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HC01_EST_VC01,Total; Estimate; Population for whom poverty status is determined
+HC01_MOE_VC01,Total; Margin of Error; Population for whom poverty status is determined
+HC02_EST_VC01,Below poverty level; Estimate; Population for whom poverty status is determined
+HC02_MOE_VC01,Below poverty level; Margin of Error; Population for whom poverty status is determined
+HC03_EST_VC01,Percent below poverty level; Estimate; Population for whom poverty status is determined
+HC03_MOE_VC01,Percent below poverty level; Margin of Error; Population for whom poverty status is determined
+HC01_EST_VC03,Total; Estimate; AGE - Under 18 years
+HC01_MOE_VC03,Total; Margin of Error; AGE - Under 18 years
+HC02_EST_VC03,Below poverty level; Estimate; AGE - Under 18 years
+HC02_MOE_VC03,Below poverty level; Margin of Error; AGE - Under 18 years
+HC03_EST_VC03,Percent below poverty level; Estimate; AGE - Under 18 years
+HC03_MOE_VC03,Percent below poverty level; Margin of Error; AGE - Under 18 years
+HC01_EST_VC04,Total; Estimate; AGE - Under 18 years - Related children under 18 years
+HC01_MOE_VC04,Total; Margin of Error; AGE - Under 18 years - Related children under 18 years
+HC02_EST_VC04,Below poverty level; Estimate; AGE - Under 18 years - Related children under 18 years
+HC02_MOE_VC04,Below poverty level; Margin of Error; AGE - Under 18 years - Related children under 18 years
+HC03_EST_VC04,Percent below poverty level; Estimate; AGE - Under 18 years - Related children under 18 years
+HC03_MOE_VC04,Percent below poverty level; Margin of Error; AGE - Under 18 years - Related children under 18 years
+HC01_EST_VC05,Total; Estimate; AGE - 18 to 64 years
+HC01_MOE_VC05,Total; Margin of Error; AGE - 18 to 64 years
+HC02_EST_VC05,Below poverty level; Estimate; AGE - 18 to 64 years
+HC02_MOE_VC05,Below poverty level; Margin of Error; AGE - 18 to 64 years
+HC03_EST_VC05,Percent below poverty level; Estimate; AGE - 18 to 64 years
+HC03_MOE_VC05,Percent below poverty level; Margin of Error; AGE - 18 to 64 years
+HC01_EST_VC06,Total; Estimate; AGE - 65 years and over
+HC01_MOE_VC06,Total; Margin of Error; AGE - 65 years and over
+HC02_EST_VC06,Below poverty level; Estimate; AGE - 65 years and over
+HC02_MOE_VC06,Below poverty level; Margin of Error; AGE - 65 years and over
+HC03_EST_VC06,Percent below poverty level; Estimate; AGE - 65 years and over
+HC03_MOE_VC06,Percent below poverty level; Margin of Error; AGE - 65 years and over
+HC01_EST_VC09,Total; Estimate; SEX - Male
+HC01_MOE_VC09,Total; Margin of Error; SEX - Male
+HC02_EST_VC09,Below poverty level; Estimate; SEX - Male
+HC02_MOE_VC09,Below poverty level; Margin of Error; SEX - Male
+HC03_EST_VC09,Percent below poverty level; Estimate; SEX - Male
+HC03_MOE_VC09,Percent below poverty level; Margin of Error; SEX - Male
+HC01_EST_VC10,Total; Estimate; SEX - Female
+HC01_MOE_VC10,Total; Margin of Error; SEX - Female
+HC02_EST_VC10,Below poverty level; Estimate; SEX - Female
+HC02_MOE_VC10,Below poverty level; Margin of Error; SEX - Female
+HC03_EST_VC10,Percent below poverty level; Estimate; SEX - Female
+HC03_MOE_VC10,Percent below poverty level; Margin of Error; SEX - Female
+HC01_EST_VC13,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race
+HC01_MOE_VC13,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race
+HC02_EST_VC13,Below poverty level; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race
+HC02_MOE_VC13,Below poverty level; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race
+HC03_EST_VC13,Percent below poverty level; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race
+HC03_MOE_VC13,Percent below poverty level; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race
+HC01_EST_VC14,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - White
+HC01_MOE_VC14,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - White
+HC02_EST_VC14,Below poverty level; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - White
+HC02_MOE_VC14,Below poverty level; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - White
+HC03_EST_VC14,Percent below poverty level; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - White
+HC03_MOE_VC14,Percent below poverty level; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - White
+HC01_EST_VC15,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Black or African American
+HC01_MOE_VC15,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Black or African American
+HC02_EST_VC15,Below poverty level; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Black or African American
+HC02_MOE_VC15,Below poverty level; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Black or African American
+HC03_EST_VC15,Percent below poverty level; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Black or African American
+HC03_MOE_VC15,Percent below poverty level; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Black or African American
+HC01_EST_VC16,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - American Indian and Alaska Native
+HC01_MOE_VC16,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - American Indian and Alaska Native
+HC02_EST_VC16,Below poverty level; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - American Indian and Alaska Native
+HC02_MOE_VC16,Below poverty level; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - American Indian and Alaska Native
+HC03_EST_VC16,Percent below poverty level; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - American Indian and Alaska Native
+HC03_MOE_VC16,Percent below poverty level; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - American Indian and Alaska Native
+HC01_EST_VC17,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Asian
+HC01_MOE_VC17,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Asian
+HC02_EST_VC17,Below poverty level; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Asian
+HC02_MOE_VC17,Below poverty level; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Asian
+HC03_EST_VC17,Percent below poverty level; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Asian
+HC03_MOE_VC17,Percent below poverty level; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Asian
+HC01_EST_VC18,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Native Hawaiian and Other Pacific Islander
+HC01_MOE_VC18,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Native Hawaiian and Other Pacific Islander
+HC02_EST_VC18,Below poverty level; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Native Hawaiian and Other Pacific Islander
+HC02_MOE_VC18,Below poverty level; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Native Hawaiian and Other Pacific Islander
+HC03_EST_VC18,Percent below poverty level; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Native Hawaiian and Other Pacific Islander
+HC03_MOE_VC18,Percent below poverty level; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Native Hawaiian and Other Pacific Islander
+HC01_EST_VC19,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Some other race
+HC01_MOE_VC19,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Some other race
+HC02_EST_VC19,Below poverty level; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Some other race
+HC02_MOE_VC19,Below poverty level; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Some other race
+HC03_EST_VC19,Percent below poverty level; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - One race - Some other race
+HC03_MOE_VC19,Percent below poverty level; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - One race - Some other race
+HC01_EST_VC20,Total; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC01_MOE_VC20,Total; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC02_EST_VC20,Below poverty level; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC02_MOE_VC20,Below poverty level; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC03_EST_VC20,Percent below poverty level; Estimate; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC03_MOE_VC20,Percent below poverty level; Margin of Error; RACE AND HISPANIC OR LATINO ORIGIN - Two or more races
+HC01_EST_VC22,Total; Estimate; Hispanic or Latino origin (of any race)
+HC01_MOE_VC22,Total; Margin of Error; Hispanic or Latino origin (of any race)
+HC02_EST_VC22,Below poverty level; Estimate; Hispanic or Latino origin (of any race)
+HC02_MOE_VC22,Below poverty level; Margin of Error; Hispanic or Latino origin (of any race)
+HC03_EST_VC22,Percent below poverty level; Estimate; Hispanic or Latino origin (of any race)
+HC03_MOE_VC22,Percent below poverty level; Margin of Error; Hispanic or Latino origin (of any race)
+HC01_EST_VC23,"Total; Estimate; White alone, not Hispanic or Latino"
+HC01_MOE_VC23,"Total; Margin of Error; White alone, not Hispanic or Latino"
+HC02_EST_VC23,"Below poverty level; Estimate; White alone, not Hispanic or Latino"
+HC02_MOE_VC23,"Below poverty level; Margin of Error; White alone, not Hispanic or Latino"
+HC03_EST_VC23,"Percent below poverty level; Estimate; White alone, not Hispanic or Latino"
+HC03_MOE_VC23,"Percent below poverty level; Margin of Error; White alone, not Hispanic or Latino"
+HC01_EST_VC26,Total; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over
+HC01_MOE_VC26,Total; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over
+HC02_EST_VC26,Below poverty level; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over
+HC02_MOE_VC26,Below poverty level; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over
+HC03_EST_VC26,Percent below poverty level; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over
+HC03_MOE_VC26,Percent below poverty level; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over
+HC01_EST_VC27,Total; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Less than high school graduate
+HC01_MOE_VC27,Total; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over - Less than high school graduate
+HC02_EST_VC27,Below poverty level; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Less than high school graduate
+HC02_MOE_VC27,Below poverty level; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over - Less than high school graduate
+HC03_EST_VC27,Percent below poverty level; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Less than high school graduate
+HC03_MOE_VC27,Percent below poverty level; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over - Less than high school graduate
+HC01_EST_VC28,Total; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - High school graduate (includes equivalency)
+HC01_MOE_VC28,Total; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over - High school graduate (includes equivalency)
+HC02_EST_VC28,Below poverty level; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - High school graduate (includes equivalency)
+HC02_MOE_VC28,Below poverty level; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over - High school graduate (includes equivalency)
+HC03_EST_VC28,Percent below poverty level; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - High school graduate (includes equivalency)
+HC03_MOE_VC28,Percent below poverty level; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over - High school graduate (includes equivalency)
+HC01_EST_VC29,"Total; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Some college, associate's degree"
+HC01_MOE_VC29,"Total; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over - Some college, associate's degree"
+HC02_EST_VC29,"Below poverty level; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Some college, associate's degree"
+HC02_MOE_VC29,"Below poverty level; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over - Some college, associate's degree"
+HC03_EST_VC29,"Percent below poverty level; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Some college, associate's degree"
+HC03_MOE_VC29,"Percent below poverty level; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over - Some college, associate's degree"
+HC01_EST_VC30,Total; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Bachelor's degree or higher
+HC01_MOE_VC30,Total; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over - Bachelor's degree or higher
+HC02_EST_VC30,Below poverty level; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Bachelor's degree or higher
+HC02_MOE_VC30,Below poverty level; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over - Bachelor's degree or higher
+HC03_EST_VC30,Percent below poverty level; Estimate; EDUCATIONAL ATTAINMENT - Population 25 years and over - Bachelor's degree or higher
+HC03_MOE_VC30,Percent below poverty level; Margin of Error; EDUCATIONAL ATTAINMENT - Population 25 years and over - Bachelor's degree or higher
+HC01_EST_VC33,Total; Estimate; EMPLOYMENT STATUS - Civilian labor force 16 years and over
+HC01_MOE_VC33,Total; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 16 years and over
+HC02_EST_VC33,Below poverty level; Estimate; EMPLOYMENT STATUS - Civilian labor force 16 years and over
+HC02_MOE_VC33,Below poverty level; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 16 years and over
+HC03_EST_VC33,Percent below poverty level; Estimate; EMPLOYMENT STATUS - Civilian labor force 16 years and over
+HC03_MOE_VC33,Percent below poverty level; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 16 years and over
+HC01_EST_VC34,Total; Estimate; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Employed
+HC01_MOE_VC34,Total; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Employed
+HC02_EST_VC34,Below poverty level; Estimate; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Employed
+HC02_MOE_VC34,Below poverty level; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Employed
+HC03_EST_VC34,Percent below poverty level; Estimate; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Employed
+HC03_MOE_VC34,Percent below poverty level; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Employed
+HC01_EST_VC35,Total; Estimate; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Employed - Male
+HC01_MOE_VC35,Total; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Employed - Male
+HC02_EST_VC35,Below poverty level; Estimate; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Employed - Male
+HC02_MOE_VC35,Below poverty level; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Employed - Male
+HC03_EST_VC35,Percent below poverty level; Estimate; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Employed - Male
+HC03_MOE_VC35,Percent below poverty level; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Employed - Male
+HC01_EST_VC36,Total; Estimate; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Employed - Female
+HC01_MOE_VC36,Total; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Employed - Female
+HC02_EST_VC36,Below poverty level; Estimate; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Employed - Female
+HC02_MOE_VC36,Below poverty level; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Employed - Female
+HC03_EST_VC36,Percent below poverty level; Estimate; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Employed - Female
+HC03_MOE_VC36,Percent below poverty level; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Employed - Female
+HC01_EST_VC37,Total; Estimate; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Unemployed
+HC01_MOE_VC37,Total; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Unemployed
+HC02_EST_VC37,Below poverty level; Estimate; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Unemployed
+HC02_MOE_VC37,Below poverty level; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Unemployed
+HC03_EST_VC37,Percent below poverty level; Estimate; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Unemployed
+HC03_MOE_VC37,Percent below poverty level; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Unemployed
+HC01_EST_VC38,Total; Estimate; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Unemployed - Male
+HC01_MOE_VC38,Total; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Unemployed - Male
+HC02_EST_VC38,Below poverty level; Estimate; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Unemployed - Male
+HC02_MOE_VC38,Below poverty level; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Unemployed - Male
+HC03_EST_VC38,Percent below poverty level; Estimate; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Unemployed - Male
+HC03_MOE_VC38,Percent below poverty level; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Unemployed - Male
+HC01_EST_VC39,Total; Estimate; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Unemployed - Female
+HC01_MOE_VC39,Total; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Unemployed - Female
+HC02_EST_VC39,Below poverty level; Estimate; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Unemployed - Female
+HC02_MOE_VC39,Below poverty level; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Unemployed - Female
+HC03_EST_VC39,Percent below poverty level; Estimate; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Unemployed - Female
+HC03_MOE_VC39,Percent below poverty level; Margin of Error; EMPLOYMENT STATUS - Civilian labor force 16 years and over - Unemployed - Female
+HC01_EST_VC42,Total; Estimate; WORK EXPERIENCE - Population 16 years and over
+HC01_MOE_VC42,Total; Margin of Error; WORK EXPERIENCE - Population 16 years and over
+HC02_EST_VC42,Below poverty level; Estimate; WORK EXPERIENCE - Population 16 years and over
+HC02_MOE_VC42,Below poverty level; Margin of Error; WORK EXPERIENCE - Population 16 years and over
+HC03_EST_VC42,Percent below poverty level; Estimate; WORK EXPERIENCE - Population 16 years and over
+HC03_MOE_VC42,Percent below poverty level; Margin of Error; WORK EXPERIENCE - Population 16 years and over
+HC01_EST_VC43,"Total; Estimate; WORK EXPERIENCE - Population 16 years and over - Worked full-time, year-round in the past 12 months"
+HC01_MOE_VC43,"Total; Margin of Error; WORK EXPERIENCE - Population 16 years and over - Worked full-time, year-round in the past 12 months"
+HC02_EST_VC43,"Below poverty level; Estimate; WORK EXPERIENCE - Population 16 years and over - Worked full-time, year-round in the past 12 months"
+HC02_MOE_VC43,"Below poverty level; Margin of Error; WORK EXPERIENCE - Population 16 years and over - Worked full-time, year-round in the past 12 months"
+HC03_EST_VC43,"Percent below poverty level; Estimate; WORK EXPERIENCE - Population 16 years and over - Worked full-time, year-round in the past 12 months"
+HC03_MOE_VC43,"Percent below poverty level; Margin of Error; WORK EXPERIENCE - Population 16 years and over - Worked full-time, year-round in the past 12 months"
+HC01_EST_VC44,Total; Estimate; WORK EXPERIENCE - Population 16 years and over - Worked part-time or part-year in the past 12 months
+HC01_MOE_VC44,Total; Margin of Error; WORK EXPERIENCE - Population 16 years and over - Worked part-time or part-year in the past 12 months
+HC02_EST_VC44,Below poverty level; Estimate; WORK EXPERIENCE - Population 16 years and over - Worked part-time or part-year in the past 12 months
+HC02_MOE_VC44,Below poverty level; Margin of Error; WORK EXPERIENCE - Population 16 years and over - Worked part-time or part-year in the past 12 months
+HC03_EST_VC44,Percent below poverty level; Estimate; WORK EXPERIENCE - Population 16 years and over - Worked part-time or part-year in the past 12 months
+HC03_MOE_VC44,Percent below poverty level; Margin of Error; WORK EXPERIENCE - Population 16 years and over - Worked part-time or part-year in the past 12 months
+HC01_EST_VC45,Total; Estimate; WORK EXPERIENCE - Population 16 years and over - Did not work
+HC01_MOE_VC45,Total; Margin of Error; WORK EXPERIENCE - Population 16 years and over - Did not work
+HC02_EST_VC45,Below poverty level; Estimate; WORK EXPERIENCE - Population 16 years and over - Did not work
+HC02_MOE_VC45,Below poverty level; Margin of Error; WORK EXPERIENCE - Population 16 years and over - Did not work
+HC03_EST_VC45,Percent below poverty level; Estimate; WORK EXPERIENCE - Population 16 years and over - Did not work
+HC03_MOE_VC45,Percent below poverty level; Margin of Error; WORK EXPERIENCE - Population 16 years and over - Did not work
+HC01_EST_VC48,Total; Estimate; All Individuals below: - 50 percent of poverty level
+HC01_MOE_VC48,Total; Margin of Error; All Individuals below: - 50 percent of poverty level
+HC02_EST_VC48,Below poverty level; Estimate; All Individuals below: - 50 percent of poverty level
+HC02_MOE_VC48,Below poverty level; Margin of Error; All Individuals below: - 50 percent of poverty level
+HC03_EST_VC48,Percent below poverty level; Estimate; All Individuals below: - 50 percent of poverty level
+HC03_MOE_VC48,Percent below poverty level; Margin of Error; All Individuals below: - 50 percent of poverty level
+HC01_EST_VC49,Total; Estimate; All Individuals below: - 125 percent of poverty level
+HC01_MOE_VC49,Total; Margin of Error; All Individuals below: - 125 percent of poverty level
+HC02_EST_VC49,Below poverty level; Estimate; All Individuals below: - 125 percent of poverty level
+HC02_MOE_VC49,Below poverty level; Margin of Error; All Individuals below: - 125 percent of poverty level
+HC03_EST_VC49,Percent below poverty level; Estimate; All Individuals below: - 125 percent of poverty level
+HC03_MOE_VC49,Percent below poverty level; Margin of Error; All Individuals below: - 125 percent of poverty level
+HC01_EST_VC50,Total; Estimate; All Individuals below: - 150 percent of poverty level
+HC01_MOE_VC50,Total; Margin of Error; All Individuals below: - 150 percent of poverty level
+HC02_EST_VC50,Below poverty level; Estimate; All Individuals below: - 150 percent of poverty level
+HC02_MOE_VC50,Below poverty level; Margin of Error; All Individuals below: - 150 percent of poverty level
+HC03_EST_VC50,Percent below poverty level; Estimate; All Individuals below: - 150 percent of poverty level
+HC03_MOE_VC50,Percent below poverty level; Margin of Error; All Individuals below: - 150 percent of poverty level
+HC01_EST_VC51,Total; Estimate; All Individuals below: - 185 percent of poverty level
+HC01_MOE_VC51,Total; Margin of Error; All Individuals below: - 185 percent of poverty level
+HC02_EST_VC51,Below poverty level; Estimate; All Individuals below: - 185 percent of poverty level
+HC02_MOE_VC51,Below poverty level; Margin of Error; All Individuals below: - 185 percent of poverty level
+HC03_EST_VC51,Percent below poverty level; Estimate; All Individuals below: - 185 percent of poverty level
+HC03_MOE_VC51,Percent below poverty level; Margin of Error; All Individuals below: - 185 percent of poverty level
+HC01_EST_VC52,Total; Estimate; All Individuals below: - 200 percent of poverty level
+HC01_MOE_VC52,Total; Margin of Error; All Individuals below: - 200 percent of poverty level
+HC02_EST_VC52,Below poverty level; Estimate; All Individuals below: - 200 percent of poverty level
+HC02_MOE_VC52,Below poverty level; Margin of Error; All Individuals below: - 200 percent of poverty level
+HC03_EST_VC52,Percent below poverty level; Estimate; All Individuals below: - 200 percent of poverty level
+HC03_MOE_VC52,Percent below poverty level; Margin of Error; All Individuals below: - 200 percent of poverty level
+HC01_EST_VC54,Total; Estimate; Unrelated individuals for whom poverty status is determined
+HC01_MOE_VC54,Total; Margin of Error; Unrelated individuals for whom poverty status is determined
+HC02_EST_VC54,Below poverty level; Estimate; Unrelated individuals for whom poverty status is determined
+HC02_MOE_VC54,Below poverty level; Margin of Error; Unrelated individuals for whom poverty status is determined
+HC03_EST_VC54,Percent below poverty level; Estimate; Unrelated individuals for whom poverty status is determined
+HC03_MOE_VC54,Percent below poverty level; Margin of Error; Unrelated individuals for whom poverty status is determined
+HC01_EST_VC55,Total; Estimate; Unrelated individuals for whom poverty status is determined - Male
+HC01_MOE_VC55,Total; Margin of Error; Unrelated individuals for whom poverty status is determined - Male
+HC02_EST_VC55,Below poverty level; Estimate; Unrelated individuals for whom poverty status is determined - Male
+HC02_MOE_VC55,Below poverty level; Margin of Error; Unrelated individuals for whom poverty status is determined - Male
+HC03_EST_VC55,Percent below poverty level; Estimate; Unrelated individuals for whom poverty status is determined - Male
+HC03_MOE_VC55,Percent below poverty level; Margin of Error; Unrelated individuals for whom poverty status is determined - Male
+HC01_EST_VC56,Total; Estimate; Unrelated individuals for whom poverty status is determined - Female
+HC01_MOE_VC56,Total; Margin of Error; Unrelated individuals for whom poverty status is determined - Female
+HC02_EST_VC56,Below poverty level; Estimate; Unrelated individuals for whom poverty status is determined - Female
+HC02_MOE_VC56,Below poverty level; Margin of Error; Unrelated individuals for whom poverty status is determined - Female
+HC03_EST_VC56,Percent below poverty level; Estimate; Unrelated individuals for whom poverty status is determined - Female
+HC03_MOE_VC56,Percent below poverty level; Margin of Error; Unrelated individuals for whom poverty status is determined - Female
+HC01_EST_VC58,Total; Estimate; Mean income deficit for unrelated individuals (dollars)
+HC01_MOE_VC58,Total; Margin of Error; Mean income deficit for unrelated individuals (dollars)
+HC02_EST_VC58,Below poverty level; Estimate; Mean income deficit for unrelated individuals (dollars)
+HC02_MOE_VC58,Below poverty level; Margin of Error; Mean income deficit for unrelated individuals (dollars)
+HC03_EST_VC58,Percent below poverty level; Estimate; Mean income deficit for unrelated individuals (dollars)
+HC03_MOE_VC58,Percent below poverty level; Margin of Error; Mean income deficit for unrelated individuals (dollars)
+HC01_EST_VC60,"Total; Estimate; Worked full-time, year-round in the past 12 months"
+HC01_MOE_VC60,"Total; Margin of Error; Worked full-time, year-round in the past 12 months"
+HC02_EST_VC60,"Below poverty level; Estimate; Worked full-time, year-round in the past 12 months"
+HC02_MOE_VC60,"Below poverty level; Margin of Error; Worked full-time, year-round in the past 12 months"
+HC03_EST_VC60,"Percent below poverty level; Estimate; Worked full-time, year-round in the past 12 months"
+HC03_MOE_VC60,"Percent below poverty level; Margin of Error; Worked full-time, year-round in the past 12 months"
+HC01_EST_VC61,"Total; Estimate; Worked less than full-time, year-round in the past 12 months"
+HC01_MOE_VC61,"Total; Margin of Error; Worked less than full-time, year-round in the past 12 months"
+HC02_EST_VC61,"Below poverty level; Estimate; Worked less than full-time, year-round in the past 12 months"
+HC02_MOE_VC61,"Below poverty level; Margin of Error; Worked less than full-time, year-round in the past 12 months"
+HC03_EST_VC61,"Percent below poverty level; Estimate; Worked less than full-time, year-round in the past 12 months"
+HC03_MOE_VC61,"Percent below poverty level; Margin of Error; Worked less than full-time, year-round in the past 12 months"
+HC01_EST_VC62,Total; Estimate; Did not work
+HC01_MOE_VC62,Total; Margin of Error; Did not work
+HC02_EST_VC62,Below poverty level; Estimate; Did not work
+HC02_MOE_VC62,Below poverty level; Margin of Error; Did not work
+HC03_EST_VC62,Percent below poverty level; Estimate; Did not work
+HC03_MOE_VC62,Percent below poverty level; Margin of Error; Did not work
+HC01_EST_VC65,Total; Estimate; PERCENT IMPUTED - Poverty status for individuals
+HC01_MOE_VC65,Total; Margin of Error; PERCENT IMPUTED - Poverty status for individuals
+HC02_EST_VC65,Below poverty level; Estimate; PERCENT IMPUTED - Poverty status for individuals
+HC02_MOE_VC65,Below poverty level; Margin of Error; PERCENT IMPUTED - Poverty status for individuals
+HC03_EST_VC65,Percent below poverty level; Estimate; PERCENT IMPUTED - Poverty status for individuals
+HC03_MOE_VC65,Percent below poverty level; Margin of Error; PERCENT IMPUTED - Poverty status for individuals

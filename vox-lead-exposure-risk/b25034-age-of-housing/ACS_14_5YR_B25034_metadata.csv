@@ -1,0 +1,23 @@
+GEO.id,Id
+GEO.id2,Id2
+GEO.display-label,Geography
+HD01_VD01,Estimate; Total:
+HD02_VD01,Margin of Error; Total:
+HD01_VD02,Estimate; Total: - Built 2010 or later
+HD02_VD02,Margin of Error; Total: - Built 2010 or later
+HD01_VD03,Estimate; Total: - Built 2000 to 2009
+HD02_VD03,Margin of Error; Total: - Built 2000 to 2009
+HD01_VD04,Estimate; Total: - Built 1990 to 1999
+HD02_VD04,Margin of Error; Total: - Built 1990 to 1999
+HD01_VD05,Estimate; Total: - Built 1980 to 1989
+HD02_VD05,Margin of Error; Total: - Built 1980 to 1989
+HD01_VD06,Estimate; Total: - Built 1970 to 1979
+HD02_VD06,Margin of Error; Total: - Built 1970 to 1979
+HD01_VD07,Estimate; Total: - Built 1960 to 1969
+HD02_VD07,Margin of Error; Total: - Built 1960 to 1969
+HD01_VD08,Estimate; Total: - Built 1950 to 1959
+HD02_VD08,Margin of Error; Total: - Built 1950 to 1959
+HD01_VD09,Estimate; Total: - Built 1940 to 1949
+HD02_VD09,Margin of Error; Total: - Built 1940 to 1949
+HD01_VD10,Estimate; Total: - Built 1939 or earlier
+HD02_VD10,Margin of Error; Total: - Built 1939 or earlier
