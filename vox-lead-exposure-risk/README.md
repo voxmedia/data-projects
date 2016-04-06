@@ -3,7 +3,7 @@
 ## About the project
 This project does two things. It generates a vector national census tract tile set joined to lead exposure risk data. It can also run a series of scripts in the `analysis` directory to classify census tracts as urban or rural and what its corresponding lead exposure risk is.
 
-The [methodology](https://assets.documentcloud.org/documents/2644455/Expert-Panel-Childhood-Lead-Screening-Guidelines.pdf) for calculating census tract level lead risk scores was developed by the [Washington State Department of Health](https://fortress.wa.gov/doh/wtn/WTNIBL/) in order to identify which geographic populations with a greater risk of lead poisoning. The model combines Census housing and poverty data to calculate a lead risk score for each census tract and then maps the scores as deciles from 1 to 10, where 1 is the lowest risk and 10 is the highest risk.
+The [methodology](https://assets.documentcloud.org/documents/2644455/Expert-Panel-Childhood-Lead-Screening-Guidelines.pdf) for calculating census tract level lead risk scores was developed by the [Washington State Department of Health](https://fortress.wa.gov/doh/wtn/WTNIBL/) in order to identify which geographic populations have a greater risk of lead poisoning. The model combines Census housing and poverty data to calculate a lead risk score for each census tract and then maps the scores as deciles from 1 to 10, where 1 is the lowest risk and 10 is the highest risk.
 
 Vox.com worked with one of the chief epidemiologists responsible for developing the Washington State Department of Health's methodology, Rad Cunningham, to replicate the methodology nationally. This is our [story](http://www.vox.com/a/vox-lead-exposure-risk-map). We hope you tell your own.
 
