@@ -1,6 +1,8 @@
 # F.A.A. approved commercial drone permits
 
-## NOTE: The last and final update to the database was Dec. 31, 2015.
+--------
+## Note: The last and final update to the database was Dec. 31, 2015.
+--------
 
 This folder contains a CSV of all companies that have been granted a [333 exemption](https://www.faa.gov/uas/legislative_programs/section_333/) from the Federal Aviation Administration, which permits commercial drone operations in the U.S.
 
