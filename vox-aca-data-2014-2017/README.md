@@ -6,9 +6,9 @@ This project uses ACA data from Healthcare.gov to count the number of plans avai
 All of the data is `ObamacareParticipationByYear` folder.
 
 What's included in each file:
-1) agg-county-state-plan-count: Pivot table with state and county counts of the number of insurers present for each year
-2) issuers: list of all issuers in a given county
-3) detailed-county-state-plan-coun: a more detailed version of the pivot table, showing you which insurers are present in each county
+1. agg-county-state-plan-count: Pivot table with state and county counts of the number of insurers present for each year
+2. issuers: list of all issuers in a given county
+3. detailed-county-state-plan-coun: a more detailed version of the pivot table, showing you which insurers are present in each county
 
 This is our [story](http://www.vox.com/a/obamacare-competition-2017). We hope you use this data to tell your own.
 
