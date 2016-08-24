@@ -21,7 +21,7 @@ This is our [story](http://www.vox.com/a/obamacare-competition-2017). We hope yo
 
 # Data Notes for generating 2017 data
 AETNA
-- Aetna is reported to operate in 15 states, but 2016 Healthcare.gov data only lists 12 states because KY has its own state-based exchange and because Aetna operates as Coventry in MO and NE.
+- Aetna is reported to operate in 15 states, but 2016 Healthcare.gov data only lists 12 states because KY has its own state-based exchange and because Aetna operates as Coventry in MO.
 - There are 3 states where both Coventry and Aetna operate: FL, IL and VA. In both FL and IL as Aetna is exiting, Coventry is leaving as well.
 
 UHC

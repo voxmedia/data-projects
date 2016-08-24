@@ -124,8 +124,8 @@ for row in data:
     if row['s'] == 'TX' and row['i'] == 'Aetna Life Insurance Company':
         continue
     # Aetna operates as Coventry in NE and MO
-    if row['s'] == 'NE' and row['i'] == 'Coventry Health Care of Nebraska Inc.':
-        continue
+    # if row['s'] == 'NE' and row['i'] == 'Coventry Health Care of Nebraska Inc.':
+    #     continue
     if row['s'] == 'MO' and row['i'] == 'Coventry Health & Life Insurance Co.':
         continue
     if row['s'] == 'MO' and row['i'] == 'Coventry Health & Life':
