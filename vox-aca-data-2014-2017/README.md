@@ -3,7 +3,12 @@
 ## About the project
 This project uses ACA data from Healthcare.gov to count the number of plans available in a given county. To generate 2017 plan information, we rely on news reports and interviews with health insurance plans to show where companies plan to sell coverage in 2017 (all of this is outlined in `issuers-by-county-17.py`).
 
-All of the data is `ObamacareParticipationByYear` folder. The `YEAR-count` files show the number of insurers operating in a county (you can also group by state in Excel).
+All of the data is `ObamacareParticipationByYear` folder.
+
+What's included in each file:
+1) agg-county-state-plan-count: Pivot table with state and county counts of the number of insurers present for each year
+2) issuers: list of all issuers in a given county
+3) detailed-county-state-plan-coun: a more detailed version of the pivot table, showing you which insurers are present in each county
 
 This is our [story](http://www.vox.com/a/obamacare-competition-2017). We hope you use this data to tell your own.
 
