@@ -1,0 +1,21 @@
+group,description
+0,"unknown or NIU"
+1,"agriculture, forestry, and fisheries"
+2,mining
+3,construction
+4,manufacturing
+5,transportation
+6,communications
+7,utilities and sanitary services
+8,wholesale trade
+9,retail trade
+10,"finance, insurance, and real estate"
+11,business and repair services
+12,personal services
+13,entertainment and recreation services
+14,offices and clinics of health care
+15,legal services
+16,education services
+17,other human services
+18,public administration
+19,active duty military
