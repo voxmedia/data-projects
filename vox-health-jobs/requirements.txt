@@ -40,7 +40,7 @@ six==1.10.0
 statsmodels==0.8.0
 terminado==0.6
 testpath==0.3
-tornado==4.4.3
+tornado==6.3.3
 traitlets==4.3.2
 wcwidth==0.1.7
 webencodings==0.5.1
